@@ -6,8 +6,30 @@ METHOD:PUBLISH
 X-WR-CALNAME:PIPSC Events — Halifax\, NS
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:pipsc-event-80350@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260717T100000Z
+DTEND:20260717T110000Z
+SUMMARY:Q&A with Katie Francis
+LOCATION:Queen Square\, 45 Alderney Drive\, Room 1524\, Dartmouth
+DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/qa-with-katie-f
+ rancis-2/
+URL:https://pipsc.ca/events/qa-with-katie-francis-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80233@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260717T120000Z
+DTEND:20260717T130000Z
+SUMMARY:Q&A with Katie Francis
+LOCATION:Needle Boardroom\, BIO\, 1 Challenger Drive\, Dartmouth
+DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/qa-with-katie-f
+ rancis/
+URL:https://pipsc.ca/events/qa-with-katie-francis/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-80802@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260718T110000Z
 DTEND:20260718T150000Z
 SUMMARY:Halifax Pride Parade
@@ -15,5 +37,27 @@ LOCATION:Parade Mustering Grounds\, 5775 Cogswell Street\, Halifax
 DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/halifax-pride-p
  arade/
 URL:https://pipsc.ca/events/halifax-pride-parade/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79815@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T163000Z
+DTEND:20260724T183000Z
+SUMMARY:Meet and Greet with David Sutherland
+LOCATION:The Pint\, 1575 Argyle Street\, Halifax
+DESCRIPTION:Region: Halifax DND\, NS\, Halifax\, NS\nhttps://pipsc.ca/eve
+ nts/meet-and-greet-with-david-sutherland/
+URL:https://pipsc.ca/events/meet-and-greet-with-david-sutherland/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79961@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T190000Z
+DTEND:20260724T210000Z
+SUMMARY:Halifax Wanderers Soccer Night
+LOCATION:Wanderers Grounds\, 5711 Sackville Street\, Halifax
+DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/halifax-wandere
+ rs-soccer-night-2/
+URL:https://pipsc.ca/events/halifax-wanderers-soccer-night-2/
 END:VEVENT
 END:VCALENDAR

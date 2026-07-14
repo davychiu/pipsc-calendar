@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Calgary\, AB
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-78706@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T190000Z
+DTEND:20260724T213000Z
+SUMMARY:PNYPC Calgary – PIPSC Knows Ball…….Basketball -2026
+DESCRIPTION:Region: Calgary\, AB\nhttps://pipsc.ca/events/pnypc-calgary-p
+ ipsc-knows-ball-basketball-2026/
+URL:https://pipsc.ca/events/pnypc-calgary-pipsc-knows-ball-basketball-202
+ 6/
+END:VEVENT
+END:VCALENDAR

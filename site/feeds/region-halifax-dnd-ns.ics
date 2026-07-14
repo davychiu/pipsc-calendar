@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Halifax DND\, NS
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-79815@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T163000Z
+DTEND:20260724T183000Z
+SUMMARY:Meet and Greet with David Sutherland
+LOCATION:The Pint\, 1575 Argyle Street\, Halifax
+DESCRIPTION:Region: Halifax DND\, NS\, Halifax\, NS\nhttps://pipsc.ca/eve
+ nts/meet-and-greet-with-david-sutherland/
+URL:https://pipsc.ca/events/meet-and-greet-with-david-sutherland/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79958@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T190000Z
+DTEND:20260724T210000Z
+SUMMARY:Halifax Wanderers Soccer Night
+LOCATION:Wanderers Grounds\, 5711 Sackville Street\, Halifax
+DESCRIPTION:Region: Halifax DND\, NS\nhttps://pipsc.ca/events/halifax-wan
+ derers-soccer-night/
+URL:https://pipsc.ca/events/halifax-wanderers-soccer-night/
+END:VEVENT
+END:VCALENDAR

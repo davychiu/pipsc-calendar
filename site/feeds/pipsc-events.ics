@@ -7,7 +7,7 @@ X-WR-CALNAME:PIPSC Events
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:pipsc-event-81501@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260713T210000Z
 DTEND:20260714T020000Z
 SUMMARY:Edmonton DND SH Outreach
@@ -17,8 +17,19 @@ DESCRIPTION:Group: Health Services Group\nhttps://pipsc.ca/events/edmonto
 URL:https://pipsc.ca/events/edmonton-dnd-sh-outreach/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80407@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260714T190000Z
+DTEND:20260714T210000Z
+SUMMARY:You’re invited to Bargaining 101 virtual session!
+DESCRIPTION:Region: National Capital Region (including foreign)\nhttps://
+ pipsc.ca/events/youre-invited-to-bargaining-101-virtual-session/
+URL:https://pipsc.ca/events/youre-invited-to-bargaining-101-virtual-sessi
+ on/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-78923@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260714T230000Z
 DTEND:20260715T023000Z
 SUMMARY:SH Edmonton Subgroup Annual General Meeting
@@ -30,7 +41,7 @@ URL:https://pipsc.ca/events/sh-edmonton-subgroup-annual-general-meeting-2
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-80230@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260714T230000Z
 DTEND:20260715T010000Z
 SUMMARY:Bargaining 101
@@ -40,7 +51,7 @@ URL:https://pipsc.ca/events/bargaining-101/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-76555@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260715T140000Z
 DTEND:20260717T220000Z
 SUMMARY:MAGE Bargaining Prep – Jul 15-17/26 (In-Person)
@@ -50,8 +61,30 @@ DESCRIPTION:Group: Manitoba Association of Government Engineers Group\nht
 URL:https://pipsc.ca/events/mage-bargaining-prep-jul-15-17-26-in-person/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80350@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260717T100000Z
+DTEND:20260717T110000Z
+SUMMARY:Q&A with Katie Francis
+LOCATION:Queen Square\, 45 Alderney Drive\, Room 1524\, Dartmouth
+DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/qa-with-katie-f
+ rancis-2/
+URL:https://pipsc.ca/events/qa-with-katie-francis-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80233@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260717T120000Z
+DTEND:20260717T130000Z
+SUMMARY:Q&A with Katie Francis
+LOCATION:Needle Boardroom\, BIO\, 1 Challenger Drive\, Dartmouth
+DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/qa-with-katie-f
+ rancis/
+URL:https://pipsc.ca/events/qa-with-katie-francis/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-78749@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260717T130000Z
 DTEND:20260718T210000Z
 SUMMARY:AFS Executive & Planning Meetings
@@ -62,7 +95,7 @@ URL:https://pipsc.ca/events/afs-executive-planning-meetings/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-80266@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260717T160000Z
 DTEND:20260717T170000Z
 SUMMARY:Basic Steward’s School Call For Interest
@@ -71,8 +104,32 @@ DESCRIPTION:Region: Ottawa Centreville\, NCR\nhttps://pipsc.ca/events/bas
 URL:https://pipsc.ca/events/basic-stewards-school-call-for-interest/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-74181@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260717T170000Z
+DTEND:20260717T210000Z
+SUMMARY:Ontario and Nunavut Regional Training Committee Meeting #2
+LOCATION:110 Erb Street\, Waterloo
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
+ ntario-and-nunavut-regional-training-committee-meeting-2/
+URL:https://pipsc.ca/events/ontario-and-nunavut-regional-training-committ
+ ee-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80405@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260717T170000Z
+DTEND:20260717T203000Z
+SUMMARY:CFIA-VM/CFIA-S&A Bargaining Survey Preparation Meeting (Virtual)
+DESCRIPTION:Group: CFIA - Veterinary Medicine Group\nhttps://pipsc.ca/eve
+ nts/cfia-vm-cfia-sa-bargaining-survey-preparation-meeting-july-14-26-virt
+ ual/
+URL:https://pipsc.ca/events/cfia-vm-cfia-sa-bargaining-survey-preparation
+ -meeting-july-14-26-virtual/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-80802@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260718T110000Z
 DTEND:20260718T150000Z
 SUMMARY:Halifax Pride Parade
@@ -82,8 +139,19 @@ DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/halifax-pride-p
 URL:https://pipsc.ca/events/halifax-pride-parade/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-70318@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260718T130000Z
+DTEND:20260718T210000Z
+SUMMARY:Ontario and Nunavut Region Executive Meeting #4
+LOCATION:Delta Waterloo\, 110 Erb Street West\, Waterloo\, ON
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
+ ntario-and-nunavut-region-executive-meeting/
+URL:https://pipsc.ca/events/ontario-and-nunavut-region-executive-meeting/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-79162@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260718T133000Z
 DTEND:20260718T180000Z
 SUMMARY:Ottawa West Branch 2026 BBQ
@@ -92,8 +160,31 @@ DESCRIPTION:Region: Ottawa West\, NCR\nhttps://pipsc.ca/events/ottawa-wes
 URL:https://pipsc.ca/events/ottawa-west-branch-2026-bbq/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-76633@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260720T130000Z
+DTEND:20260720T210000Z
+SUMMARY:AC Steering Committee Meeting of July 20\, 2026
+LOCATION:Michele Demers Conference Centre\, 250 Tremblay\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/ac-steering-committee-meeting-of-july
+ -20-2026/
+URL:https://pipsc.ca/events/ac-steering-committee-meeting-of-july-20-2026
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-78747@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260720T150000Z
+DTEND:20260721T000000Z
+SUMMARY:BCFNHA Executive Committee Meeting – Jul 20/26 (Virtual)
+DESCRIPTION:Group: BC First Nations Health Authority Group\nhttps://pipsc
+ .ca/events/bcfnha-executive-committee-meeting-jul-20-26-virtual/
+URL:https://pipsc.ca/events/bcfnha-executive-committee-meeting-jul-20-26-
+ virtual/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-75119@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260721T130000Z
 DTEND:20260723T210000Z
 SUMMARY:NR Bargaining Preparation Meeting (Hybrid)
@@ -106,7 +197,7 @@ URL:https://pipsc.ca/events/nr-bargaining-preparation-meeting-july-21-23-
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-79186@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260721T160000Z
 DTEND:20260724T000000Z
 SUMMARY:BCFNHA Bargaining w Employer (July 21-23)
@@ -117,7 +208,7 @@ URL:https://pipsc.ca/events/bcfnha-bargaining-w-employer-july-21-23/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81068@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260721T160000Z
 DTEND:20260721T170000Z
 SUMMARY:Monthly Virtual SP Subgroup Presidents and Vice-Presidents Meetin
@@ -130,7 +221,7 @@ URL:https://pipsc.ca/events/monthly-virtual-sp-subgroup-presidents-and-vi
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81583@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260721T170000Z
 DTEND:20260721T200000Z
 SUMMARY:Interbranch Union Management Consultation
@@ -141,7 +232,7 @@ URL:https://pipsc.ca/events/interbranch-union-management-consultation/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81507@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260721T200000Z
 DTEND:20260722T010000Z
 SUMMARY:Borden PIPSC Member Meet & Greet
@@ -152,7 +243,7 @@ URL:https://pipsc.ca/events/borden-pipsc-member-meet-greet/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81510@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260722T200000Z
 DTEND:20260723T010000Z
 SUMMARY:Trenton PIPSC Member Meet & Greet
@@ -163,7 +254,7 @@ URL:https://pipsc.ca/events/trenton-pipsc-member-meet-greet/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81512@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260723T200000Z
 DTEND:20260724T010000Z
 SUMMARY:Kingston PIPSC Member Meet & Greet
@@ -174,7 +265,7 @@ URL:https://pipsc.ca/events/kingston-pipsc-member-meet-greet/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-75883@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260724T130000Z
 DTEND:20260724T210000Z
 SUMMARY:Finance Committee Meeting
@@ -184,8 +275,52 @@ DESCRIPTION:https://pipsc.ca/events/finance-committee-3/
 URL:https://pipsc.ca/events/finance-committee-3/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-79815@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T163000Z
+DTEND:20260724T183000Z
+SUMMARY:Meet and Greet with David Sutherland
+LOCATION:The Pint\, 1575 Argyle Street\, Halifax
+DESCRIPTION:Region: Halifax DND\, NS\, Halifax\, NS\nhttps://pipsc.ca/eve
+ nts/meet-and-greet-with-david-sutherland/
+URL:https://pipsc.ca/events/meet-and-greet-with-david-sutherland/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-78706@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T190000Z
+DTEND:20260724T213000Z
+SUMMARY:PNYPC Calgary – PIPSC Knows Ball…….Basketball -2026
+DESCRIPTION:Region: Calgary\, AB\nhttps://pipsc.ca/events/pnypc-calgary-p
+ ipsc-knows-ball-basketball-2026/
+URL:https://pipsc.ca/events/pnypc-calgary-pipsc-knows-ball-basketball-202
+ 6/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79958@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T190000Z
+DTEND:20260724T210000Z
+SUMMARY:Halifax Wanderers Soccer Night
+LOCATION:Wanderers Grounds\, 5711 Sackville Street\, Halifax
+DESCRIPTION:Region: Halifax DND\, NS\nhttps://pipsc.ca/events/halifax-wan
+ derers-soccer-night/
+URL:https://pipsc.ca/events/halifax-wanderers-soccer-night/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79961@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260724T190000Z
+DTEND:20260724T210000Z
+SUMMARY:Halifax Wanderers Soccer Night
+LOCATION:Wanderers Grounds\, 5711 Sackville Street\, Halifax
+DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/halifax-wandere
+ rs-soccer-night-2/
+URL:https://pipsc.ca/events/halifax-wanderers-soccer-night-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81497@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260730T180000Z
 DTEND:20260730T200000Z
 SUMMARY:PIPSC Meet & Greet with VP Dave Sutherland
@@ -195,8 +330,31 @@ DESCRIPTION:Region: St. John's\, NL\nhttps://pipsc.ca/events/pipsc-meet-g
 URL:https://pipsc.ca/events/pipsc-meet-greet-with-vp-dave-sutherland/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-75972@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260804T130000Z
+DTEND:20260804T210000Z
+SUMMARY:ECC Meeting -IN PERSON
+LOCATION:-\, -
+DESCRIPTION:https://pipsc.ca/events/ecc-meeting-in-person/
+URL:https://pipsc.ca/events/ecc-meeting-in-person/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80365@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260805T200000Z
+DTEND:20260805T230000Z
+SUMMARY:2026 Fireworks Cruise Summer Social Event – PIPSC AAFC Branch 
+ NCR
+DESCRIPTION:Region: Agriculture & Agri-Food Canada\, NCR\, National Capit
+ al Region (including foreign)\nhttps://pipsc.ca/events/2026-fireworks-cru
+ ise-summer-social-event-pipsc-aafc-branch-ncr-2/
+URL:https://pipsc.ca/events/2026-fireworks-cruise-summer-social-event-pip
+ sc-aafc-branch-ncr-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-79600@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260806T000000Z
 DTEND:20260806T030000Z
 SUMMARY:2026 Fireworks Cruise Summer – AAFC Branch
@@ -205,8 +363,20 @@ DESCRIPTION:https://pipsc.ca/events/2026-fireworks-cruise-summer-aafc-bra
 URL:https://pipsc.ca/events/2026-fireworks-cruise-summer-aafc-branch/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80315@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260806T000000Z
+DTEND:20260806T030000Z
+SUMMARY:2026 Fireworks Cruise Summer Social Event – PIPSC AAFC Branch N
+ CR
+DESCRIPTION:https://pipsc.ca/events/2026-fireworks-cruise-summer-social-e
+ vent-pipsc-aafc-branch-ncr/
+URL:https://pipsc.ca/events/2026-fireworks-cruise-summer-social-event-pip
+ sc-aafc-branch-ncr/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-4813@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260806T130000Z
 DTEND:20260807T210000Z
 SUMMARY:Board of Directors Meeting
@@ -217,7 +387,7 @@ URL:https://pipsc.ca/events/board-of-directors-meeting-4/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81602@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260808T110000Z
 DTEND:20260808T140000Z
 SUMMARY:Edmonton Branch Annual PIPSC Family Picnic 2026
@@ -228,8 +398,54 @@ URL:https://pipsc.ca/events/edmonton-branch-annual-pipsc-family-picnic-20
  26/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-76557@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260810T140000Z
+DTEND:20260811T220000Z
+SUMMARY:MAGE Bargaining Prep – Aug 10-11/26 (In-Person)
+LOCATION:PIPSC Winnipeg Office\, 363 Broadway Suite 960\, Winnipeg
+DESCRIPTION:Group: Manitoba Association of Government Engineers Group\nht
+ tps://pipsc.ca/events/mage-bargaining-prep-aug-10-11-26-in-person/
+URL:https://pipsc.ca/events/mage-bargaining-prep-aug-10-11-26-in-person/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80379@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260812T150000Z
+DTEND:20260816T190000Z
+SUMMARY:Activate 2026
+LOCATION:Hollyhock\, 445 Highfield Road\, Mansons Landing\, BC\, Mansons 
+ Landing
+DESCRIPTION:https://pipsc.ca/events/activate-2026/
+URL:https://pipsc.ca/events/activate-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-77727@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260813T130000Z
+DTEND:20260813T210000Z
+SUMMARY:Strategic Bargaining Committee Meeting of August 13\, 2026
+LOCATION:Ottawa Rogers Centre\, 55 Colonel By Dr.\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/strategic-bargaining-committee-meetin
+ g-of-august-13-2026/
+URL:https://pipsc.ca/events/strategic-bargaining-committee-meeting-of-aug
+ ust-13-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-8503@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260814T130000Z
+DTEND:20260814T210000Z
+SUMMARY:Advisory Council Meeting of August 14\, 2026
+LOCATION:The Delta Hotel\, 101 Lyon St. N\, Ottawa\, ON K1R 5T9\, The Del
+ ta Hotel
+DESCRIPTION:https://pipsc.ca/events/advisory-council-meeting-of-august-14
+ -2026/
+URL:https://pipsc.ca/events/advisory-council-meeting-of-august-14-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-4406@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260815T130000Z
 DTEND:20260815T210000Z
 SUMMARY:Working Group on Consultation Meeting of August 15\, 2026
@@ -240,8 +456,21 @@ URL:https://pipsc.ca/events/working-group-on-consultation-meeting-of-augu
  st-15-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-72069@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260815T130000Z
+DTEND:20260815T210000Z
+SUMMARY:Separate Employers Group Meeting of August 15\, 2026
+LOCATION:Michèle Demers Conference Centre (PIPSC National Office)\, 250 
+ Tremblay Rd\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/separate-employers-group-meeting-of-a
+ ugust-15-2026/
+URL:https://pipsc.ca/events/separate-employers-group-meeting-of-august-15
+ -2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-76561@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260817T130000Z
 DTEND:20260817T210000Z
 SUMMARY:AFS Bargaining Prep Meeting
@@ -252,7 +481,7 @@ URL:https://pipsc.ca/events/afs-bargaining-prep-meeting-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81077@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260818T130000Z
 DTEND:20260818T210000Z
 SUMMARY:AFS Bargaining with the employer
@@ -263,7 +492,7 @@ URL:https://pipsc.ca/events/afs-bargaining-with-the-employer/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81069@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260818T160000Z
 DTEND:20260818T170000Z
 SUMMARY:Monthly Virtual SP Subgroup Presidents and Vice-Presidents Meetin
@@ -276,7 +505,7 @@ URL:https://pipsc.ca/events/monthly-virtual-sp-subgroup-presidents-and-vi
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81632@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260820T120000Z
 SUMMARY:501 University Crescent SP Subgroup Lunch and Learn and Notice of
   AGM – August 20\, 2026
@@ -288,8 +517,31 @@ URL:https://pipsc.ca/events/501-university-crescent-sp-subgroup-lunch-and
  -learn-and-notice-of-agm-august-20-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80321@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260820T130000Z
+DTEND:20260820T210000Z
+SUMMARY:OSFI Bargaining Prep Meeting
+DESCRIPTION:Group: OSFI - Professional Employees Group\nhttps://pipsc.ca/
+ events/osfi-bargaining-prep-meeting-8/
+URL:https://pipsc.ca/events/osfi-bargaining-prep-meeting-8/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-64158@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260824T130000Z
+DTEND:20260827T210000Z
+SUMMARY:IT Bargaining Preparation and Bargaining with Employer (In Person
+ )
+LOCATION:TBS Offices\, 90 Elgin St.\, Ottawa\, ON
+DESCRIPTION:https://pipsc.ca/events/it-bargaining-preparation-and-bargain
+ ing-with-employer-aug-17-19-26-in-person/
+URL:https://pipsc.ca/events/it-bargaining-preparation-and-bargaining-with
+ -employer-aug-17-19-26-in-person/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-75370@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260825T130000Z
 DTEND:20260826T210000Z
 SUMMARY:SH Bargaining Meeting- August
@@ -300,7 +552,7 @@ URL:https://pipsc.ca/events/sh-bargaining-meeting-august/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81393@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260829T170000Z
 SUMMARY:Regina Branch Saskatchewan Roughrider Game Event – August 29\, 
  2026
@@ -311,8 +563,19 @@ URL:https://pipsc.ca/events/regina-branch-saskatchewan-roughrider-game-ev
  ent-august-29-2026/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80553@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260901T130000Z
+DTEND:20260901T210000Z
+SUMMARY:CER Call for Delegates for the 2026 PIPSC AGM
+DESCRIPTION:Group: National Energy Board - Professional Employees Group\n
+ https://pipsc.ca/events/cer-call-for-delegates-for-the-2026-pipsc-agm/
+URL:https://pipsc.ca/events/cer-call-for-delegates-for-the-2026-pipsc-agm
+ /
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81060@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260904T140000Z
 DTEND:20260904T220000Z
 SUMMARY:SAC Meeting
@@ -321,8 +584,29 @@ DESCRIPTION:https://pipsc.ca/events/sac-meeting-10/
 URL:https://pipsc.ca/events/sac-meeting-10/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80323@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260910T130000Z
+DTEND:20260910T210000Z
+SUMMARY:SP Bargaining Prep
+DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
+ pipsc.ca/events/sp-bargaining-prep-7/
+URL:https://pipsc.ca/events/sp-bargaining-prep-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80035@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260915T130000Z
+DTEND:20260915T210000Z
+SUMMARY:SP Bargaining Prep
+LOCATION:250 Tremblay\, Ottawa
+DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
+ pipsc.ca/events/sp-bargaining-prep-6/
+URL:https://pipsc.ca/events/sp-bargaining-prep-6/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81120@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260915T160000Z
 DTEND:20260915T170000Z
 SUMMARY:Réunion des Président*es et Vice-Président*es des sous-groupes
@@ -334,8 +618,31 @@ URL:https://pipsc.ca/events/reunion-des-presidentes-et-vice-presidentes-d
  es-sous-groupes-sp-reunion-mensuelle-virtuelle/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80033@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260916T130000Z
+DTEND:20260917T210000Z
+SUMMARY:SP Bargaining with TBS
+LOCATION:250 Tremblay\, Ottawa
+DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
+ pipsc.ca/events/sp-bargaining-with-tbs/
+URL:https://pipsc.ca/events/sp-bargaining-with-tbs/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-74184@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260917T130000Z
+DTEND:20260917T160000Z
+SUMMARY:Ontario and Nunavut Regional Training Committee Meeting #3
+LOCATION:253 Taylor Road\, Niagara-on-the-Lake
+DESCRIPTION:https://pipsc.ca/events/ontario-and-nunavut-regional-training
+ -committee-meeting-3/
+URL:https://pipsc.ca/events/ontario-and-nunavut-regional-training-committ
+ ee-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-5138@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260917T170000Z
 DTEND:20260919T210000Z
 SUMMARY:Basic Steward Training
@@ -346,7 +653,7 @@ URL:https://pipsc.ca/events/atl-basic-steward-training/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-73892@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260918T170000Z
 DTEND:20260919T200000Z
 SUMMARY:Ontario and Nunavut Region Steward Council
@@ -357,8 +664,32 @@ DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
 URL:https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-2/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-79188@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260919T130000Z
+DTEND:20260919T210000Z
+SUMMARY:National Young Professionals Committee Meeting # 3
+LOCATION:Michèle Demers Conference Centre (PIPSC National Office)\, 250 
+ Tremblay Road\, Ottawa\, ON
+DESCRIPTION:https://pipsc.ca/events/national-young-professionals-committe
+ e-meeting-3-2/
+URL:https://pipsc.ca/events/national-young-professionals-committee-meetin
+ g-3-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-75111@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260922T130000Z
+DTEND:20260922T210000Z
+SUMMARY:NUREG Bargaining Prep Meeting
+LOCATION:280 Slater St.\, Ottawa
+DESCRIPTION:Group: Nuclear Regulatory Group\nhttps://pipsc.ca/events/nure
+ g-bargaining-prep-meeting-2/
+URL:https://pipsc.ca/events/nureg-bargaining-prep-meeting-2/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-69512@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260922T150000Z
 DTEND:20260923T230000Z
 SUMMARY:Board of Directors Meeting
@@ -367,8 +698,19 @@ DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-18/
 URL:https://pipsc.ca/events/board-of-directors-meeting-18/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-75113@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260923T130000Z
+DTEND:20260924T210000Z
+SUMMARY:NUREG Bargaining with the Employer
+LOCATION:280 Slater St.\, Ottawa
+DESCRIPTION:Group: Nuclear Regulatory Group\nhttps://pipsc.ca/events/nure
+ g-bargaining-with-the-employer/
+URL:https://pipsc.ca/events/nureg-bargaining-with-the-employer/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-4878@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260923T190000Z
 DTEND:20260923T230000Z
 SUMMARY:Prairie/NWT Regional Training Committee Meeting ( Sub-Meeting) 
@@ -382,7 +724,7 @@ URL:https://pipsc.ca/events/prairie-nwt-regional-training-committee-meeti
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-5203@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20260924T150000Z
 DTEND:20260924T220000Z
 SUMMARY:Prairie/NWT Regional Executive Meeting (Sub-Meeting) – Septembe
@@ -395,8 +737,31 @@ URL:https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-sub-me
  eting-september-24-2026-9-am-4-pm/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-78777@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20260929T130000Z
+DTEND:20260930T210000Z
+SUMMARY:HRDC Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/hrdc-meeting-14/
+URL:https://pipsc.ca/events/hrdc-meeting-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79155@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261002T113000Z
+DTEND:20261003T193000Z
+SUMMARY:CP Executive Committee Meeting – Oct 3/26 (Hybrid)
+LOCATION:Delta Hotels St. John's Conference Centre\, 120 New Gower St.\, 
+ St. John's
+DESCRIPTION:https://pipsc.ca/events/cp-executive-committee-meeting-oct-2-
+ 2026-hybrid/
+URL:https://pipsc.ca/events/cp-executive-committee-meeting-oct-2-2026-hyb
+ rid/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81614@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261002T113000Z
 DTEND:20261002T143000Z
 SUMMARY:SP Executive Half Day Meeting
@@ -407,7 +772,7 @@ URL:https://pipsc.ca/events/sp-executive-half-day-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81118@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261002T130000Z
 DTEND:20261002T200000Z
 SUMMARY:ESDC Steering Committe Meeting on Oct 2\, 2026
@@ -418,7 +783,7 @@ URL:https://pipsc.ca/events/esdc-steering-committe-meeting-on-oct-2-2026/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81616@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261002T153000Z
 DTEND:20261003T193000Z
 SUMMARY:SP Subgroups Presidents Meeting
@@ -428,8 +793,68 @@ DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
 URL:https://pipsc.ca/events/sp-subgroups-presidents-meeting/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80401@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261003T130000Z
+DTEND:20261003T210000Z
+SUMMARY:SH Executive Meeting
+LOCATION:250 Tremblay\, Ottawa
+DESCRIPTION:Group: Health Services Group\nhttps://pipsc.ca/events/sh-exec
+ utive-meeting-10/
+URL:https://pipsc.ca/events/sh-executive-meeting-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-72065@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261007T210000Z
+DTEND:20261008T000000Z
+SUMMARY:OSB Branch AGM
+LOCATION:250 Tremblay Rd\, Ottawa
+DESCRIPTION:Region: National Capital Region (including foreign)\, Ottawa 
+ South\, NCR\nhttps://pipsc.ca/events/osb-branch-agm-2/
+URL:https://pipsc.ca/events/osb-branch-agm-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-72067@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261017T130000Z
+DTEND:20261017T210000Z
+SUMMARY:Separate Employers Group Meeting of October 17\, 2026
+LOCATION:250 Tremblay Rd\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/separate-employers-group-meeting-of-o
+ ctober-17-2026/
+URL:https://pipsc.ca/events/separate-employers-group-meeting-of-october-1
+ 7-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-5139@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261021T130000Z
+DTEND:20261023T160000Z
+SUMMARY:Promotion de lieu de travail psychologiquement sains (2 jrs) et E
+ nquête d’incidents en santé et sécurité (0\,5 jrs)  octobre 2026
+LOCATION:Château Bromont\, Château Bromont\, 90\, rue Stanstead\, J2L1K
+ 6\, Bromont\, QC
+DESCRIPTION:Region: Québec Region\nhttps://pipsc.ca/events/ohs-courses-t
+ bc-in-french-and-in-person-october-2026/
+URL:https://pipsc.ca/events/ohs-courses-tbc-in-french-and-in-person-octob
+ er-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-74240@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261022T130000Z
+DTEND:20261024T160000Z
+SUMMARY:Cours de base pour nouveaux délégués (en présentiel) oct.2026
+LOCATION:90\, rue Stanstead\, Bromont
+DESCRIPTION:Region: Québec Region\nhttps://pipsc.ca/events/cours-de-base
+ -pour-nouveaux-delegues-en-presentiel-oct-2026/
+URL:https://pipsc.ca/events/cours-de-base-pour-nouveaux-delegues-en-prese
+ ntiel-oct-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81115@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261023T090000Z
 DTEND:20261024T170000Z
 SUMMARY:Occupational Health and Safety Training – October 23 & 24\, 202
@@ -441,7 +866,7 @@ URL:https://pipsc.ca/events/occupational-health-and-safety-training-octob
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-80759@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261023T150000Z
 DTEND:20261024T220000Z
 SUMMARY:Prairie/NWT Occupational Health and Safety Training – October 2
@@ -454,8 +879,30 @@ URL:https://pipsc.ca/events/prairie-nwt-occupational-health-and-safety-tr
  aining/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-10919@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261023T160000Z
+DTEND:20261024T200000Z
+SUMMARY:Atlantic Steward Council
+LOCATION:1515 South Park Street\, Imperial Ballroom\, Halifax
+DESCRIPTION:Region: Atlantic Region\nhttps://pipsc.ca/events/atlantic-ste
+ ward-council-2/
+URL:https://pipsc.ca/events/atlantic-steward-council-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-4246@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261030T010000Z
+DTEND:20261030T030000Z
+SUMMARY:Yukon Hospital Corp Group Executive  #4
+LOCATION:TBC\, Whitehorse\, Whitehorse
+DESCRIPTION:https://pipsc.ca/events/yukon-hospital-corp-group-executive-4
+ /
+URL:https://pipsc.ca/events/yukon-hospital-corp-group-executive-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81498@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261106T130000Z
 DTEND:20261106T203000Z
 SUMMARY:NRC-RO/RCO AGM Nov 6/26 (Hybrid)
@@ -466,7 +913,7 @@ URL:https://pipsc.ca/events/nrc-ro-rco-agm-nov-6-26-hybrid/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81062@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261106T150000Z
 DTEND:20261106T230000Z
 SUMMARY:SAC Meeting
@@ -476,7 +923,7 @@ URL:https://pipsc.ca/events/sac-meeting-11/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81494@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261107T130000Z
 DTEND:20261107T203000Z
 SUMMARY:NRC-RO/RCO Executive Committee Meeting Nov 7/26 (In Person)
@@ -488,8 +935,29 @@ URL:https://pipsc.ca/events/nrc-ro-rco-executive-committee-meeting-nov-7-
  26-in-person/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-4430@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261113T140000Z
+DTEND:20261114T220000Z
+SUMMARY:Extra Steward Training
+LOCATION:240 Brownlow Avenue\, Dartmouth
+DESCRIPTION:Region: Atlantic Region\nhttps://pipsc.ca/events/extra-stewar
+ d-training/
+URL:https://pipsc.ca/events/extra-steward-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-75888@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261113T140000Z
+DTEND:20261113T220000Z
+SUMMARY:Finance Committee
+LOCATION:250 Tremblay Rd\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/finance-committee-5/
+URL:https://pipsc.ca/events/finance-committee-5/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-64052@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261124T140000Z
 DTEND:20261125T220000Z
 SUMMARY:Board of Directors Meeting
@@ -499,7 +967,7 @@ URL:https://pipsc.ca/events/board-of-directors-meeting-17/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81707@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261125T170000Z
 DTEND:20261126T010000Z
 SUMMARY:RMG Executive Meeting
@@ -510,7 +978,7 @@ URL:https://pipsc.ca/events/rmg-executive-meeting-7/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-75872@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20261205T010000Z
 DTEND:20261206T010000Z
 SUMMARY:BC/Yukon Executive Leadership Training
@@ -520,8 +988,20 @@ DESCRIPTION:Region: British Columbia & Yukon Region\nhttps://pipsc.ca/eve
 URL:https://pipsc.ca/events/bc-yukon-executive-leadership-training/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-79746@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261227T170000Z
+DTEND:20261228T220000Z
+SUMMARY:Apply to join the National  Capital Region delegation to the PIPS
+ C 2026 AGM
+DESCRIPTION:Region: Ottawa Centreville\, NCR\nhttps://pipsc.ca/events/app
+ ly-to-join-the-nation-capital-region-delegation-to-the-pipsc-2026-agm/
+URL:https://pipsc.ca/events/apply-to-join-the-nation-capital-region-deleg
+ ation-to-the-pipsc-2026-agm/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-71808@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270115T140000Z
 DTEND:20270116T220000Z
 SUMMARY:Board of Directors Meeting
@@ -530,8 +1010,30 @@ DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-19/
 URL:https://pipsc.ca/events/board-of-directors-meeting-19/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-80403@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20270116T140000Z
+DTEND:20270116T220000Z
+SUMMARY:SH Executive Meeting
+LOCATION:250 Tremblay\, Ottawa
+DESCRIPTION:Group: Health Services Group\nhttps://pipsc.ca/events/sh-exec
+ utive-meeting-11/
+URL:https://pipsc.ca/events/sh-executive-meeting-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-72007@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20270305T140000Z
+DTEND:20270306T220000Z
+SUMMARY:Ontario and Nunavut Region Training – TBD
+LOCATION:6755 Fallsview Boulevard\, Niagara Falls\, ON
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
+ ntario-and-nunavut-region-training-tbd/
+URL:https://pipsc.ca/events/ontario-and-nunavut-region-training-tbd/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81620@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270311T160000Z
 DTEND:20270313T190000Z
 SUMMARY:Prairie/NWT Spring Basic Steward Training – March 11 -13\, 2027
@@ -542,8 +1044,20 @@ DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
 URL:https://pipsc.ca/events/prairie-nwt-spring-basic-steward-training/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-76635@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20270312T160000Z
+DTEND:20270313T160000Z
+SUMMARY:Atlantic Young Professionals Committee Meeting
+LOCATION:18 Queen Street\, Charlottetown
+DESCRIPTION:https://pipsc.ca/events/atlantic-young-professionals-committe
+ e-meeting-4/
+URL:https://pipsc.ca/events/atlantic-young-professionals-committee-meetin
+ g-4/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81671@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270514T170000Z
 DTEND:20270515T200000Z
 SUMMARY:85th Quebec Regional Council 2027
@@ -553,8 +1067,20 @@ DESCRIPTION:Region: Québec Region\nhttps://pipsc.ca/events/85th-quebec-r
 URL:https://pipsc.ca/events/85th-quebec-regional-council-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-72973@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20270526T180000Z
+DTEND:20270529T170000Z
+SUMMARY:Ontario and Nunavut May Labour School (Advanced Steward Training)
+LOCATION:253 Taylor Road\, SS4\, Niagara-on-the-Lake\, ON
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
+ ntario-and-nunavut-may-labour-school-advanced-steward-training/
+URL:https://pipsc.ca/events/ontario-and-nunavut-may-labour-school-advance
+ d-steward-training/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-72009@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270528T130000Z
 DTEND:20270529T210000Z
 SUMMARY:Board of Directors Meeting
@@ -564,7 +1090,7 @@ URL:https://pipsc.ca/events/board-of-directors-meeting-20/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81681@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270602T190000Z
 DTEND:20270602T230000Z
 SUMMARY:Prairie/NWT Region Training Committee Meeting (Sub-Mtg) – June 
@@ -578,7 +1104,7 @@ URL:https://pipsc.ca/events/prairie-nwt-training-committee-meeting-sub-mt
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81682@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270603T150000Z
 DTEND:20270603T220000Z
 SUMMARY:Prairie/NWT Region Regional Executive Meeting – June 3\, 2027
@@ -591,7 +1117,7 @@ URL:https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-june-3
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81705@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270604T150000Z
 DTEND:20270604T180000Z
 SUMMARY:Prairie/NWT Region Branch Presidents Meeting (sub-mtg) – June 4
@@ -605,7 +1131,7 @@ URL:https://pipsc.ca/events/prairie-nwt-branch-presidents-meeting-sub-mtg
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-7928@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270604T200000Z
 DTEND:20270605T220000Z
 SUMMARY:Prairie/NWT Region Regional Council – June 4-5\, 2027
@@ -616,8 +1142,19 @@ DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
 URL:https://pipsc.ca/events/prairie-nwt-regional-council-june-4-5-2027/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-76122@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20270614T130000Z
+DTEND:20270615T210000Z
+SUMMARY:Advisory Council Meeting of June 14-15\, 2027
+LOCATION:100 Kent Street K1P 5R7\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/advisory-council-meeting-of-june-14-1
+ 5-2027/
+URL:https://pipsc.ca/events/advisory-council-meeting-of-june-14-15-2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81702@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270812T130000Z
 DTEND:20270812T210000Z
 SUMMARY:Strategic Bargaining Committee Meeting of August 12\, 2027
@@ -629,7 +1166,7 @@ URL:https://pipsc.ca/events/strategic-bargaining-committee-meeting-of-aug
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-72012@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270909T130000Z
 DTEND:20270910T210000Z
 SUMMARY:Board of Directors Meeting
@@ -639,7 +1176,7 @@ URL:https://pipsc.ca/events/board-of-directors-meeting-21/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-79196@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270924T170000Z
 DTEND:20270925T210000Z
 SUMMARY:Ontario and Nunavut Region Steward Council
@@ -650,7 +1187,7 @@ URL:https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-3/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-72015@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20271015T130000Z
 DTEND:20271016T210000Z
 SUMMARY:Board of Directors Meeting
@@ -659,8 +1196,19 @@ DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-22/
 URL:https://pipsc.ca/events/board-of-directors-meeting-22/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-13640@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20271022T170000Z
+DTEND:20271023T210000Z
+SUMMARY:Atlantic Steward Council
+LOCATION:1990 Barrington Street\, Halifax
+DESCRIPTION:Region: Atlantic Region\nhttps://pipsc.ca/events/atlantic-ste
+ ward-council-3/
+URL:https://pipsc.ca/events/atlantic-steward-council-3/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-72017@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20271116T140000Z
 DTEND:20271117T220000Z
 SUMMARY:Board of Directors Meeting
@@ -669,8 +1217,29 @@ DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-23/
 URL:https://pipsc.ca/events/board-of-directors-meeting-23/
 END:VEVENT
 BEGIN:VEVENT
+UID:pipsc-event-75452@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20271203T130000Z
+DTEND:20271204T220000Z
+SUMMARY:PIPSC AGM 2027
+LOCATION:55 Colonel By Drive\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/pipsc-agm-2027/
+URL:https://pipsc.ca/events/pipsc-agm-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-76126@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20271206T140000Z
+DTEND:20271206T220000Z
+SUMMARY:Advisory Council Meeting of December 6\, 2027
+LOCATION:100 Kent Street K1P 5R7\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/advisory-council-meeting-of-december-
+ 6-2027/
+URL:https://pipsc.ca/events/advisory-council-meeting-of-december-6-2027/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-72020@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20271213T140000Z
 DTEND:20271214T220000Z
 SUMMARY:Board of Directors Meeting

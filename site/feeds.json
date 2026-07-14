@@ -2,14 +2,24 @@
  "all": "feeds/pipsc-events.ics",
  "regions": [
   {
+   "region": "National Capital Region (including foreign)",
+   "file": "feeds/region-national-capital-region-including-foreign.ics",
+   "count": 3
+  },
+  {
    "region": "Ottawa Centreville, NCR",
    "file": "feeds/region-ottawa-centreville-ncr.ics",
-   "count": 2
+   "count": 3
   },
   {
    "region": "Halifax, NS",
    "file": "feeds/region-halifax-ns.ics",
-   "count": 1
+   "count": 5
+  },
+  {
+   "region": "Ontario and Nunavut Region",
+   "file": "feeds/region-ontario-and-nunavut-region.ics",
+   "count": 6
   },
   {
    "region": "Ottawa West, NCR",
@@ -17,8 +27,23 @@
    "count": 1
   },
   {
+   "region": "Halifax DND, NS",
+   "file": "feeds/region-halifax-dnd-ns.ics",
+   "count": 2
+  },
+  {
+   "region": "Calgary, AB",
+   "file": "feeds/region-calgary-ab.ics",
+   "count": 1
+  },
+  {
    "region": "St. John's, NL",
    "file": "feeds/region-st-john-s-nl.ics",
+   "count": 1
+  },
+  {
+   "region": "Agriculture & Agri-Food Canada, NCR",
+   "file": "feeds/region-agriculture-agri-food-canada-ncr.ics",
    "count": 1
   },
   {
@@ -34,12 +59,7 @@
   {
    "region": "Atlantic Region",
    "file": "feeds/region-atlantic-region.ics",
-   "count": 1
-  },
-  {
-   "region": "Ontario and Nunavut Region",
-   "file": "feeds/region-ontario-and-nunavut-region.ics",
-   "count": 2
+   "count": 4
   },
   {
    "region": "Prairie/Northwest Territories Region",
@@ -47,13 +67,18 @@
    "count": 7
   },
   {
-   "region": "British Columbia & Yukon Region",
-   "file": "feeds/region-british-columbia-yukon-region.ics",
+   "region": "Ottawa South, NCR",
+   "file": "feeds/region-ottawa-south-ncr.ics",
    "count": 1
   },
   {
    "region": "Québec Region",
    "file": "feeds/region-qu-bec-region.ics",
+   "count": 3
+  },
+  {
+   "region": "British Columbia & Yukon Region",
+   "file": "feeds/region-british-columbia-yukon-region.ics",
    "count": 1
   }
  ]

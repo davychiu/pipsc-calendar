@@ -6,8 +6,34 @@ METHOD:PUBLISH
 X-WR-CALNAME:PIPSC Events — Québec Region
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:pipsc-event-5139@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261021T130000Z
+DTEND:20261023T160000Z
+SUMMARY:Promotion de lieu de travail psychologiquement sains (2 jrs) et E
+ nquête d’incidents en santé et sécurité (0\,5 jrs)  octobre 2026
+LOCATION:Château Bromont\, Château Bromont\, 90\, rue Stanstead\, J2L1K
+ 6\, Bromont\, QC
+DESCRIPTION:Region: Québec Region\nhttps://pipsc.ca/events/ohs-courses-t
+ bc-in-french-and-in-person-october-2026/
+URL:https://pipsc.ca/events/ohs-courses-tbc-in-french-and-in-person-octob
+ er-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-74240@davychiu.github.io
+DTSTAMP:20260714T160843Z
+DTSTART:20261022T130000Z
+DTEND:20261024T160000Z
+SUMMARY:Cours de base pour nouveaux délégués (en présentiel) oct.2026
+LOCATION:90\, rue Stanstead\, Bromont
+DESCRIPTION:Region: Québec Region\nhttps://pipsc.ca/events/cours-de-base
+ -pour-nouveaux-delegues-en-presentiel-oct-2026/
+URL:https://pipsc.ca/events/cours-de-base-pour-nouveaux-delegues-en-prese
+ ntiel-oct-2026/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-81671@davychiu.github.io
-DTSTAMP:20260714T143553Z
+DTSTAMP:20260714T160843Z
 DTSTART:20270514T170000Z
 DTEND:20270515T200000Z
 SUMMARY:85th Quebec Regional Council 2027
