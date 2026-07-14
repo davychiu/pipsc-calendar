@@ -1,0 +1,28 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Ottawa Centreville\, NCR
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-80230@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260714T230000Z
+DTEND:20260715T010000Z
+SUMMARY:Bargaining 101
+DESCRIPTION:Region: Ottawa Centreville\, NCR\nhttps://pipsc.ca/events/bar
+ gaining-101/
+URL:https://pipsc.ca/events/bargaining-101/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80266@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260717T160000Z
+DTEND:20260717T170000Z
+SUMMARY:Basic Steward’s School Call For Interest
+DESCRIPTION:Region: Ottawa Centreville\, NCR\nhttps://pipsc.ca/events/bas
+ ic-stewards-school-call-for-interest/
+URL:https://pipsc.ca/events/basic-stewards-school-call-for-interest/
+END:VEVENT
+END:VCALENDAR

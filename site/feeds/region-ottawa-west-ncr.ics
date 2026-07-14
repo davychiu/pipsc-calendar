@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Ottawa West\, NCR
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-79162@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260718T133000Z
+DTEND:20260718T180000Z
+SUMMARY:Ottawa West Branch 2026 BBQ
+DESCRIPTION:Region: Ottawa West\, NCR\nhttps://pipsc.ca/events/ottawa-wes
+ t-branch-2026-bbq/
+URL:https://pipsc.ca/events/ottawa-west-branch-2026-bbq/
+END:VEVENT
+END:VCALENDAR

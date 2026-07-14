@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Regina\, SK
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-81393@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260829T170000Z
+SUMMARY:Regina Branch Saskatchewan Roughrider Game Event – August 29\, 
+ 2026
+LOCATION:Mosaic Stadium\, 1700 Elphinstone Street\, Regina\, SK
+DESCRIPTION:Region: Regina\, SK\nhttps://pipsc.ca/events/regina-branch-sa
+ skatchewan-roughrider-game-event-august-29-2026/
+URL:https://pipsc.ca/events/regina-branch-saskatchewan-roughrider-game-ev
+ ent-august-29-2026/
+END:VEVENT
+END:VCALENDAR

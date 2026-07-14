@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — British Columbia & Yukon Region
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-75872@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261205T010000Z
+DTEND:20261206T010000Z
+SUMMARY:BC/Yukon Executive Leadership Training
+LOCATION:Vancouver Marriott Pinnacle Downtown Hot\, Vancouver
+DESCRIPTION:Region: British Columbia & Yukon Region\nhttps://pipsc.ca/eve
+ nts/bc-yukon-executive-leadership-training/
+URL:https://pipsc.ca/events/bc-yukon-executive-leadership-training/
+END:VEVENT
+END:VCALENDAR

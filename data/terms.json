@@ -1,0 +1,3474 @@
+{
+ "region": {
+  "92": {
+   "name": "National Capital Region (including foreign)",
+   "slug": "national-capital-region-including-foreign-en"
+  },
+  "371": {
+   "name": "NRCan, NCR",
+   "slug": "ncr-nrcan-ncr-en"
+  },
+  "374": {
+   "name": "Ottawa Centreville, NCR",
+   "slug": "ncr-ottawa-centreville-ncr-en"
+  },
+  "378": {
+   "name": "Statistics Canada, NCR",
+   "slug": "ncr-statistics-canada-ncr-en"
+  },
+  "382": {
+   "name": "Agriculture & Agri-Food Canada, NCR",
+   "slug": "ncr-agriculture-agri-food-canada-ncr-en"
+  },
+  "383": {
+   "name": "Ottawa, General, NCR",
+   "slug": "ncr-ottawa-general-ncr-en"
+  },
+  "389": {
+   "name": "Ottawa South, NCR",
+   "slug": "ncr-ottawa-south-ncr-en"
+  },
+  "398": {
+   "name": "Petawawa, NCR",
+   "slug": "ncr-petawawa-ncr-en"
+  },
+  "406": {
+   "name": "Gatineau, NCR",
+   "slug": "ncr-gatineau-ncr-en"
+  },
+  "409": {
+   "name": "Health Canada, NCR",
+   "slug": "ncr-health-canada-ncr-en"
+  },
+  "413": {
+   "name": "Global Affairs Canada, NCR",
+   "slug": "ncr-global-affairs-canada-ncr-en"
+  },
+  "418": {
+   "name": "Chief Research and Development HQ. (DND, 190 O'Connor)",
+   "slug": "ncr-chief-research-and-development-hq-dnd-190-oconnor-en"
+  },
+  "419": {
+   "name": "Immigration, Refugees and Citizenship Canada, NCR",
+   "slug": "ncr-immigration-refugees-and-citizenship-canada-ncr-en"
+  },
+  "422": {
+   "name": "DND-Louis Saint-Laurent Complex, NCR",
+   "slug": "ncr-dnd-louis-saint-laurent-complex-ncr-en"
+  },
+  "428": {
+   "name": "Chalk River - CNL, NCR",
+   "slug": "ncr-chalk-river-cnl-ncr-en"
+  },
+  "433": {
+   "name": "Public Services and Procurement Canada, NCR",
+   "slug": "ncr-public-services-and-procurement-canada-ncr-en"
+  },
+  "436": {
+   "name": "Ottawa West, NCR",
+   "slug": "ncr-ottawa-west-ncr-en"
+  },
+  "441": {
+   "name": "DND NCR Ottawa/Gatineau",
+   "slug": "ncr-dnd-ncr-ottawa-gatineau-en"
+  },
+  "446": {
+   "name": "Outside Canada",
+   "slug": "ncr-outside-canada-en"
+  },
+  "448": {
+   "name": "Transport Canada, NCR",
+   "slug": "ncr-transport-canada-ncr-en"
+  },
+  "450": {
+   "name": "Public Service Commission - NRC",
+   "slug": "ncr-public-service-commission-nrc-en"
+  },
+  "452": {
+   "name": "Ottawa Area",
+   "slug": "ncr-ottawa-area-en"
+  },
+  "456": {
+   "name": "Ottawa East, NCR",
+   "slug": "ncr-ottawa-east-ncr-en"
+  },
+  "459": {
+   "name": "Québec Region",
+   "slug": "quebec-region-en"
+  },
+  "463": {
+   "name": "OSFI, NRC",
+   "slug": "ncr-osfi-nrc-en"
+  },
+  "465": {
+   "name": "Saguenay/Lac-St-Jean, QC",
+   "slug": "que-saguenay-lac-st-jean-qc-en"
+  },
+  "467": {
+   "name": "Sherbrooke, QC",
+   "slug": "que-sherbrooke-qc-en"
+  },
+  "469": {
+   "name": "Montérégie, QC",
+   "slug": "que-monteregie-qc-en"
+  },
+  "471": {
+   "name": "Not applicable",
+   "slug": "not-applicable-en"
+  },
+  "473": {
+   "name": "Ville-Marie, QC",
+   "slug": "que-ville-marie-qc-en"
+  },
+  "475": {
+   "name": "Atlantic Region",
+   "slug": "atlantic-region-en"
+  },
+  "477": {
+   "name": "Québec - General",
+   "slug": "que-quebec-general-en"
+  },
+  "478": {
+   "name": "Montréal-Ouest, QC",
+   "slug": "que-montreal-ouest-qc-en"
+  },
+  "481": {
+   "name": "Montréal-Est, QC",
+   "slug": "que-montreal-est-qc-en"
+  },
+  "483": {
+   "name": "Longueuil (Health Canada)",
+   "slug": "que-longueuil-health-canada-en"
+  },
+  "485": {
+   "name": "Montréal Centre, QC (AFS)",
+   "slug": "que-montreal-centre-qc-afs-en"
+  },
+  "487": {
+   "name": "Côte-Nord, QC",
+   "slug": "que-cote-nord-qc-en"
+  },
+  "489": {
+   "name": "Cape Breton, NS",
+   "slug": "atl-cape-breton-ns-en"
+  },
+  "491": {
+   "name": "Laval, QC",
+   "slug": "que-laval-qc-en"
+  },
+  "493": {
+   "name": "Lake Melville, NL",
+   "slug": "atl-lake-melville-nl-en"
+  },
+  "494": {
+   "name": "Gander, NL",
+   "slug": "atl-gander-nl-en"
+  },
+  "497": {
+   "name": "Not applicable",
+   "slug": "n-a-not-applicable-en"
+  },
+  "499": {
+   "name": "St. Hyacinthe, QC",
+   "slug": "que-st-hyacinthe-qc-en"
+  },
+  "501": {
+   "name": "CSC Atlantic Institution",
+   "slug": "atl-csc-atlantic-institution-en"
+  },
+  "502": {
+   "name": "Centre-du-Québec, QC",
+   "slug": "que-centre-du-quebec-qc-en"
+  },
+  "505": {
+   "name": "CSC - Montreal et Rive Nord, QC",
+   "slug": "que-csc-montreal-et-rive-nord-qc-en"
+  },
+  "507": {
+   "name": "Prairie/Northwest Territories Region",
+   "slug": "prairie-northwest-territories-region-en"
+  },
+  "510": {
+   "name": "Saskatoon, SK",
+   "slug": "prai-saskatoon-sk-en"
+  },
+  "512": {
+   "name": "Nova Scotia (General)",
+   "slug": "atl-nova-scotia-general-en"
+  },
+  "514": {
+   "name": "Iqaluit, NU",
+   "slug": "que-iqaluit-nu-en"
+  },
+  "516": {
+   "name": "Ontario and Nunavut Region",
+   "slug": "ontario-and-nunavut-region-en"
+  },
+  "518": {
+   "name": "British Columbia & Yukon Region",
+   "slug": "british-columbia-yukon-region-en"
+  },
+  "520": {
+   "name": "North-Central Vancouver Island, BC",
+   "slug": "bc-north-central-vancouver-island-bc-en"
+  },
+  "522": {
+   "name": "Peterborough, ON",
+   "slug": "ont-peterborough-on-en"
+  },
+  "524": {
+   "name": "Montreal (PWGSC)",
+   "slug": "que-montreal-pwgsc-en"
+  },
+  "1516": {
+   "name": "Guelph-Kitchener, ON",
+   "slug": "ont-guelph-kitchener-on-en"
+  },
+  "1517": {
+   "name": "Quinte, ON",
+   "slug": "ont-quinte-on-en"
+  },
+  "1521": {
+   "name": "Québec City, QC",
+   "slug": "que-quebec-city-qc-en"
+  },
+  "1527": {
+   "name": "Moncton, NB",
+   "slug": "atl-moncton-nb-en"
+  },
+  "1528": {
+   "name": "St. Jean - AAFC, QC",
+   "slug": "que-st-jean-aafc-qc-en"
+  },
+  "1529": {
+   "name": "Greenwood, NS",
+   "slug": "atl-greenwood-ns-en"
+  },
+  "1537": {
+   "name": "Kingston DND, ON",
+   "slug": "ont-kingston-dnd-on-en"
+  },
+  "1544": {
+   "name": "Vancouver-CRA, BC",
+   "slug": "bc-vancouver-cra-bc-en"
+  },
+  "1548": {
+   "name": "Prince Edward Island",
+   "slug": "atl-prince-edward-island-en"
+  },
+  "1553": {
+   "name": "Corner Brook, NFLD",
+   "slug": "atl-corner-brook-nfld-en"
+  },
+  "1554": {
+   "name": "Saint John, NB",
+   "slug": "atl-saint-john-nb-en"
+  },
+  "1556": {
+   "name": "Okanagan, BC",
+   "slug": "bc-okanagan-bc-en"
+  },
+  "1559": {
+   "name": "Northern New Brunswick",
+   "slug": "atl-northern-new-brunswick-en"
+  },
+  "1561": {
+   "name": "Kingston, ON",
+   "slug": "ont-kingston-on-en"
+  },
+  "1562": {
+   "name": "Prince Rupert, B.C.",
+   "slug": "bc-prince-rupert-b-c-en"
+  },
+  "1565": {
+   "name": "Kentville, NS",
+   "slug": "atl-kentville-ns-en"
+  },
+  "1566": {
+   "name": "Simcoe/Grey, ON",
+   "slug": "ont-simcoe-grey-on-en"
+  },
+  "1567": {
+   "name": "British Columbia (General)",
+   "slug": "bc-british-columbia-general-en"
+  },
+  "1568": {
+   "name": "Toronto West - CRA, ON",
+   "slug": "ont-toronto-west-cra-on-en"
+  },
+  "1573": {
+   "name": "Mauricie, QC",
+   "slug": "que-mauricie-qc-en"
+  },
+  "1574": {
+   "name": "Hamilton - CRA, ON",
+   "slug": "ont-hamilton-cra-on-en"
+  },
+  "1583": {
+   "name": "Halifax, NS",
+   "slug": "atl-halifax-ns-en"
+  },
+  "1586": {
+   "name": "Toronto, ON",
+   "slug": "ont-toronto-on-en"
+  },
+  "1590": {
+   "name": "Niagara Region, ON",
+   "slug": "ont-niagara-region-on-en"
+  },
+  "1594": {
+   "name": "Sudbury/North Bay, ON",
+   "slug": "ont-sudbury-north-bay-on-en"
+  },
+  "1608": {
+   "name": "Fraser Valley, BC",
+   "slug": "bc-fraser-valley-bc-en"
+  },
+  "1612": {
+   "name": "Kamloops, BC",
+   "slug": "bc-kamloops-bc-en"
+  },
+  "1620": {
+   "name": "Yukon",
+   "slug": "bc-yukon-en"
+  },
+  "1622": {
+   "name": "Toronto Centre - CRA, ON",
+   "slug": "ont-toronto-centre-cra-on-en"
+  },
+  "1628": {
+   "name": "Harrow Research Station, ON",
+   "slug": "ont-harrow-research-station-on-en"
+  },
+  "1632": {
+   "name": "Sainte-Anne-de-Bellevue - DVA, QC",
+   "slug": "que-sainte-anne-de-bellevue-dva-qc-en"
+  },
+  "1636": {
+   "name": "Toronto - PWGSC&Transport, ON",
+   "slug": "ont-toronto-pwgsctransport-on-en"
+  },
+  "1641": {
+   "name": "Toronto - Agriculture Canada, ON",
+   "slug": "ont-toronto-agriculture-canada-on-en"
+  },
+  "1645": {
+   "name": "St. John's, NL",
+   "slug": "atl-st-johns-nl-en"
+  },
+  "1647": {
+   "name": "Dorchester Penitentiary, NB",
+   "slug": "atl-dorchester-penitentiary-nb-en"
+  },
+  "1648": {
+   "name": "Haut-Richelieu, QC",
+   "slug": "que-haut-richelieu-qc-en"
+  },
+  "1659": {
+   "name": "Sault Ste. Marie, ON",
+   "slug": "ont-sault-ste-marie-on-en"
+  },
+  "1662": {
+   "name": "Hamilton/Burlington, ON",
+   "slug": "ont-hamilton-burlington-on-en"
+  },
+  "1665": {
+   "name": "Halifax DND, NS",
+   "slug": "atl-halifax-dnd-ns-en"
+  },
+  "1679": {
+   "name": "Lennoxville - AAFC, QC",
+   "slug": "que-lennoxville-aafc-qc-en"
+  },
+  "1684": {
+   "name": "Defence Research & Development Canada, ON",
+   "slug": "ont-defence-research-development-canada-on-en"
+  },
+  "1691": {
+   "name": "Victoria - CRA, BC",
+   "slug": "bc-victoria-cra-bc-en"
+  },
+  "1699": {
+   "name": "Victoria, BC",
+   "slug": "bc-victoria-bc-en"
+  },
+  "1703": {
+   "name": "Essex-Kent, ON",
+   "slug": "ont-essex-kent-on-en"
+  },
+  "1709": {
+   "name": "Cornwall, ON",
+   "slug": "ont-cornwall-on-en"
+  },
+  "1717": {
+   "name": "Hamilton NRCAN, ON",
+   "slug": "ont-hamilton-nrcan-on-en"
+  },
+  "1721": {
+   "name": "Ontario (General)",
+   "slug": "ont-ontario-general-en"
+  },
+  "1733": {
+   "name": "Surrey-White Rock BC",
+   "slug": "bc-surrey-white-rock-bc-en"
+  },
+  "1738": {
+   "name": "Toronto Environment and Climate Change Canada, ON",
+   "slug": "ont-toronto-environment-and-climate-change-canada-on-en"
+  },
+  "1743": {
+   "name": "Toronto - CFIA, ON",
+   "slug": "ont-toronto-cfia-on-en"
+  },
+  "1748": {
+   "name": "London, ON",
+   "slug": "ont-london-on-en"
+  },
+  "1754": {
+   "name": "Moose Factory, ON",
+   "slug": "ont-moose-factory-on-en"
+  },
+  "1757": {
+   "name": "Toronto East - CRA, ON",
+   "slug": "ont-toronto-east-cra-on-en"
+  },
+  "1758": {
+   "name": "Northern B.C.",
+   "slug": "bc-northern-b-c-en"
+  },
+  "1759": {
+   "name": "Greater Toronto Area, ON",
+   "slug": "ont-greater-toronto-area-on-en"
+  },
+  "1778": {
+   "name": "Eastern Quebec",
+   "slug": "que-eastern-quebec-en"
+  },
+  "1783": {
+   "name": "Vancouver, BC",
+   "slug": "bc-vancouver-bc-en"
+  },
+  "1810": {
+   "name": "Sioux Lookout Zone, ON",
+   "slug": "ont-sioux-lookout-zone-on-en"
+  },
+  "1820": {
+   "name": "Abitibi-Témiscamingue, QC",
+   "slug": "que-abitibi-temiscamingue-qc-en"
+  },
+  "1864": {
+   "name": "Iqaluit, NU",
+   "slug": "ont-iqaluit-nu-en"
+  },
+  "1867": {
+   "name": "Fredericton, NB",
+   "slug": "atl-fredericton-nb-en"
+  },
+  "1895": {
+   "name": "Timmins, ON",
+   "slug": "ont-timmins-on-en"
+  },
+  "1927": {
+   "name": "Toronto North - CRA, ON",
+   "slug": "ont-toronto-north-cra-on-en"
+  },
+  "1957": {
+   "name": "St. Andrews, NB",
+   "slug": "atl-st-andrews-nb-en"
+  },
+  "1973": {
+   "name": "Lakehead, ON",
+   "slug": "ont-lakehead-on-en"
+  },
+  "2025": {
+   "name": "Toronto Downtown (CO & OSFI groups)",
+   "slug": "ont-toronto-downtown-co-osfi-groups-en"
+  },
+  "2084": {
+   "name": "Health Canada - Toronto, ON",
+   "slug": "ont-health-canada-toronto-on-en"
+  },
+  "2094": {
+   "name": "Lacombe/Red Deer, AB",
+   "slug": "prai-lacombe-red-deer-ab-en"
+  },
+  "2096": {
+   "name": "Saskatchewan (General)",
+   "slug": "prai-saskatchewan-general-en"
+  },
+  "2098": {
+   "name": "Northwest Territories (General)",
+   "slug": "prai-northwest-territories-general-en"
+  },
+  "2100": {
+   "name": "Alberta (General)",
+   "slug": "prai-alberta-general-en"
+  },
+  "2102": {
+   "name": "Denwood, AB",
+   "slug": "prai-denwood-ab-en"
+  },
+  "2103": {
+   "name": "Edmonton, AB",
+   "slug": "prai-edmonton-ab-en"
+  },
+  "2106": {
+   "name": "Suffield, AB",
+   "slug": "prai-suffield-ab-en"
+  },
+  "2107": {
+   "name": "Prince Albert, SK",
+   "slug": "prai-prince-albert-sk-en"
+  },
+  "2110": {
+   "name": "EXPIRED - Swift Current, SK",
+   "slug": "prai-expired-swift-current-sk-en"
+  },
+  "2112": {
+   "name": "Lethbridge, AB",
+   "slug": "prai-lethbridge-ab-en"
+  },
+  "2114": {
+   "name": "Calgary, AB",
+   "slug": "prai-calgary-ab-en"
+  },
+  "2116": {
+   "name": "Regina, SK",
+   "slug": "prai-regina-sk-en"
+  },
+  "2118": {
+   "name": "Beaverlodge, AB",
+   "slug": "prai-beaverlodge-ab-en"
+  },
+  "2120": {
+   "name": "Northwest Territories",
+   "slug": "prai-northwest-territories-en"
+  },
+  "2122": {
+   "name": "Northeastern Alberta",
+   "slug": "prai-northeastern-alberta-en"
+  },
+  "2125": {
+   "name": "Winnipeg & Southern Manitoba, MB",
+   "slug": "prai-winnipeg-southern-manitoba-mb-en"
+  },
+  "2127": {
+   "name": "Northern Manitoba, MB",
+   "slug": "prai-northern-manitoba-mb-en"
+  },
+  "2129": {
+   "name": "Manitoba Region (General)",
+   "slug": "prai-manitoba-region-general-en"
+  },
+  "2373": {
+   "name": "DND Gagetown, NB",
+   "slug": "atl-dnd-gagetown-nb-en"
+  }
+ },
+ "group": {
+  "118": {
+   "name": "New Brunswick Crown Counsel Group",
+   "slug": "new-brunswick-crown-counsel-group-en"
+  },
+  "119": {
+   "name": "BC First Nations Health Authority Group",
+   "slug": "bc-first-nations-health-authority-group-en"
+  },
+  "122": {
+   "name": "New Brunswick Crown Prosecutor",
+   "slug": "new-brunswick-crown-prosecutor-en"
+  },
+  "123": {
+   "name": "New Brunswick - Legal Aid Group",
+   "slug": "new-brunswick-legal-aid-group-en"
+  },
+  "124": {
+   "name": "New Brunswick - Agriculture Group",
+   "slug": "new-brunswick-agriculture-group-en"
+  },
+  "125": {
+   "name": "University of Ottawa Information Technology Professional Group",
+   "slug": "university-of-ottawa-information-technology-professional-group-en"
+  },
+  "126": {
+   "name": "Ontario Medical Physicists Group",
+   "slug": "ontario-medical-physicists-group-en"
+  },
+  "133": {
+   "name": "Canadian Museum of Nature Group",
+   "slug": "canadian-museum-of-nature-group-en"
+  },
+  "134": {
+   "name": "House of Commons Procedural Clerks, Analysis and Reference Group",
+   "slug": "house-of-commons-procedural-clerks-analysis-and-reference-group-en"
+  },
+  "136": {
+   "name": "New Brunswick - Engineering, Land Surveying and Architecture Group",
+   "slug": "new-brunswick-engineering-land-surveying-and-architecture-group-en"
+  },
+  "138": {
+   "name": "Canadian Museum of History - Scientific Researchers Group",
+   "slug": "canadian-museum-of-history-scientific-researchers-group-en"
+  },
+  "142": {
+   "name": "Thunder Bay Regional Health Sciences Centre Radiation Therapists Group",
+   "slug": "thunder-bay-regional-health-sciences-centre-radiation-therapists-group-en"
+  },
+  "146": {
+   "name": "Juravinski Cancer Centre - Radiation Therapists Group",
+   "slug": "juravinski-cancer-centre-radiation-therapists-group-en"
+  },
+  "147": {
+   "name": "Senate Legislative Clerks Group",
+   "slug": "senate-legislative-clerks-group-en"
+  },
+  "149": {
+   "name": "NAV CANADA - Professional Employees Group",
+   "slug": "nav-canada-professional-employees-group-en"
+  },
+  "152": {
+   "name": "National Energy Board - Professional Employees Group",
+   "slug": "national-energy-board-professional-employees-group-en"
+  },
+  "153": {
+   "name": "Audit, Financial & Scientific Group",
+   "slug": "audit-financial-scientific-group-en"
+  },
+  "158": {
+   "name": "Retired Members Guild",
+   "slug": "retired-members-guild-en"
+  },
+  "161": {
+   "name": "National Film Board - Professional Group",
+   "slug": "national-film-board-professional-group-en"
+  },
+  "163": {
+   "name": "Whiteshell Technical Employees Group",
+   "slug": "whiteshell-technical-employees-group-en"
+  },
+  "165": {
+   "name": "National Gallery of Canada Group",
+   "slug": "national-gallery-of-canada-group-en"
+  },
+  "167": {
+   "name": "NRC - Translation Group",
+   "slug": "nrc-translation-group-en"
+  },
+  "168": {
+   "name": "Yukon Hospital Corporation Group",
+   "slug": "yukon-hospital-corporation-group-en"
+  },
+  "169": {
+   "name": "Nuclear Regulatory Group",
+   "slug": "nuclear-regulatory-group-en"
+  },
+  "171": {
+   "name": "Applied Science and Patent Examination Group",
+   "slug": "applied-science-and-patent-examination-group-en"
+  },
+  "174": {
+   "name": "Canadian Tourism Commission Group",
+   "slug": "canadian-tourism-commission-group-en"
+  },
+  "176": {
+   "name": "Manitoba Association of Government Engineers Group",
+   "slug": "manitoba-association-of-government-engineers-group-en"
+  },
+  "178": {
+   "name": "Health Services Group",
+   "slug": "health-services-group-en"
+  },
+  "180": {
+   "name": "Whiteshell Professional Employees Group",
+   "slug": "whiteshell-professional-employees-group-en"
+  },
+  "182": {
+   "name": "CFIA - Scientific and Analytical Group",
+   "slug": "cfia-scientific-and-analytical-group-en"
+  },
+  "184": {
+   "name": "Sunnybrook Health Sciences Centre Radiation Therapists Group",
+   "slug": "sunnybrook-health-sciences-centre-radiation-therapists-group-en"
+  },
+  "186": {
+   "name": "Sunnybrook Mechanical and Electronic Technologists Group",
+   "slug": "sunnybrook-mechanical-and-electronic-technologists-group-en"
+  },
+  "188": {
+   "name": "NRC - Information Services Group",
+   "slug": "nrc-information-services-group-en"
+  },
+  "190": {
+   "name": "Windsor Regional Hospital Radiation Therapists Group",
+   "slug": "windsor-regional-hospital-radiation-therapists-group-en"
+  },
+  "192": {
+   "name": "NRC - Library Science Group",
+   "slug": "nrc-library-science-group-en"
+  },
+  "194": {
+   "name": "Engineering, Architecture and Land Survey Group",
+   "slug": "engineering-architecture-and-land-survey-group-en"
+  },
+  "195": {
+   "name": "OSFI - Professional Employees Group",
+   "slug": "osfi-professional-employees-group-en"
+  },
+  "198": {
+   "name": "Not applicable",
+   "slug": "not-applicable-en"
+  },
+  "200": {
+   "name": "Research Group",
+   "slug": "research-group-en"
+  },
+  "202": {
+   "name": "New Brunswick - Veterinarians Group",
+   "slug": "new-brunswick-veterinarians-group-en"
+  },
+  "203": {
+   "name": "CFIA - Informatics Group",
+   "slug": "cfia-informatics-group-en"
+  },
+  "204": {
+   "name": "CFIA - Veterinary Medicine Group",
+   "slug": "cfia-veterinary-medicine-group-en"
+  },
+  "207": {
+   "name": "EXPIRED - Commerce and Purchasing Group",
+   "slug": "expired-commerce-and-purchasing-group-en"
+  },
+  "210": {
+   "name": "Law Group",
+   "slug": "law-group-en"
+  },
+  "211": {
+   "name": "Canadian Energy Regulator",
+   "slug": "canadian-energy-regulator-en"
+  },
+  "212": {
+   "name": "NRC - Research Officers and Research Council Officers Group",
+   "slug": "nrc-research-officers-and-research-council-officers-group-en"
+  },
+  "216": {
+   "name": "Chalk River Professional Employees Group",
+   "slug": "chalk-river-professional-employees-group-en"
+  },
+  "217": {
+   "name": "Medical Physicists Group - Regional Cancer Centre Employers Association",
+   "slug": "medical-physicists-group-regional-cancer-centre-employers-association-en"
+  },
+  "218": {
+   "name": "Communications Security Establishment - Engineers",
+   "slug": "communications-security-establishment-engineers-en"
+  },
+  "219": {
+   "name": "Radiation Therapists - Thunder Bay Regional Health Sciences Centre",
+   "slug": "radiation-therapists-thunder-bay-regional-health-sciences-centre-en"
+  },
+  "220": {
+   "name": "Canadian Commercial Corporation Group",
+   "slug": "canadian-commercial-corporation-group-en"
+  },
+  "221": {
+   "name": "Canadian Museum of Civilization - Scientific Researchers Group",
+   "slug": "canadian-museum-of-civilization-scientific-researchers-group-en"
+  },
+  "227": {
+   "name": "Weeneebayko General Hospital - Scientific and Professional Employees Group",
+   "slug": "weeneebayko-general-hospital-scientific-and-professional-employees-group-en"
+  },
+  "229": {
+   "name": "CFIA - Scientific Regulation Group",
+   "slug": "cfia-scientific-regulation-group-en"
+  },
+  "232": {
+   "name": "Whitehorse General Hospital Group",
+   "slug": "whitehorse-general-hospital-group-en"
+  },
+  "233": {
+   "name": "Walker Family Cancer Centre - Radiation Therapists Group",
+   "slug": "walker-family-cancer-centre-radiation-therapists-group-en"
+  },
+  "234": {
+   "name": "Information Technology Group",
+   "slug": "information-technology-group-en"
+  },
+  "239": {
+   "name": "Radiation Therapists Group - Sunnybrook-Women's Health Sciences Centre, Toronto",
+   "slug": "radiation-therapists-group-sunnybrook-womens-health-sciences-centre-toronto-en"
+  },
+  "248": {
+   "name": "Deer Lodge Centre - Nursing Group",
+   "slug": "deer-lodge-centre-nursing-group-en"
+  },
+  "249": {
+   "name": "Radiation Therapist Group - Ottawa Hospital",
+   "slug": "radiation-therapist-group-ottawa-hospital-en"
+  },
+  "253": {
+   "name": "Fort Qu'Appelle Indian Hospital Group",
+   "slug": "fort-quappelle-indian-hospital-group-en"
+  },
+  "255": {
+   "name": "New Brunswick Crown Prosecutors Association Group",
+   "slug": "new-brunswick-crown-prosecutors-association-group-en"
+  },
+  "256": {
+   "name": "Commerce & Purchasing Group",
+   "slug": "commerce-purchasing-group-en"
+  },
+  "257": {
+   "name": "BC Medical Physicists Group",
+   "slug": "bc-medical-physicists-group-en"
+  },
+  "265": {
+   "name": "New Brunswick Crown Counsel Association Group",
+   "slug": "new-brunswick-crown-counsel-association-group-en"
+  },
+  "269": {
+   "name": "CCRA - Computer Systems",
+   "slug": "ccra-computer-systems-en"
+  },
+  "277": {
+   "name": "Organization of Professional Engineers Employed by the Province of Manitoba Group",
+   "slug": "organization-of-professional-engineers-employed-by-the-province-of-manitoba-group-en"
+  },
+  "280": {
+   "name": "Nova Scotia Crown Attorneys Association Group",
+   "slug": "nova-scotia-crown-attorneys-association-group-en"
+  },
+  "284": {
+   "name": "Applied Science and Engineering Group",
+   "slug": "applied-science-and-engineering-group-en"
+  },
+  "286": {
+   "name": "Halifax Airport",
+   "slug": "halifax-airport-en"
+  },
+  "289": {
+   "name": "Deer Lodge Centre - Health Care Professionals Group",
+   "slug": "deer-lodge-centre-health-care-professionals-group-en"
+  },
+  "293": {
+   "name": "Deer Lodge Centre - Medicine Group",
+   "slug": "deer-lodge-centre-medicine-group-en"
+  },
+  "298": {
+   "name": "CCRA - Agency Professionals",
+   "slug": "ccra-agency-professionals-en"
+  },
+  "301": {
+   "name": "Quebec Airport",
+   "slug": "quebec-airport-en"
+  },
+  "303": {
+   "name": "Radiation Therapists Group - Windsor Regional Hospital (C998)",
+   "slug": "radiation-therapists-group-windsor-regional-hospital-c998-en"
+  },
+  "304": {
+   "name": "Parks Canada",
+   "slug": "parks-canada-en"
+  },
+  "308": {
+   "name": "CCRA - Auditing",
+   "slug": "ccra-auditing-en"
+  },
+  "313": {
+   "name": "New Brunswick Crown Council's Association Group",
+   "slug": "new-brunswick-crown-councils-association-group-en"
+  },
+  "325": {
+   "name": "NFB - Scientific & Professional Category Group",
+   "slug": "nfb-scientific-professional-category-group-en"
+  },
+  "328": {
+   "name": "NFB - Administration and Foreign Service Category Group",
+   "slug": "nfb-administration-and-foreign-service-category-group-en"
+  },
+  "331": {
+   "name": "Information Technology (IT)",
+   "slug": "information-technology-en"
+  },
+  "637": {
+   "name": "Ontario Region",
+   "slug": "cfiavm-ontario-region-en"
+  },
+  "638": {
+   "name": "Alberta",
+   "slug": "cfiavm-alberta-en"
+  },
+  "640": {
+   "name": "BC Region",
+   "slug": "cfiavm-bc-region-en"
+  },
+  "643": {
+   "name": "Not applicable",
+   "slug": "hoc-not-applicable-en"
+  },
+  "648": {
+   "name": "Not applicable",
+   "slug": "jcc-not-applicable-en"
+  },
+  "654": {
+   "name": "Confederation Heights Plus",
+   "slug": "sp-confederation-heights-plus-en"
+  },
+  "656": {
+   "name": "Not applicable",
+   "slug": "ngc-not-applicable-en"
+  },
+  "657": {
+   "name": "Not applicable",
+   "slug": "cmn-not-applicable-en"
+  },
+  "658": {
+   "name": "Not applicable",
+   "slug": "nbcc-not-applicable-en"
+  },
+  "659": {
+   "name": "Gander, NF",
+   "slug": "sp-gander-nf-en"
+  },
+  "660": {
+   "name": "Eastern Quebec",
+   "slug": "sp-eastern-quebec-en"
+  },
+  "661": {
+   "name": "4900 Yonge Street - Toronto, ON",
+   "slug": "sp-4900-yonge-street-toronto-on-en"
+  },
+  "663": {
+   "name": "Not applicable",
+   "slug": "nfbpg-not-applicable-en"
+  },
+  "669": {
+   "name": "Victoria, BC",
+   "slug": "sp-victoria-bc-en"
+  },
+  "670": {
+   "name": "Tunney's Plus, NCR",
+   "slug": "sp-tunneys-plus-ncr-en"
+  },
+  "672": {
+   "name": "50 Victoria St., Place du Portage, QC",
+   "slug": "sp-50-victoria-st-place-du-portage-qc-en"
+  },
+  "673": {
+   "name": "St-Hyacinthe, QC",
+   "slug": "sp-st-hyacinthe-qc-en"
+  },
+  "676": {
+   "name": "Moncton, NB",
+   "slug": "sp-moncton-nb-en"
+  },
+  "680": {
+   "name": "Saint John, NB",
+   "slug": "afs-saint-john-nb-en"
+  },
+  "682": {
+   "name": "Kingston, ON",
+   "slug": "afs-kingston-on-en"
+  },
+  "683": {
+   "name": "Not applicable",
+   "slug": "cmh-not-applicable-en"
+  },
+  "686": {
+   "name": "Headquarters, NCR",
+   "slug": "afs-headquarters-ncr-en"
+  },
+  "687": {
+   "name": "401 Burrard Street, Vancouver, BC",
+   "slug": "sp-401-burrard-street-vancouver-bc-en"
+  },
+  "688": {
+   "name": "Saskatoon, SK",
+   "slug": "afs-saskatoon-sk-en"
+  },
+  "691": {
+   "name": "NCR-IT Billings Bridge, NCR",
+   "slug": "afs-ncr-it-billings-bridge-ncr-en"
+  },
+  "693": {
+   "name": "Penticton, BC",
+   "slug": "afs-penticton-bc-en"
+  },
+  "694": {
+   "name": "Not applicable",
+   "slug": "wteg-not-applicable-en"
+  },
+  "695": {
+   "name": "Montérégie, QC",
+   "slug": "afs-monteregie-qc-en"
+  },
+  "696": {
+   "name": "Southern Alberta",
+   "slug": "afs-southern-alberta-en"
+  },
+  "697": {
+   "name": "Edmonton, AB",
+   "slug": "sp-edmonton-ab-en"
+  },
+  "702": {
+   "name": "Fredericton, NB",
+   "slug": "cs-fredericton-nb-en"
+  },
+  "704": {
+   "name": "Winnipeg Central, MB",
+   "slug": "sp-winnipeg-central-mb-en"
+  },
+  "707": {
+   "name": "Shirley's Bay, NCR",
+   "slug": "nr-shirleys-bay-ncr-en"
+  },
+  "709": {
+   "name": "Thunder Bay, ON",
+   "slug": "afs-thunder-bay-on-en"
+  },
+  "710": {
+   "name": "North-Central Vancouver Island, BC",
+   "slug": "cs-north-central-vancouver-island-bc-en"
+  },
+  "711": {
+   "name": "Suffield, AB",
+   "slug": "nr-suffield-ab-en"
+  },
+  "712": {
+   "name": "Summerside, PEI",
+   "slug": "afs-summerside-pei-en"
+  },
+  "717": {
+   "name": "Vancouver, BC",
+   "slug": "nr-vancouver-bc-en"
+  },
+  "718": {
+   "name": "Saguenay/Lac-St-Jean/Côte-Nord, QC",
+   "slug": "cs-saguenay-lac-st-jean-cote-nord-qc-en"
+  },
+  "719": {
+   "name": "Winnipeg, MB",
+   "slug": "afs-winnipeg-mb-en"
+  },
+  "720": {
+   "name": "Not applicable",
+   "slug": "tourism-not-applicable-en"
+  },
+  "725": {
+   "name": "International and Ottawa Tax Services Office (IOTSO), NCR",
+   "slug": "afs-international-and-ottawa-tax-services-office-iotso-ncr-en"
+  },
+  "726": {
+   "name": "CSC Pacific Region, BC",
+   "slug": "sh-csc-pacific-region-bc-en"
+  },
+  "727": {
+   "name": "Vancouver, BC",
+   "slug": "afs-vancouver-bc-en"
+  },
+  "731": {
+   "name": "Kelowna, BC",
+   "slug": "afs-kelowna-bc-en"
+  },
+  "732": {
+   "name": "Information Technology, NCR",
+   "slug": "afs-information-technology-ncr-en"
+  },
+  "733": {
+   "name": "Rouyn-Noranda, QC",
+   "slug": "afs-rouyn-noranda-qc-en"
+  },
+  "737": {
+   "name": "Sydney, NS",
+   "slug": "cs-sydney-ns-en"
+  },
+  "738": {
+   "name": "Not applicable",
+   "slug": "nav-not-applicable-en"
+  },
+  "742": {
+   "name": "Not applicable",
+   "slug": "nbla-not-applicable-en"
+  },
+  "745": {
+   "name": "Not applicable",
+   "slug": "bcfnha-not-applicable-en"
+  },
+  "746": {
+   "name": "Not applicable",
+   "slug": "yhc-not-applicable-en"
+  },
+  "747": {
+   "name": "Halifax, NS",
+   "slug": "sh-halifax-ns-en"
+  },
+  "748": {
+   "name": "Mainland Nova Scotia",
+   "slug": "sp-mainland-nova-scotia-en"
+  },
+  "753": {
+   "name": "Not applicable",
+   "slug": "nbcp-not-applicable-en"
+  },
+  "759": {
+   "name": "St. Andrews, NB",
+   "slug": "sp-st-andrews-nb-en"
+  },
+  "760": {
+   "name": "Not applicable",
+   "slug": "nureg-not-applicable-en"
+  },
+  "765": {
+   "name": "Windsor, ON",
+   "slug": "afs-windsor-on-en"
+  },
+  "766": {
+   "name": "Saguenay, QC",
+   "slug": "afs-saguenay-qc-en"
+  },
+  "771": {
+   "name": "Winnipeg, MB",
+   "slug": "sp-winnipeg-mb-en"
+  },
+  "774": {
+   "name": "Yellowknife, NWT",
+   "slug": "cs-yellowknife-nwt-en"
+  },
+  "775": {
+   "name": "Portage, NCR",
+   "slug": "cs-portage-ncr-en"
+  },
+  "776": {
+   "name": "Moncton, NB",
+   "slug": "afs-moncton-nb-en"
+  },
+  "777": {
+   "name": "Vancouver Island, BC",
+   "slug": "nr-vancouver-island-bc-en"
+  },
+  "778": {
+   "name": "Toronto East, ON",
+   "slug": "afs-toronto-east-on-en"
+  },
+  "785": {
+   "name": "Calgary, AB",
+   "slug": "nr-calgary-ab-en"
+  },
+  "786": {
+   "name": "North East Region of Ontario",
+   "slug": "cfiavm-north-east-region-of-ontario-en"
+  },
+  "787": {
+   "name": "Not applicable",
+   "slug": "nrcis-not-applicable-en"
+  },
+  "790": {
+   "name": "Not applicable",
+   "slug": "osfi-not-applicable-en"
+  },
+  "792": {
+   "name": "National Capital Region - ITB/ITS",
+   "slug": "afs-national-capital-region-itb-its-en"
+  },
+  "795": {
+   "name": "501 University Crescent, Winnipeg, MB",
+   "slug": "sp-501-university-crescent-winnipeg-mb-en"
+  },
+  "796": {
+   "name": "Montréal, QC",
+   "slug": "sp-montreal-qc-en"
+  },
+  "797": {
+   "name": "Sydney, NS",
+   "slug": "afs-sydney-ns-en"
+  },
+  "798": {
+   "name": "Bathurst, NB",
+   "slug": "cs-bathurst-nb-en"
+  },
+  "801": {
+   "name": "Peterborough, ON",
+   "slug": "afs-peterborough-on-en"
+  },
+  "804": {
+   "name": "Estrie Region, QC",
+   "slug": "cs-estrie-region-qc-en"
+  },
+  "807": {
+   "name": "Fredericton, NB",
+   "slug": "sp-fredericton-nb-en"
+  },
+  "808": {
+   "name": "Hamilton, ON",
+   "slug": "afs-hamilton-on-en"
+  },
+  "809": {
+   "name": "Not applicable",
+   "slug": "nrcls-not-applicable-en"
+  },
+  "814": {
+   "name": "Calgary Area",
+   "slug": "cs-calgary-area-en"
+  },
+  "815": {
+   "name": "Hull, NCR",
+   "slug": "cs-hull-ncr-en"
+  },
+  "819": {
+   "name": "Belleville, ON",
+   "slug": "afs-belleville-on-en"
+  },
+  "820": {
+   "name": "Vancouver, BC",
+   "slug": "cs-vancouver-bc-en"
+  },
+  "821": {
+   "name": "Gatineau, NCR",
+   "slug": "cs-gatineau-ncr-en"
+  },
+  "822": {
+   "name": "Edmonton, AB",
+   "slug": "afs-edmonton-ab-en"
+  },
+  "827": {
+   "name": "NCR-IT Fitzgerald, NCR",
+   "slug": "afs-ncr-it-fitzgerald-ncr-en"
+  },
+  "828": {
+   "name": "Sherbrooke, QC",
+   "slug": "afs-sherbrooke-qc-en"
+  },
+  "830": {
+   "name": "South Saskatchewan",
+   "slug": "sp-south-saskatchewan-en"
+  },
+  "831": {
+   "name": "National Capital Region",
+   "slug": "av-national-capital-region-en"
+  },
+  "833": {
+   "name": "Toronto Centre, ON",
+   "slug": "afs-toronto-centre-on-en"
+  },
+  "835": {
+   "name": "St. John's, NL",
+   "slug": "sp-st-johns-nl-en"
+  },
+  "836": {
+   "name": "NRCAN, NCR",
+   "slug": "nr-nrcan-ncr-en"
+  },
+  "839": {
+   "name": "Hamilton/Burlington, ON",
+   "slug": "nr-hamilton-burlington-on-en"
+  },
+  "840": {
+   "name": "EXPIRED - Agassiz, BC",
+   "slug": "re-expired-agassiz-bc-en"
+  },
+  "843": {
+   "name": "Lower Mainland BC",
+   "slug": "sp-lower-mainland-bc-en"
+  },
+  "844": {
+   "name": "National Capital Region",
+   "slug": "cfiasa-national-capital-region-en"
+  },
+  "847": {
+   "name": "Kitchener, ON",
+   "slug": "afs-kitchener-on-en"
+  },
+  "848": {
+   "name": "Hamilton/Burlington, ON",
+   "slug": "sp-hamilton-burlington-on-en"
+  },
+  "852": {
+   "name": "Guelph, ON",
+   "slug": "re-guelph-on-en"
+  },
+  "854": {
+   "name": "Lethbridge, AB",
+   "slug": "afs-lethbridge-ab-en"
+  },
+  "855": {
+   "name": "Kingston, ON",
+   "slug": "sh-kingston-on-en"
+  },
+  "858": {
+   "name": "Not applicable",
+   "slug": "sp-not-applicable-en"
+  },
+  "863": {
+   "name": "Northern Ontario",
+   "slug": "sh-northern-ontario-en"
+  },
+  "864": {
+   "name": "Not applicable",
+   "slug": "sunmet-not-applicable-en"
+  },
+  "865": {
+   "name": "Prairies Region",
+   "slug": "cfiasa-prairies-region-en"
+  },
+  "871": {
+   "name": "Public Services and Procurement Canada, NCR",
+   "slug": "nr-public-services-and-procurement-canada-ncr-en"
+  },
+  "873": {
+   "name": "Not applicable",
+   "slug": "nbag-not-applicable-en"
+  },
+  "874": {
+   "name": "Place de Ville, NCR",
+   "slug": "nr-place-de-ville-ncr-en"
+  },
+  "876": {
+   "name": "Not applicable",
+   "slug": "nr-not-applicable-en"
+  },
+  "877": {
+   "name": "Northern BC",
+   "slug": "afs-northern-bc-en"
+  },
+  "878": {
+   "name": "Moncton, NB",
+   "slug": "cs-moncton-nb-en"
+  },
+  "880": {
+   "name": "Petawawa-CFB, NCR",
+   "slug": "cs-petawawa-cfb-ncr-en"
+  },
+  "881": {
+   "name": "Halifax, NS",
+   "slug": "afs-halifax-ns-en"
+  },
+  "885": {
+   "name": "Not applicable",
+   "slug": "mage-not-applicable-en"
+  },
+  "889": {
+   "name": "Greenwood, NS",
+   "slug": "cs-greenwood-ns-en"
+  },
+  "890": {
+   "name": "Calgary, AB",
+   "slug": "nureg-calgary-ab-en"
+  },
+  "894": {
+   "name": "Quebec Region",
+   "slug": "cfiasa-quebec-region-en"
+  },
+  "895": {
+   "name": "Not applicable",
+   "slug": "nrcrorco-not-applicable-en"
+  },
+  "898": {
+   "name": "Burnaby, BC",
+   "slug": "afs-burnaby-bc-en"
+  },
+  "899": {
+   "name": "EXPIRED - Global Affairs Canada, NCR",
+   "slug": "cs-expired-global-affairs-canada-ncr-en"
+  },
+  "901": {
+   "name": "Hamilton, ON",
+   "slug": "cfiasa-hamilton-on-en"
+  },
+  "903": {
+   "name": "EXPIRED - Harrow, ON",
+   "slug": "re-expired-harrow-on-en"
+  },
+  "904": {
+   "name": "Ottawa-West, NCR",
+   "slug": "cs-ottawa-west-ncr-en"
+  },
+  "908": {
+   "name": "Toronto West, ON",
+   "slug": "afs-toronto-west-on-en"
+  },
+  "909": {
+   "name": "400, Place Youville, Montreal, QC",
+   "slug": "afs-400-place-youville-montreal-qc-en"
+  },
+  "911": {
+   "name": "Sudbury/North Bay, ON",
+   "slug": "cs-sudbury-north-bay-on-en"
+  },
+  "913": {
+   "name": "St. John's, NL",
+   "slug": "cs-st-johns-nl-en"
+  },
+  "916": {
+   "name": "Not applicable",
+   "slug": "tbhrt-not-applicable-en"
+  },
+  "917": {
+   "name": "Gatineau, NCR",
+   "slug": "nr-gatineau-ncr-en"
+  },
+  "918": {
+   "name": "Prince Edward Island",
+   "slug": "afs-prince-edward-island-en"
+  },
+  "922": {
+   "name": "Not applicable",
+   "slug": "sunrt-not-applicable-en"
+  },
+  "923": {
+   "name": "Quebec Region",
+   "slug": "nrcrorco-quebec-region-en"
+  },
+  "924": {
+   "name": "Gatineau, NCR",
+   "slug": "cp-gatineau-ncr-en"
+  },
+  "928": {
+   "name": "Vancouver, BC",
+   "slug": "cp-vancouver-bc-en"
+  },
+  "929": {
+   "name": "Ville de Québec, QC",
+   "slug": "afs-ville-de-quebec-qc-en"
+  },
+  "931": {
+   "name": "Essex/Kent, ON",
+   "slug": "sh-essex-kent-on-en"
+  },
+  "932": {
+   "name": "Ottawa-South, NCR",
+   "slug": "cs-ottawa-south-ncr-en"
+  },
+  "936": {
+   "name": "Winnipeg, MB",
+   "slug": "nr-winnipeg-mb-en"
+  },
+  "937": {
+   "name": "Saskatoon Psychiatric Centre (CSC), SK",
+   "slug": "sh-saskatoon-psychiatric-centre-csc-sk-en"
+  },
+  "940": {
+   "name": "Not applicable",
+   "slug": "nbvs-not-applicable-en"
+  },
+  "941": {
+   "name": "Greenwood, NS",
+   "slug": "sh-greenwood-ns-en"
+  },
+  "944": {
+   "name": "South West Region of Ontario",
+   "slug": "cfiavm-south-west-region-of-ontario-en"
+  },
+  "945": {
+   "name": "Winnipeg, MB",
+   "slug": "av-winnipeg-mb-en"
+  },
+  "946": {
+   "name": "Not applicable",
+   "slug": "afs-not-applicable-en"
+  },
+  "947": {
+   "name": "Not applicable",
+   "slug": "re-not-applicable-en"
+  },
+  "948": {
+   "name": "Kingston, ON",
+   "slug": "cs-kingston-on-en"
+  },
+  "950": {
+   "name": "National Capital Region",
+   "slug": "sp-national-capital-region-en"
+  },
+  "951": {
+   "name": "Moncton, NB",
+   "slug": "nr-moncton-nb-en"
+  },
+  "958": {
+   "name": "Pacific Region, BC",
+   "slug": "cs-pacific-region-bc-en"
+  },
+  "959": {
+   "name": "Natural Resources Canada, NCR",
+   "slug": "re-natural-resources-canada-ncr-en"
+  },
+  "961": {
+   "name": "Environment and Climate Change Canada Toronto, ON",
+   "slug": "sp-environment-and-climate-change-canada-toronto-on-en"
+  },
+  "964": {
+   "name": "Montérégie, QC",
+   "slug": "cs-monteregie-qc-en"
+  },
+  "965": {
+   "name": "Grand-Montreal/Rive-Nord",
+   "slug": "sh-grand-montreal-rive-nord-en"
+  },
+  "968": {
+   "name": "Moncton, NB",
+   "slug": "cp-moncton-nb-en"
+  },
+  "970": {
+   "name": "National Capital Region",
+   "slug": "sh-national-capital-region-en"
+  },
+  "971": {
+   "name": "National Defence - Quebec Region",
+   "slug": "sh-national-defence-quebec-region-en"
+  },
+  "974": {
+   "name": "Labrador",
+   "slug": "cp-labrador-en"
+  },
+  "975": {
+   "name": "London, ON",
+   "slug": "cs-london-on-en"
+  },
+  "978": {
+   "name": "Pacific Forestry Centre",
+   "slug": "sp-pacific-forestry-centre-en"
+  },
+  "980": {
+   "name": "Scarborough",
+   "slug": "sp-scarborough-en"
+  },
+  "981": {
+   "name": "Winnipeg, MB",
+   "slug": "cp-winnipeg-mb-en"
+  },
+  "983": {
+   "name": "Not applicable",
+   "slug": "cfiavm-not-applicable-en"
+  },
+  "986": {
+   "name": "DFAIT, NCR",
+   "slug": "cs-dfait-ncr-en"
+  },
+  "988": {
+   "name": "Not applicable",
+   "slug": "n-a-not-applicable-en"
+  },
+  "989": {
+   "name": "Not applicable",
+   "slug": "sh-not-applicable-en"
+  },
+  "990": {
+   "name": "Not applicable",
+   "slug": "crpeg-not-applicable-en"
+  },
+  "991": {
+   "name": "Victoria, BC",
+   "slug": "av-victoria-bc-en"
+  },
+  "992": {
+   "name": "Quebec Veterinarians",
+   "slug": "cfiavm-quebec-veterinarians-en"
+  },
+  "997": {
+   "name": "Toronto North, ON",
+   "slug": "afs-toronto-north-on-en"
+  },
+  "998": {
+   "name": "Trois-Rivières, QC",
+   "slug": "afs-trois-rivieres-qc-en"
+  },
+  "1000": {
+   "name": "Regina, Saskatchewan",
+   "slug": "sh-regina-saskatchewan-en"
+  },
+  "1001": {
+   "name": "St. Hyacinthe, QC",
+   "slug": "re-st-hyacinthe-qc-en"
+  },
+  "1002": {
+   "name": "South Vancouver Island, BC",
+   "slug": "av-south-vancouver-island-bc-en"
+  },
+  "1006": {
+   "name": "Halifax, NS",
+   "slug": "sp-halifax-ns-en"
+  },
+  "1007": {
+   "name": "CSC - Atlantic Institution, NB",
+   "slug": "sh-csc-atlantic-institution-nb-en"
+  },
+  "1008": {
+   "name": "Petawawa - National Defence, ON",
+   "slug": "cs-petawawa-national-defence-on-en"
+  },
+  "1013": {
+   "name": "St. John's, NL",
+   "slug": "sh-st-johns-nl-en"
+  },
+  "1014": {
+   "name": "Nanaimo, BC",
+   "slug": "sp-nanaimo-bc-en"
+  },
+  "1018": {
+   "name": "Laval, QC",
+   "slug": "afs-laval-qc-en"
+  },
+  "1020": {
+   "name": "Barrie, ON",
+   "slug": "afs-barrie-on-en"
+  },
+  "1022": {
+   "name": "Burlington, ON",
+   "slug": "cs-burlington-on-en"
+  },
+  "1023": {
+   "name": "Shawinigan, QC",
+   "slug": "afs-shawinigan-qc-en"
+  },
+  "1024": {
+   "name": "Not applicable",
+   "slug": "wfcc-not-applicable-en"
+  },
+  "1025": {
+   "name": "Kingston - Correctional Services, ON",
+   "slug": "cs-kingston-correctional-services-on-en"
+  },
+  "1026": {
+   "name": "National Defence Headquarters Area, NCR",
+   "slug": "re-national-defence-headquarters-area-ncr-en"
+  },
+  "1029": {
+   "name": "Montréal Metro, QC",
+   "slug": "cs-montreal-metro-qc-en"
+  },
+  "1033": {
+   "name": "Val D'or, QC",
+   "slug": "nr-val-dor-qc-en"
+  },
+  "1037": {
+   "name": "Lethbridge, AB",
+   "slug": "re-lethbridge-ab-en"
+  },
+  "1038": {
+   "name": "Ottawa, NCR",
+   "slug": "cp-ottawa-ncr-en"
+  },
+  "1040": {
+   "name": "IRAP - Pacific Region",
+   "slug": "nrcrorco-irap-pacific-region-en"
+  },
+  "1044": {
+   "name": "Victoria, BC",
+   "slug": "afs-victoria-bc-en"
+  },
+  "1045": {
+   "name": "Outaouais Tax Services Office, NCR",
+   "slug": "afs-outaouais-tax-services-office-ncr-en"
+  },
+  "1046": {
+   "name": "4905 Dufferin Street, Toronto, ON",
+   "slug": "sp-4905-dufferin-street-toronto-on-en"
+  },
+  "1047": {
+   "name": "Ottawa - Head Office Appeals, NCR",
+   "slug": "afs-ottawa-head-office-appeals-ncr-en"
+  },
+  "1051": {
+   "name": "Edmonton, AB",
+   "slug": "nr-edmonton-ab-en"
+  },
+  "1052": {
+   "name": "Not applicable",
+   "slug": "cs-not-applicable-en"
+  },
+  "1054": {
+   "name": "Ville de Québec, QC",
+   "slug": "nr-ville-de-quebec-qc-en"
+  },
+  "1058": {
+   "name": "Halifax, NS",
+   "slug": "nr-halifax-ns-en"
+  },
+  "1060": {
+   "name": "Winnipeg & Southern Manitoba",
+   "slug": "cs-winnipeg-southern-manitoba-en"
+  },
+  "1061": {
+   "name": "Not applicable",
+   "slug": "ccc-not-applicable-en"
+  },
+  "1062": {
+   "name": "Rimouski, QC",
+   "slug": "afs-rimouski-qc-en"
+  },
+  "1065": {
+   "name": "Iqaluit, NU",
+   "slug": "sp-iqaluit-nu-en"
+  },
+  "1066": {
+   "name": "NCR, DND",
+   "slug": "nr-ncr-dnd-en"
+  },
+  "1067": {
+   "name": "DRDC Ottawa - NCR",
+   "slug": "re-drdc-ottawa-ncr-en"
+  },
+  "1068": {
+   "name": "Centreville, NCR",
+   "slug": "cs-centreville-ncr-en"
+  },
+  "1072": {
+   "name": "Newfoundland and Labrador",
+   "slug": "afs-newfoundland-and-labrador-en"
+  },
+  "1073": {
+   "name": "EXPIRED - Defence Research Establishment Prairies, AB",
+   "slug": "re-expired-defence-research-establishment-prairies-ab-en"
+  },
+  "1076": {
+   "name": "Toronto, ON",
+   "slug": "cs-toronto-on-en"
+  },
+  "1080": {
+   "name": "Agriculture and Agri-Food Canada - NCR",
+   "slug": "re-agriculture-and-agri-food-canada-ncr-en"
+  },
+  "1082": {
+   "name": "Vancouver Island, BC",
+   "slug": "cs-vancouver-island-bc-en"
+  },
+  "1083": {
+   "name": "Shawinigan, QC",
+   "slug": "cs-shawinigan-qc-en"
+  },
+  "1084": {
+   "name": "NRCAN, NCR",
+   "slug": "cs-nrcan-ncr-en"
+  },
+  "1085": {
+   "name": "Simcoe/Grey, ON",
+   "slug": "cs-simcoe-grey-on-en"
+  },
+  "1090": {
+   "name": "StatCan, Elections, PSPC, NCR",
+   "slug": "re-statcan-elections-pspc-ncr-en"
+  },
+  "1092": {
+   "name": "Not applicable",
+   "slug": "mp-not-applicable-en"
+  },
+  "1094": {
+   "name": "British Columbia Region",
+   "slug": "cfiasa-british-columbia-region-en"
+  },
+  "1095": {
+   "name": "Charlottetown, PEI",
+   "slug": "afs-charlottetown-pei-en"
+  },
+  "1096": {
+   "name": "Saskatoon",
+   "slug": "sp-saskatoon-en"
+  },
+  "1099": {
+   "name": "Northern Ontario",
+   "slug": "av-northern-ontario-en"
+  },
+  "1101": {
+   "name": "Chicoutimi, QC",
+   "slug": "afs-chicoutimi-qc-en"
+  },
+  "1102": {
+   "name": "CANMET Hamilton, ON",
+   "slug": "re-canmet-hamilton-on-en"
+  },
+  "1105": {
+   "name": "Mont Joli, QC",
+   "slug": "cs-mont-joli-qc-en"
+  },
+  "1106": {
+   "name": "Halifax, NS",
+   "slug": "cp-halifax-ns-en"
+  },
+  "1107": {
+   "name": "Montréal Criminal Investigations, QC",
+   "slug": "afs-montreal-criminal-investigations-qc-en"
+  },
+  "1108": {
+   "name": "Yukon",
+   "slug": "sp-yukon-en"
+  },
+  "1110": {
+   "name": "Not applicable",
+   "slug": "wrhrt-not-applicable-en"
+  },
+  "1114": {
+   "name": "Bathurst, NB",
+   "slug": "afs-bathurst-nb-en"
+  },
+  "1118": {
+   "name": "Quinte - National Defence, ON",
+   "slug": "cs-quinte-national-defence-on-en"
+  },
+  "1119": {
+   "name": "Not applicable",
+   "slug": "cfiain-not-applicable-en"
+  },
+  "1123": {
+   "name": "Not applicable",
+   "slug": "cp-not-applicable-en"
+  },
+  "1125": {
+   "name": "EXPIRED - Calgary, AB",
+   "slug": "re-expired-calgary-ab-en"
+  },
+  "1126": {
+   "name": "CFB Gagetown, NB",
+   "slug": "sh-cfb-gagetown-nb-en"
+  },
+  "1129": {
+   "name": "Petawawa, ON",
+   "slug": "sh-petawawa-on-en"
+  },
+  "1130": {
+   "name": "Not applicable",
+   "slug": "sen-not-applicable-en"
+  },
+  "1131": {
+   "name": "Southern Ontario",
+   "slug": "av-southern-ontario-en"
+  },
+  "1132": {
+   "name": "Quebec City",
+   "slug": "sp-quebec-city-en"
+  },
+  "1133": {
+   "name": "Montréal, QC",
+   "slug": "afs-montreal-qc-en"
+  },
+  "1137": {
+   "name": "Ville de Québec, QC",
+   "slug": "cp-ville-de-quebec-qc-en"
+  },
+  "1140": {
+   "name": "Regina, SK",
+   "slug": "afs-regina-sk-en"
+  },
+  "1141": {
+   "name": "Nanaimo, BC",
+   "slug": "re-nanaimo-bc-en"
+  },
+  "1143": {
+   "name": "Montreal - National Defence, QC",
+   "slug": "cs-montreal-national-defence-qc-en"
+  },
+  "1144": {
+   "name": "Charlottetown, PEI",
+   "slug": "sh-charlottetown-pei-en"
+  },
+  "1147": {
+   "name": "Saskatoon, SK",
+   "slug": "av-saskatoon-sk-en"
+  },
+  "1151": {
+   "name": "EXPIRED - Southern Ontario",
+   "slug": "cp-expired-southern-ontario-en"
+  },
+  "1152": {
+   "name": "EXPIRED - North Central Vancouver Island, BC",
+   "slug": "cp-expired-north-central-vancouver-island-bc-en"
+  },
+  "1155": {
+   "name": "CFB Borden, ON",
+   "slug": "cs-cfb-borden-on-en"
+  },
+  "1157": {
+   "name": "Not applicable",
+   "slug": "av-not-applicable-en"
+  },
+  "1158": {
+   "name": "Sudbury, ON",
+   "slug": "afs-sudbury-on-en"
+  },
+  "1159": {
+   "name": "Toronto, ON",
+   "slug": "cp-toronto-on-en"
+  },
+  "1160": {
+   "name": "NCR East",
+   "slug": "nav-ncr-east-en"
+  },
+  "1163": {
+   "name": "Victoria, BC",
+   "slug": "re-victoria-bc-en"
+  },
+  "1166": {
+   "name": "Not applicable",
+   "slug": "nrctr-not-applicable-en"
+  },
+  "1167": {
+   "name": "St. John's, NL",
+   "slug": "afs-st-johns-nl-en"
+  },
+  "1171": {
+   "name": "London, ON",
+   "slug": "afs-london-on-en"
+  },
+  "1172": {
+   "name": "Northern Ontario",
+   "slug": "cp-northern-ontario-en"
+  },
+  "1173": {
+   "name": "Valcartier - DND, QU",
+   "slug": "cs-valcartier-dnd-qu-en"
+  },
+  "1177": {
+   "name": "Winnipeg, MB",
+   "slug": "sh-winnipeg-mb-en"
+  },
+  "1178": {
+   "name": "EXPIRED - Yellowknife, NWT",
+   "slug": "sp-expired-yellowknife-nwt-en"
+  },
+  "1179": {
+   "name": "Brandon, MB",
+   "slug": "re-brandon-mb-en"
+  },
+  "1182": {
+   "name": "Québec City",
+   "slug": "afs-quebec-city-en"
+  },
+  "1184": {
+   "name": "Eastern Quebec",
+   "slug": "cs-eastern-quebec-en"
+  },
+  "1186": {
+   "name": "Saskatoon, SK",
+   "slug": "nrcrorco-saskatoon-sk-en"
+  },
+  "1187": {
+   "name": "Statistics Canada, NCR",
+   "slug": "cs-statistics-canada-ncr-en"
+  },
+  "1189": {
+   "name": "Dartmouth, NS",
+   "slug": "sp-dartmouth-ns-en"
+  },
+  "1191": {
+   "name": "Atlantic Region",
+   "slug": "nrcrorco-atlantic-region-en"
+  },
+  "1193": {
+   "name": "Not applicable",
+   "slug": "cfiasa-not-applicable-en"
+  },
+  "1194": {
+   "name": "Not applicable",
+   "slug": "nben-not-applicable-en"
+  },
+  "1201": {
+   "name": "Not applicable",
+   "slug": "uottawa-not-applicable-en"
+  },
+  "1202": {
+   "name": "510 Lagimodière Blvd, Winnipeg, MB",
+   "slug": "sp-510-lagimodiere-blvd-winnipeg-mb-en"
+  },
+  "1203": {
+   "name": "Suffield, AB",
+   "slug": "cs-suffield-ab-en"
+  },
+  "1206": {
+   "name": "Regina, SK",
+   "slug": "sp-regina-sk-en"
+  },
+  "1208": {
+   "name": "National Capital Region",
+   "slug": "nrcrorco-national-capital-region-en"
+  },
+  "1209": {
+   "name": "St.John's, NFLD",
+   "slug": "av-st-johns-nfld-en"
+  },
+  "1211": {
+   "name": "Darlington Site Office and Friends",
+   "slug": "nureg-darlington-site-office-and-friends-en"
+  },
+  "1213": {
+   "name": "Halifax, NS",
+   "slug": "nrcrorco-halifax-ns-en"
+  },
+  "1215": {
+   "name": "Edmonton, AB",
+   "slug": "sh-edmonton-ab-en"
+  },
+  "1216": {
+   "name": "Montréal, QC",
+   "slug": "cp-montreal-qc-en"
+  },
+  "1217": {
+   "name": "Ottawa-East, NCR",
+   "slug": "cs-ottawa-east-ncr-en"
+  },
+  "1218": {
+   "name": "1050 Courtneypark, Mississauga, ON",
+   "slug": "cfiasa-1050-courtneypark-mississauga-on-en"
+  },
+  "1220": {
+   "name": "Hamilton/Burlington, ON",
+   "slug": "re-hamilton-burlington-on-en"
+  },
+  "1226": {
+   "name": "London/Essex, ON",
+   "slug": "cs-london-essex-on-en"
+  },
+  "1228": {
+   "name": "Place du Portage / Terrasses de la Chaudière, NCR",
+   "slug": "av-place-du-portage-terrasses-de-la-chaudiere-ncr-en"
+  },
+  "1229": {
+   "name": "Fredericton, NB",
+   "slug": "sh-fredericton-nb-en"
+  },
+  "1230": {
+   "name": "Toronto & Central Region of Ontario",
+   "slug": "cfiavm-toronto-central-region-of-ontario-en"
+  },
+  "1231": {
+   "name": "NCR-Trainyards, NCR",
+   "slug": "afs-ncr-trainyards-ncr-en"
+  },
+  "1235": {
+   "name": "Kentville, NS",
+   "slug": "re-kentville-ns-en"
+  },
+  "1237": {
+   "name": "Winnipeg Downtown",
+   "slug": "sp-winnipeg-downtown-en"
+  },
+  "1238": {
+   "name": "Pacific Region - RCMP, BC",
+   "slug": "cs-pacific-region-rcmp-bc-en"
+  },
+  "1239": {
+   "name": "Transport, N.C.R.",
+   "slug": "sp-transport-n-c-r-en"
+  },
+  "1241": {
+   "name": "Newfoundland",
+   "slug": "av-newfoundland-en"
+  },
+  "1246": {
+   "name": "Quebec Region",
+   "slug": "cfiavm-quebec-region-en"
+  },
+  "1247": {
+   "name": "Edmonton, AB",
+   "slug": "av-edmonton-ab-en"
+  },
+  "1248": {
+   "name": "St. Andrews, NB",
+   "slug": "re-st-andrews-nb-en"
+  },
+  "1251": {
+   "name": "Canada Border Services Agency, NCR",
+   "slug": "cs-canada-border-services-agency-ncr-en"
+  },
+  "1254": {
+   "name": "Vancouver Island, BC",
+   "slug": "cp-vancouver-island-bc-en"
+  },
+  "1256": {
+   "name": "Guelph, ON",
+   "slug": "cfiasa-guelph-on-en"
+  },
+  "1257": {
+   "name": "Yellowknife, NWT",
+   "slug": "cp-yellowknife-nwt-en"
+  },
+  "1260": {
+   "name": "Halifax, NS",
+   "slug": "cs-halifax-ns-en"
+  },
+  "1261": {
+   "name": "2301 Midland Avenue - Toronto, ON",
+   "slug": "sp-2301-midland-avenue-toronto-on-en"
+  },
+  "1262": {
+   "name": "Not applicable",
+   "slug": "neb-not-applicable-en"
+  },
+  "1263": {
+   "name": "Ste. Anne de Bellevue, QC",
+   "slug": "sh-ste-anne-de-bellevue-qc-en"
+  },
+  "1264": {
+   "name": "Laval/Rive-Nord, QC",
+   "slug": "nr-laval-rive-nord-qc-en"
+  },
+  "1268": {
+   "name": "St. Catharines, ON",
+   "slug": "afs-st-catharines-on-en"
+  },
+  "1272": {
+   "name": "EXPIRED - Defence Research Establishment, NCR",
+   "slug": "re-expired-defence-research-establishment-ncr-en"
+  },
+  "1274": {
+   "name": "Québec City, QC",
+   "slug": "av-quebec-city-qc-en"
+  },
+  "1275": {
+   "name": "St.John's, NL",
+   "slug": "cp-st-johns-nl-en"
+  },
+  "1276": {
+   "name": "4900 Yonge Street - Toronto, ON",
+   "slug": "nr-4900-yonge-street-toronto-on-en"
+  },
+  "1279": {
+   "name": "Ottawa-Metro, NCR",
+   "slug": "cs-ottawa-metro-ncr-en"
+  },
+  "1280": {
+   "name": "Toronto, ON",
+   "slug": "av-toronto-on-en"
+  },
+  "1284": {
+   "name": "Regina, SK",
+   "slug": "cs-regina-sk-en"
+  },
+  "1285": {
+   "name": "NCR West",
+   "slug": "nav-ncr-west-en"
+  },
+  "1288": {
+   "name": "National Defence, NCR",
+   "slug": "cs-national-defence-ncr-en"
+  },
+  "1289": {
+   "name": "Vancouver Island - DND, BC",
+   "slug": "cs-vancouver-island-dnd-bc-en"
+  },
+  "1290": {
+   "name": "PWGSC, NCR",
+   "slug": "nr-pwgsc-ncr-en"
+  },
+  "1292": {
+   "name": "Cold Lake, AB",
+   "slug": "nr-cold-lake-ab-en"
+  },
+  "1296": {
+   "name": "Ottawa Tax Services Office & International Tax Service Office",
+   "slug": "afs-ottawa-tax-services-office-international-tax-service-office-en"
+  },
+  "1298": {
+   "name": "200, boul. René Levesque, Montreal, QC",
+   "slug": "afs-200-boul-rene-levesque-montreal-qc-en"
+  },
+  "1299": {
+   "name": "NCR -Library and Archives Canada",
+   "slug": "re-ncr-library-and-archives-canada-en"
+  },
+  "1301": {
+   "name": "Montréal East, QC",
+   "slug": "cs-montreal-east-qc-en"
+  },
+  "1302": {
+   "name": "Sault Ste. Marie",
+   "slug": "sp-sault-ste-marie-en"
+  },
+  "1303": {
+   "name": "Moncton, NB",
+   "slug": "av-moncton-nb-en"
+  },
+  "1305": {
+   "name": "Quinte, ON",
+   "slug": "cs-quinte-on-en"
+  },
+  "1306": {
+   "name": "Edmonton, AB",
+   "slug": "cs-edmonton-ab-en"
+  },
+  "1312": {
+   "name": "Victoria, BC",
+   "slug": "cs-victoria-bc-en"
+  },
+  "1314": {
+   "name": "Québec, QC",
+   "slug": "cs-quebec-qc-en"
+  },
+  "1316": {
+   "name": "Montérégie, QC",
+   "slug": "nr-monteregie-qc-en"
+  },
+  "1317": {
+   "name": "NCR-Canada Board Services Agency",
+   "slug": "av-ncr-canada-board-services-agency-en"
+  },
+  "1318": {
+   "name": "Yukon",
+   "slug": "cp-yukon-en"
+  },
+  "1319": {
+   "name": "Kingston, ON",
+   "slug": "nr-kingston-on-en"
+  },
+  "1323": {
+   "name": "Southwest Nova Scotia",
+   "slug": "cs-southwest-nova-scotia-en"
+  },
+  "1324": {
+   "name": "Montréal, QC",
+   "slug": "av-montreal-qc-en"
+  },
+  "1325": {
+   "name": "Prince Edward Island",
+   "slug": "cs-prince-edward-island-en"
+  },
+  "1326": {
+   "name": "N.S. (PWGSC)",
+   "slug": "cs-n-s-pwgsc-en"
+  },
+  "1332": {
+   "name": "Nunavut",
+   "slug": "cp-nunavut-en"
+  },
+  "1333": {
+   "name": "Shirley's Bay, NCR",
+   "slug": "re-shirleys-bay-ncr-en"
+  },
+  "1334": {
+   "name": "Atlantic Region",
+   "slug": "cfiavm-atlantic-region-en"
+  },
+  "1337": {
+   "name": "Ottawa, NCR",
+   "slug": "av-ottawa-ncr-en"
+  },
+  "1339": {
+   "name": "Brandon, MB",
+   "slug": "afs-brandon-mb-en"
+  },
+  "1342": {
+   "name": "200 René-Lévesque West, Montreal, QUE",
+   "slug": "afs-200-rene-levesque-west-montreal-que-en"
+  },
+  "1343": {
+   "name": "Halifax, NS",
+   "slug": "av-halifax-ns-en"
+  },
+  "1344": {
+   "name": "Sioux Lookout, ON",
+   "slug": "sh-sioux-lookout-on-en"
+  },
+  "1345": {
+   "name": "Gatineau, NCR",
+   "slug": "av-gatineau-ncr-en"
+  },
+  "1350": {
+   "name": "EXPIRED - North Bay, ON",
+   "slug": "afs-expired-north-bay-on-en"
+  },
+  "1352": {
+   "name": "Kingston - National Defence, ON",
+   "slug": "cs-kingston-national-defence-on-en"
+  },
+  "1354": {
+   "name": "Valcartier - DREV, QC",
+   "slug": "re-valcartier-drev-qc-en"
+  },
+  "1355": {
+   "name": "Saint John, NB",
+   "slug": "sh-saint-john-nb-en"
+  },
+  "1356": {
+   "name": "Montreal - PWGSC, QC",
+   "slug": "cs-montreal-pwgsc-qc-en"
+  },
+  "1357": {
+   "name": "350 King Edward Avenue/700 Montreal Road, Ottawa, ON",
+   "slug": "cs-350-king-edward-avenue-700-montreal-road-ottawa-on-en"
+  },
+  "1362": {
+   "name": "Scarborough, ON",
+   "slug": "afs-scarborough-on-en"
+  },
+  "1364": {
+   "name": "Toronto, ON",
+   "slug": "cfiasa-toronto-on-en"
+  },
+  "1366": {
+   "name": "Toronto, ON",
+   "slug": "osfi-toronto-on-en"
+  },
+  "1367": {
+   "name": "Greater Moncton - HRDC, NB",
+   "slug": "cs-greater-moncton-hrdc-nb-en"
+  },
+  "1370": {
+   "name": "EXPIRED - Fredericton, NB",
+   "slug": "cp-expired-fredericton-nb-en"
+  },
+  "1371": {
+   "name": "Saskatoon, SK",
+   "slug": "cp-saskatoon-sk-en"
+  },
+  "1374": {
+   "name": "1730 St-Laurent Blvd, Ottawa, ON",
+   "slug": "afs-1730-st-laurent-blvd-ottawa-on-en"
+  },
+  "1376": {
+   "name": "North Central Vancouver Island, BC",
+   "slug": "av-north-central-vancouver-island-bc-en"
+  },
+  "1378": {
+   "name": "Charlottetown - DVA, PEI",
+   "slug": "cs-charlottetown-dva-pei-en"
+  },
+  "1380": {
+   "name": "DND-Louis Saint-Laurent Complex, NCR",
+   "slug": "nr-dnd-louis-saint-laurent-complex-ncr-en"
+  },
+  "1382": {
+   "name": "Montréal, QC",
+   "slug": "nr-montreal-qc-en"
+  },
+  "1383": {
+   "name": "EXPIRED - Okanagan, BC",
+   "slug": "re-expired-okanagan-bc-en"
+  },
+  "1386": {
+   "name": "Calgary, AB",
+   "slug": "cs-calgary-ab-en"
+  },
+  "1387": {
+   "name": "Vancouver, BC",
+   "slug": "av-vancouver-bc-en"
+  },
+  "1389": {
+   "name": "Miramichi - HRDC, NB",
+   "slug": "cs-miramichi-hrdc-nb-en"
+  },
+  "1392": {
+   "name": "Saskatchewan",
+   "slug": "nureg-saskatchewan-en"
+  },
+  "1393": {
+   "name": "Mauricie, QC",
+   "slug": "cs-mauricie-qc-en"
+  },
+  "1394": {
+   "name": "Toronto, ON",
+   "slug": "nrcrorco-toronto-on-en"
+  },
+  "1398": {
+   "name": "Transport, N.C.R.",
+   "slug": "nr-transport-n-c-r-en"
+  },
+  "1400": {
+   "name": "Springhill Institution, NB",
+   "slug": "sh-springhill-institution-nb-en"
+  },
+  "1401": {
+   "name": "EXPIRED - Swift Current, SK",
+   "slug": "re-expired-swift-current-sk-en"
+  },
+  "1404": {
+   "name": "Downsview, ON",
+   "slug": "re-downsview-on-en"
+  },
+  "1406": {
+   "name": "Fredericton, NB",
+   "slug": "av-fredericton-nb-en"
+  },
+  "1408": {
+   "name": "National Defence - Borden",
+   "slug": "sh-national-defence-borden-en"
+  },
+  "1410": {
+   "name": "Victoria, BC",
+   "slug": "nrcrorco-victoria-bc-en"
+  },
+  "2055": {
+   "name": "Not applicable",
+   "slug": "wpeg-not-applicable-en"
+  },
+  "2056": {
+   "name": "Downtown Edmonton, AB",
+   "slug": "sp-downtown-edmonton-ab-en"
+  },
+  "2059": {
+   "name": "Saskatoon & Prince Albert, SK",
+   "slug": "cs-saskatoon-prince-albert-sk-en"
+  },
+  "2062": {
+   "name": "Fredericton, NB",
+   "slug": "re-fredericton-nb-en"
+  },
+  "2063": {
+   "name": "Fredericton, NB",
+   "slug": "nr-fredericton-nb-en"
+  },
+  "2064": {
+   "name": "National Defence, NCR",
+   "slug": "av-national-defence-ncr-en"
+  },
+  "2387": {
+   "name": "Cape Breton, NS",
+   "slug": "sh-cape-breton-ns-en"
+  },
+  "2522": {
+   "name": "New Brunswick Crown Prosecutor's Association Group",
+   "slug": "new-brunswick-crown-prosecutors-association-group-en-2"
+  },
+  "2523": {
+   "name": "CFB Bordon, ON",
+   "slug": "cs-cfb-bordon-on-en"
+  },
+  "2584": {
+   "name": "Okanagan, BC",
+   "slug": "sp-okanagan-bc-en"
+  },
+  "2586": {
+   "name": "North Coast, BC",
+   "slug": "sp-north-coast-bc-en"
+  },
+  "2589": {
+   "name": "St. John's, NL",
+   "slug": "nr-st-johns-nl-en"
+  },
+  "2591": {
+   "name": "CSC Dorchester, NB",
+   "slug": "sh-csc-dorchester-nb-en"
+  },
+  "2600": {
+   "name": "Invalid",
+   "slug": "sp-invalid-en"
+  },
+  "2603": {
+   "name": "Guelph-Kitchener-Waterloo",
+   "slug": "cs-guelph-kitchener-waterloo-en"
+  },
+  "2606": {
+   "name": "Calgary, AB",
+   "slug": "sp-calgary-ab-en"
+  },
+  "2626": {
+   "name": "Drumheller, AB",
+   "slug": "sh-drumheller-ab-en"
+  }
+ },
+ "employer": {
+  "526": {
+   "name": "EXPIRED - Communications Security Establishment",
+   "slug": "expired-communications-security-establishment-en"
+  },
+  "528": {
+   "name": "National Gallery of Canada",
+   "slug": "national-gallery-of-canada-en"
+  },
+  "529": {
+   "name": "Yukon Hospital Corporation",
+   "slug": "yukon-hospital-corporation-en"
+  },
+  "532": {
+   "name": "Canadian Nuclear Safety Commission",
+   "slug": "canadian-nuclear-safety-commission-en"
+  },
+  "533": {
+   "name": "Office of the Superintendent of Financial Institutions Canada",
+   "slug": "office-of-the-superintendent-of-financial-institutions-canada-en"
+  },
+  "536": {
+   "name": "Canadian Tourism Commission",
+   "slug": "canadian-tourism-commission-en"
+  },
+  "537": {
+   "name": "Niagara Health System",
+   "slug": "niagara-health-system-en"
+  },
+  "538": {
+   "name": "Thunder Bay Regional Health Sciences Centre",
+   "slug": "thunder-bay-regional-health-sciences-centre-en"
+  },
+  "540": {
+   "name": "Not applicable",
+   "slug": "not-applicable-en"
+  },
+  "541": {
+   "name": "Canada Energy Regulator",
+   "slug": "canada-energy-regulator-en"
+  },
+  "544": {
+   "name": "New Brunswick Board of Management",
+   "slug": "new-brunswick-board-of-management-en"
+  },
+  "546": {
+   "name": "Hamilton Health Sciences Centre",
+   "slug": "hamilton-health-sciences-centre-en"
+  },
+  "553": {
+   "name": "Regional Cancer Centres Employers Association",
+   "slug": "regional-cancer-centres-employers-association-en"
+  },
+  "554": {
+   "name": "The Senate",
+   "slug": "the-senate-en"
+  },
+  "558": {
+   "name": "Manitoba Civil Service",
+   "slug": "manitoba-civil-service-en"
+  },
+  "559": {
+   "name": "National Research Council Canada",
+   "slug": "national-research-council-canada-en"
+  },
+  "562": {
+   "name": "Government of New Brunswick",
+   "slug": "government-of-new-brunswick-en"
+  },
+  "563": {
+   "name": "House of Commons",
+   "slug": "house-of-commons-en"
+  },
+  "564": {
+   "name": "Royal Canadian Mounted Police",
+   "slug": "royal-canadian-mounted-police-en"
+  },
+  "568": {
+   "name": "EXPIRED - Fort Qu'Appelle Indian Hospital",
+   "slug": "expired-fort-quappelle-indian-hospital-en"
+  },
+  "569": {
+   "name": "EXPIRED - Regional Hospital",
+   "slug": "expired-regional-hospital-en"
+  },
+  "570": {
+   "name": "Sunnybrook Health Sciences Centre",
+   "slug": "sunnybrook-health-sciences-centre-en"
+  },
+  "574": {
+   "name": "Canadian Museum of Nature",
+   "slug": "canadian-museum-of-nature-en"
+  },
+  "575": {
+   "name": "EXPIRED - BC Cancer Agency",
+   "slug": "expired-bc-cancer-agency-en"
+  },
+  "576": {
+   "name": "Canada Revenue Agency",
+   "slug": "canada-revenue-agency-en"
+  },
+  "577": {
+   "name": "Treasury Board of Canada",
+   "slug": "treasury-board-of-canada-en"
+  },
+  "578": {
+   "name": "EXPIRED - Atomic Energy of Canada Limited",
+   "slug": "expired-atomic-energy-of-canada-limited-en"
+  },
+  "580": {
+   "name": "Canadian Commercial Corporation",
+   "slug": "canadian-commercial-corporation-en"
+  },
+  "582": {
+   "name": "EXPIRED - Windsor Regional Hospital",
+   "slug": "expired-windsor-regional-hospital-en"
+  },
+  "588": {
+   "name": "EXPIRED - Parks Canada Agency",
+   "slug": "expired-parks-canada-agency-en"
+  },
+  "590": {
+   "name": "National Film Board of Canada",
+   "slug": "national-film-board-of-canada-en"
+  },
+  "591": {
+   "name": "EXPIRED - Cancer Care Ontario",
+   "slug": "expired-cancer-care-ontario-en"
+  },
+  "592": {
+   "name": "EXPIRED - Weeneebayko Health Ahtuskaywin",
+   "slug": "expired-weeneebayko-health-ahtuskaywin-en"
+  },
+  "594": {
+   "name": "NAV CANADA",
+   "slug": "nav-canada-en"
+  },
+  "595": {
+   "name": "EXPIRED - Thunder Bay Regional Health Sciences Centre",
+   "slug": "expired-thunder-bay-regional-health-sciences-centre-en"
+  },
+  "600": {
+   "name": "EXPIRED - Deer Lodge Centre",
+   "slug": "expired-deer-lodge-centre-en"
+  },
+  "601": {
+   "name": "EXPIRED - Canada Customs and Revenue Agency",
+   "slug": "expired-canada-customs-and-revenue-agency-en"
+  },
+  "604": {
+   "name": "EXPIRED - New Brunswick Crown Prosecutors Association",
+   "slug": "expired-new-brunswick-crown-prosecutors-association-en"
+  },
+  "605": {
+   "name": "EXPIRED - Canadian Museum of Civilization",
+   "slug": "expired-canadian-museum-of-civilization-en"
+  },
+  "606": {
+   "name": "Canadian Museum of History",
+   "slug": "canadian-museum-of-history-en"
+  },
+  "608": {
+   "name": "EXPIRED - New Brunswick Crown Counsel Association",
+   "slug": "expired-new-brunswick-crown-counsel-association-en"
+  },
+  "609": {
+   "name": "Canadian Nuclear Laboratories",
+   "slug": "canadian-nuclear-laboratories-en"
+  },
+  "611": {
+   "name": "EXPIRED - Halifax Airport",
+   "slug": "expired-halifax-airport-en"
+  },
+  "616": {
+   "name": "EXPIRED - Sunnybrook Health Sciences Centre",
+   "slug": "expired-sunnybrook-health-sciences-centre-en"
+  },
+  "618": {
+   "name": "Windsor Regional Hospital",
+   "slug": "windsor-regional-hospital-en"
+  },
+  "620": {
+   "name": "BC First Nations Health Authority",
+   "slug": "bc-first-nations-health-authority-en"
+  },
+  "623": {
+   "name": "EXPIRED - Canadian Energy Regulator",
+   "slug": "expired-canadian-energy-regulator-en"
+  },
+  "626": {
+   "name": "EXPIRED - Province of Nova Scotia",
+   "slug": "expired-province-of-nova-scotia-en"
+  },
+  "628": {
+   "name": "EXPIRED - Thunder Bay Regional Sciences Centre",
+   "slug": "expired-thunder-bay-regional-sciences-centre-en"
+  },
+  "630": {
+   "name": "EXPIRED - Quebec Airport",
+   "slug": "expired-quebec-airport-en"
+  },
+  "1575": {
+   "name": "Veterans Affairs Canada",
+   "slug": "tb-veterans-affairs-canada-en"
+  },
+  "1587": {
+   "name": "Innovation, Science and Economic Development Canada",
+   "slug": "tb-innovation-science-and-economic-development-canada-en"
+  },
+  "1597": {
+   "name": "Manitoba Civil Service - Conservation",
+   "slug": "cscmb-manitoba-civil-service-conservation-en"
+  },
+  "1598": {
+   "name": "Canada Energy Regulator",
+   "slug": "neb-canada-energy-regulator-en"
+  },
+  "1599": {
+   "name": "Privy Council Office",
+   "slug": "tb-privy-council-office-en"
+  },
+  "1603": {
+   "name": "NB - Dept of the Environment & Local Government",
+   "slug": "nbbm-nb-dept-of-the-environment-local-government-en"
+  },
+  "1606": {
+   "name": "Canadian Space Agency",
+   "slug": "tb-canadian-space-agency-en"
+  },
+  "1610": {
+   "name": "National Security and Intelligence Review Agency",
+   "slug": "tb-national-security-and-intelligence-review-agency-en"
+  },
+  "1614": {
+   "name": "House of Commons",
+   "slug": "hoc-house-of-commons-en"
+  },
+  "1616": {
+   "name": "Public Health Agency of Canada",
+   "slug": "tb-public-health-agency-of-canada-en"
+  },
+  "1617": {
+   "name": "Agriculture and Resource Development",
+   "slug": "cscmb-agriculture-and-resource-development-en"
+  },
+  "1621": {
+   "name": "Governor General",
+   "slug": "tb-governor-general-en"
+  },
+  "1626": {
+   "name": "Indigenous Services Canada",
+   "slug": "tb-indigenous-services-canada-en"
+  },
+  "1634": {
+   "name": "The Senate",
+   "slug": "sen-the-senate-en"
+  },
+  "1639": {
+   "name": "International Trade Canada",
+   "slug": "tb-international-trade-canada-en"
+  },
+  "1640": {
+   "name": "Manitoba Civil Service - Agriculture, Food and Rural Initiatives",
+   "slug": "cscmb-manitoba-civil-service-agriculture-food-and-rural-initiatives-en"
+  },
+  "1646": {
+   "name": "NAFTA Secretariat - Canada Section",
+   "slug": "tb-nafta-secretariat-canada-section-en"
+  },
+  "1649": {
+   "name": "NB - Department of Justice",
+   "slug": "nbbm-nb-department-of-justice-en"
+  },
+  "1655": {
+   "name": "Public Service Commission",
+   "slug": "tb-public-service-commission-en"
+  },
+  "1661": {
+   "name": "Military Police Complaints Commission",
+   "slug": "tb-military-police-complaints-commission-en"
+  },
+  "1663": {
+   "name": "NB - Legal Aid Services Commission",
+   "slug": "nbbm-nb-legal-aid-services-commission-en"
+  },
+  "1664": {
+   "name": "International Joint Commission",
+   "slug": "tb-international-joint-commission-en"
+  },
+  "1666": {
+   "name": "Statistics Canada",
+   "slug": "tb-statistics-canada-en"
+  },
+  "1673": {
+   "name": "Library and Archives Canada",
+   "slug": "tb-library-and-archives-canada-en"
+  },
+  "1674": {
+   "name": "Office of the Commissioner for Federal Judicial Affairs",
+   "slug": "tb-office-of-the-commissioner-for-federal-judicial-affairs-en"
+  },
+  "1676": {
+   "name": "Patented Medicine Prices Review Board",
+   "slug": "tb-patented-medicine-prices-review-board-en"
+  },
+  "1680": {
+   "name": "NB - Department of Health and Wellness",
+   "slug": "nbbm-nb-department-of-health-and-wellness-en"
+  },
+  "1683": {
+   "name": "Natural Resources Canada",
+   "slug": "tb-natural-resources-canada-en"
+  },
+  "1686": {
+   "name": "EXPIRED - RCMP - External Review Committee",
+   "slug": "tb-expired-rcmp-external-review-committee-en"
+  },
+  "1689": {
+   "name": "NB - Dept of Energy & Mines",
+   "slug": "nbbm-nb-dept-of-energy-mines-en"
+  },
+  "1692": {
+   "name": "Crown-Indigenous Relations and Northern Affairs Canada",
+   "slug": "tb-crown-indigenous-relations-and-northern-affairs-canada-en"
+  },
+  "1693": {
+   "name": "Manitoba Civil Service - Education, Citizenship and Youth",
+   "slug": "cscmb-manitoba-civil-service-education-citizenship-and-youth-en"
+  },
+  "1697": {
+   "name": "NB - Dept of Transportation & Infrastructure",
+   "slug": "nbbm-nb-dept-of-transportation-infrastructure-en"
+  },
+  "1700": {
+   "name": "Canadian Heritage",
+   "slug": "tb-canadian-heritage-en"
+  },
+  "1705": {
+   "name": "Offices of the Information and Privacy Commissioners of Canada",
+   "slug": "tb-offices-of-the-information-and-privacy-commissioners-of-canada-en"
+  },
+  "1707": {
+   "name": "Supreme Court of Canada",
+   "slug": "tb-supreme-court-of-canada-en"
+  },
+  "1710": {
+   "name": "Correctional Service Canada",
+   "slug": "tb-correctional-service-canada-en"
+  },
+  "1711": {
+   "name": "BC First Nations Health Authority",
+   "slug": "bcfnha-bc-first-nations-health-authority-en"
+  },
+  "1714": {
+   "name": "Office of the Commissioner of Lobbying of Canada",
+   "slug": "tb-office-of-the-commissioner-of-lobbying-of-canada-en"
+  },
+  "1718": {
+   "name": "NB - Department of Municipalities & Housing",
+   "slug": "nbbm-nb-department-of-municipalities-housing-en"
+  },
+  "1723": {
+   "name": "Military Grievances External Review Committee",
+   "slug": "tb-military-grievances-external-review-committee-en"
+  },
+  "1724": {
+   "name": "Impact Assessment Agency of Canada",
+   "slug": "tb-impact-assessment-agency-of-canada-en"
+  },
+  "1725": {
+   "name": "NB - Local Government",
+   "slug": "nbbm-nb-local-government-en"
+  },
+  "1729": {
+   "name": "Indian Truth and Reconciliation Commission of Canada",
+   "slug": "tb-indian-truth-and-reconciliation-commission-of-canada-en"
+  },
+  "1730": {
+   "name": "Immigration, Refugees and Citizenship Canada",
+   "slug": "tb-immigration-refugees-and-citizenship-canada-en"
+  },
+  "1734": {
+   "name": "Royal Canadian Mounted Police",
+   "slug": "rcmp-royal-canadian-mounted-police-en"
+  },
+  "1735": {
+   "name": "Office Indian Residental Schools Resolution",
+   "slug": "tb-office-indian-residental-schools-resolution-en"
+  },
+  "1740": {
+   "name": "Walker Family Cancer Centre - Radiation Therapists",
+   "slug": "nhs-walker-family-cancer-centre-radiation-therapists-en"
+  },
+  "1744": {
+   "name": "CNL Chalk River Laboratories",
+   "slug": "cnl-cnl-chalk-river-laboratories-en"
+  },
+  "1747": {
+   "name": "Immigration and Refugee Board Headquarters",
+   "slug": "tb-immigration-and-refugee-board-headquarters-en"
+  },
+  "1750": {
+   "name": "Natural Sciences and Engineering Research Council of Canada",
+   "slug": "tb-natural-sciences-and-engineering-research-council-of-canada-en"
+  },
+  "1752": {
+   "name": "Canadian Tourism Commission",
+   "slug": "tourism-canadian-tourism-commission-en"
+  },
+  "1760": {
+   "name": "Canadian Human Rights Commission",
+   "slug": "tb-canadian-human-rights-commission-en"
+  },
+  "1761": {
+   "name": "Administrative Tribunals Support Service of Canada",
+   "slug": "tb-administrative-tribunals-support-service-of-canada-en"
+  },
+  "1764": {
+   "name": "Office of the Auditor General of Canada",
+   "slug": "tb-office-of-the-auditor-general-of-canada-en"
+  },
+  "1769": {
+   "name": "Office of the Superintendent of Financial Institutions Canada",
+   "slug": "osfi-office-of-the-superintendent-of-financial-institutions-canada-en"
+  },
+  "1770": {
+   "name": "EXPIRED - Specific Claims Tribunal Registry (now part of ATS)",
+   "slug": "tb-expired-specific-claims-tribunal-registry-now-part-of-ats-en"
+  },
+  "1771": {
+   "name": "Yukon Hospital Corporation",
+   "slug": "yhc-yukon-hospital-corporation-en"
+  },
+  "1773": {
+   "name": "Sunnybrook Health Sciences Centre - Radiation Therapists",
+   "slug": "shsc-sunnybrook-health-sciences-centre-radiation-therapists-en"
+  },
+  "1776": {
+   "name": "NB - Dept of Agriculture, Aquaculture and Fisheries",
+   "slug": "nbbm-nb-dept-of-agriculture-aquaculture-and-fisheries-en"
+  },
+  "1781": {
+   "name": "EXPIRED - Human Resources and Skills Development Canada",
+   "slug": "tb-expired-human-resources-and-skills-development-canada-en"
+  },
+  "1782": {
+   "name": "Public Prosecution Service of Canada",
+   "slug": "tb-public-prosecution-service-of-canada-en"
+  },
+  "1788": {
+   "name": "Canadian Centre for Management Development",
+   "slug": "tb-canadian-centre-for-management-development-en"
+  },
+  "1790": {
+   "name": "Fisheries and Oceans Canada",
+   "slug": "tb-fisheries-and-oceans-canada-en"
+  },
+  "1791": {
+   "name": "Health Canada",
+   "slug": "tb-health-canada-en"
+  },
+  "1792": {
+   "name": "Canada Economic Development for Quebec Regions",
+   "slug": "tb-canada-economic-development-for-quebec-regions-en"
+  },
+  "1796": {
+   "name": "Federal Economic Development Agency for Northern Ontario",
+   "slug": "tb-federal-economic-development-agency-for-northern-ontario-en"
+  },
+  "1798": {
+   "name": "Atlantic Canada Opportunities Agency",
+   "slug": "tb-atlantic-canada-opportunities-agency-en"
+  },
+  "1799": {
+   "name": "Canadian Northern Economic Development Agency",
+   "slug": "tb-canadian-northern-economic-development-agency-en"
+  },
+  "1800": {
+   "name": "Canadian Intergovernmental Conference Secretariat",
+   "slug": "tb-canadian-intergovernmental-conference-secretariat-en"
+  },
+  "1804": {
+   "name": "EXPIRED - Canadian International Trade Tribunal (now part of ATS)",
+   "slug": "tb-expired-canadian-international-trade-tribunal-now-part-of-ats-en"
+  },
+  "1805": {
+   "name": "EXPIRED - Global Affairs Canada",
+   "slug": "tb-expired-global-affairs-canada-en"
+  },
+  "1807": {
+   "name": "Copyright Board Canada",
+   "slug": "tb-copyright-board-canada-en"
+  },
+  "1809": {
+   "name": "Finance Canada",
+   "slug": "tb-finance-canada-en"
+  },
+  "1813": {
+   "name": "Manitoba Civil Service - Science, Technology, Energy and Mines",
+   "slug": "cscmb-manitoba-civil-service-science-technology-energy-and-mines-en"
+  },
+  "1814": {
+   "name": "Office of the Public Sector Integrity Commissioner of Canada",
+   "slug": "tb-office-of-the-public-sector-integrity-commissioner-of-canada-en"
+  },
+  "1817": {
+   "name": "Manitoba Civil Service - Environment",
+   "slug": "cscmb-manitoba-civil-service-environment-en"
+  },
+  "1819": {
+   "name": "Communications Security Establishment",
+   "slug": "cse-communications-security-establishment-en"
+  },
+  "1824": {
+   "name": "National Film Board of Canada",
+   "slug": "nfb-national-film-board-of-canada-en"
+  },
+  "1828": {
+   "name": "PacificCan and PrairiesCan",
+   "slug": "tb-pacificcan-and-prairiescan-en"
+  },
+  "1829": {
+   "name": "Transport Canada",
+   "slug": "tb-transport-canada-en"
+  },
+  "1831": {
+   "name": "National Research Council Canada",
+   "slug": "nrc-national-research-council-canada-en"
+  },
+  "1833": {
+   "name": "Manitoba Civil Service - Industry, Trade, and Mines",
+   "slug": "cscmb-manitoba-civil-service-industry-trade-and-mines-en"
+  },
+  "1834": {
+   "name": "EXPIRED - Public Service Human Resources Management Agency of Canada",
+   "slug": "tb-expired-public-service-human-resources-management-agency-of-canada-en"
+  },
+  "1835": {
+   "name": "Manitoba Civil Service - Aboriginal & Northern Affairs of Manitoba",
+   "slug": "cscmb-manitoba-civil-service-aboriginal-northern-affairs-of-manitoba-en"
+  },
+  "1836": {
+   "name": "Public Services and Procurement Canada",
+   "slug": "tb-public-services-and-procurement-canada-en"
+  },
+  "1837": {
+   "name": "EXPIRED - NB - Department of Family and Community Services",
+   "slug": "nbbm-expired-nb-department-of-family-and-community-services-en"
+  },
+  "1846": {
+   "name": "Canadian Radio-Television and Telecommunications Commission",
+   "slug": "tb-canadian-radio-television-and-telecommunications-commission-en"
+  },
+  "1848": {
+   "name": "Law Commission of Canada",
+   "slug": "tb-law-commission-of-canada-en"
+  },
+  "1852": {
+   "name": "National Gallery of Canada",
+   "slug": "ngc-national-gallery-of-canada-en"
+  },
+  "1853": {
+   "name": "NB - Dept of Natural Resources",
+   "slug": "nbbm-nb-dept-of-natural-resources-en"
+  },
+  "1854": {
+   "name": "Canadian Institutes of Health Research",
+   "slug": "tb-canadian-institutes-of-health-research-en"
+  },
+  "1857": {
+   "name": "NB - Workplace Health, Safety, and Compensation Commission",
+   "slug": "nbbm-nb-workplace-health-safety-and-compensation-commission-en"
+  },
+  "1861": {
+   "name": "National Defence",
+   "slug": "tb-national-defence-en"
+  },
+  "1862": {
+   "name": "Infrastructure Canada",
+   "slug": "tb-infrastructure-canada-en"
+  },
+  "1868": {
+   "name": "Financial Consumer Agency of Canada",
+   "slug": "tb-financial-consumer-agency-of-canada-en"
+  },
+  "1871": {
+   "name": "Federal Economic Development Agency for Southern Ontario",
+   "slug": "tb-federal-economic-development-agency-for-southern-ontario-en"
+  },
+  "1873": {
+   "name": "EXPIRED - Canada Firearms Centre",
+   "slug": "tb-expired-canada-firearms-centre-en"
+  },
+  "1874": {
+   "name": "Canadian Museum of History",
+   "slug": "cmh-canadian-museum-of-history-en"
+  },
+  "1875": {
+   "name": "Manitoba Civil Service - Infrastructure and Transportation",
+   "slug": "cscmb-manitoba-civil-service-infrastructure-and-transportation-en"
+  },
+  "1879": {
+   "name": "EXPIRED - NB - Supply & Services",
+   "slug": "nbbm-expired-nb-supply-services-en"
+  },
+  "1880": {
+   "name": "Canadian Intellectual Property Office",
+   "slug": "tb-canadian-intellectual-property-office-en"
+  },
+  "1881": {
+   "name": "Manitoba Civil Service - Labour & Immigration",
+   "slug": "cscmb-manitoba-civil-service-labour-immigration-en"
+  },
+  "1882": {
+   "name": "Canada Public Service Agency",
+   "slug": "tb-canada-public-service-agency-en"
+  },
+  "1883": {
+   "name": "Millenium Bureau of Canada",
+   "slug": "tb-millenium-bureau-of-canada-en"
+  },
+  "1884": {
+   "name": "Canada Millenium Bureau",
+   "slug": "tb-canada-millenium-bureau-en"
+  },
+  "1890": {
+   "name": "Social Sciences and Humanities Research Council of Canada",
+   "slug": "tb-social-sciences-and-humanities-research-council-of-canada-en"
+  },
+  "1892": {
+   "name": "EXPIRED - Public Servants Disclosure Protection Tribunal Canada",
+   "slug": "tb-expired-public-servants-disclosure-protection-tribunal-canada-en"
+  },
+  "1896": {
+   "name": "NAV CANADA",
+   "slug": "navcan-nav-canada-en"
+  },
+  "1899": {
+   "name": "Manitoba Civil Service - Sustainable Development",
+   "slug": "cscmb-manitoba-civil-service-sustainable-development-en"
+  },
+  "1900": {
+   "name": "Environment and Climate Change Canada",
+   "slug": "tb-environment-and-climate-change-canada-en"
+  },
+  "1901": {
+   "name": "Courts Administration Service",
+   "slug": "tb-courts-administration-service-en"
+  },
+  "1903": {
+   "name": "EXPIRED - Environment Canada",
+   "slug": "tb-expired-environment-canada-en"
+  },
+  "1907": {
+   "name": "EXPIRED - Revenue Canada",
+   "slug": "tb-expired-revenue-canada-en"
+  },
+  "1909": {
+   "name": "Employment and Social Development Canada",
+   "slug": "tb-employment-and-social-development-canada-en"
+  },
+  "1910": {
+   "name": "Elections Canada",
+   "slug": "tb-elections-canada-en"
+  },
+  "1911": {
+   "name": "EXPIRED - Canadian Human Rights Tribunal (now part of ATS)",
+   "slug": "tb-expired-canadian-human-rights-tribunal-now-part-of-ats-en"
+  },
+  "1912": {
+   "name": "Juravinski Cancer Centre - Radiation Therapists",
+   "slug": "hhsc-juravinski-cancer-centre-radiation-therapists-en"
+  },
+  "1915": {
+   "name": "Federal Court of Canada",
+   "slug": "tb-federal-court-of-canada-en"
+  },
+  "1918": {
+   "name": "Canadian International Development Agency",
+   "slug": "tb-canadian-international-development-agency-en"
+  },
+  "1921": {
+   "name": "Canadian Nuclear Safety Commission",
+   "slug": "cnsc-canadian-nuclear-safety-commission-en"
+  },
+  "1923": {
+   "name": "EXPIRED - NB - Department of Fisheries and Aquaculture",
+   "slug": "nbbm-expired-nb-department-of-fisheries-and-aquaculture-en"
+  },
+  "1924": {
+   "name": "Canadian Museum of Nature",
+   "slug": "cmn-canadian-museum-of-nature-en"
+  },
+  "1928": {
+   "name": "Canadian Security Intelligence Service",
+   "slug": "tb-canadian-security-intelligence-service-en"
+  },
+  "1931": {
+   "name": "Not applicable",
+   "slug": "n-a-not-applicable-en"
+  },
+  "1933": {
+   "name": "Canadian Commercial Corporation",
+   "slug": "ccc-canadian-commercial-corporation-en"
+  },
+  "1935": {
+   "name": "Canada Border Services Agency",
+   "slug": "tb-canada-border-services-agency-en"
+  },
+  "1936": {
+   "name": "Canadian Transportation Agency",
+   "slug": "tb-canadian-transportation-agency-en"
+  },
+  "1937": {
+   "name": "EXPIRED - Sunnybrook Health Sciences Centre",
+   "slug": "shsc-expired-sunnybrook-health-sciences-centre-en"
+  },
+  "1939": {
+   "name": "Manitoba Civil Service - Natural Resources",
+   "slug": "cscmb-manitoba-civil-service-natural-resources-en"
+  },
+  "1943": {
+   "name": "Office of the Commissioner of Official Languages",
+   "slug": "tb-office-of-the-commissioner-of-official-languages-en"
+  },
+  "1944": {
+   "name": "Canada School of Public Service",
+   "slug": "tb-canada-school-of-public-service-en"
+  },
+  "1945": {
+   "name": "Agriculture & Agri-food Canada",
+   "slug": "tb-agriculture-agri-food-canada-en"
+  },
+  "1946": {
+   "name": "Women and Gender Equality Canada",
+   "slug": "tb-women-and-gender-equality-canada-en"
+  },
+  "1947": {
+   "name": "EXPIRED - Communication Canada",
+   "slug": "tb-expired-communication-canada-en"
+  },
+  "1951": {
+   "name": "EXPIRED - Foreign Affairs and International Trade",
+   "slug": "tb-expired-foreign-affairs-and-international-trade-en"
+  },
+  "1955": {
+   "name": "Regional Cancer Centres Employers Association",
+   "slug": "rccea-regional-cancer-centres-employers-association-en"
+  },
+  "1958": {
+   "name": "University of Ottawa",
+   "slug": "uottawa-university-of-ottawa-en"
+  },
+  "1961": {
+   "name": "EXPIRED - Human Resources Development Canada",
+   "slug": "tb-expired-human-resources-development-canada-en"
+  },
+  "1962": {
+   "name": "Windsor Regional Hospital",
+   "slug": "wrh-windsor-regional-hospital-en"
+  },
+  "1963": {
+   "name": "Statistics Survey Operations",
+   "slug": "tb-statistics-survey-operations-en"
+  },
+  "1964": {
+   "name": "Shared Services Canada",
+   "slug": "tb-shared-services-canada-en"
+  },
+  "1965": {
+   "name": "NB - Office of the Attorney General",
+   "slug": "nbbm-nb-office-of-the-attorney-general-en"
+  },
+  "1971": {
+   "name": "Financial Transactions and Reports Analysis Centre of Canada",
+   "slug": "tb-financial-transactions-and-reports-analysis-centre-of-canada-en"
+  },
+  "1975": {
+   "name": "EXPIRED - Industry Canada",
+   "slug": "tb-expired-industry-canada-en"
+  },
+  "1976": {
+   "name": "EXPIRED - Citizenship and Immigration Canada",
+   "slug": "tb-expired-citizenship-and-immigration-canada-en"
+  },
+  "1977": {
+   "name": "Polar Knowledge Canada",
+   "slug": "tb-polar-knowledge-canada-en"
+  },
+  "1979": {
+   "name": "Justice Canada",
+   "slug": "tb-justice-canada-en"
+  },
+  "1983": {
+   "name": "EXPIRED - RCMP - Public Complaints Commission",
+   "slug": "tb-expired-rcmp-public-complaints-commission-en"
+  },
+  "1985": {
+   "name": "Manitoba Civil Service - Manitoba Civil Service",
+   "slug": "cscmb-manitoba-civil-service-manitoba-civil-service-en"
+  },
+  "1986": {
+   "name": "Thunder Bay Regional Health Sciences Centre",
+   "slug": "tbrhsc-thunder-bay-regional-health-sciences-centre-en"
+  },
+  "1989": {
+   "name": "Manitoba Civil Service - Rural Development",
+   "slug": "cscmb-manitoba-civil-service-rural-development-en"
+  },
+  "1990": {
+   "name": "NB - Supply & Services",
+   "slug": "nbbm-nb-supply-services-en"
+  },
+  "1991": {
+   "name": "Public Safety Canada",
+   "slug": "tb-public-safety-canada-en"
+  },
+  "1994": {
+   "name": "Treasury Board of Canada, Secretariat",
+   "slug": "tb-treasury-board-of-canada-secretariat-en"
+  },
+  "1996": {
+   "name": "EXPIRED - Federal Office of Regional Development - Quebec",
+   "slug": "tb-expired-federal-office-of-regional-development-quebec-en"
+  },
+  "1998": {
+   "name": "NB - Business New Brunswick",
+   "slug": "nbbm-nb-business-new-brunswick-en"
+  },
+  "1999": {
+   "name": "Sunnybrook Health Sciences Centre - Mechanical and Electronic Technologists",
+   "slug": "shsc-sunnybrook-health-sciences-centre-mechanical-and-electronic-technologists-en"
+  },
+  "2003": {
+   "name": "EXPIRED - Competition Tribunal (now part of ATS)",
+   "slug": "tb-expired-competition-tribunal-now-part-of-ats-en"
+  },
+  "2004": {
+   "name": "EXPIRED - Public Service Staffing Tribunal",
+   "slug": "tb-expired-public-service-staffing-tribunal-en"
+  },
+  "2005": {
+   "name": "Manitoba Civil Service - Transportation & Government Services",
+   "slug": "cscmb-manitoba-civil-service-transportation-government-services-en"
+  },
+  "2007": {
+   "name": "EXPIRED - Assisted Human Reproduction Canada",
+   "slug": "tb-expired-assisted-human-reproduction-canada-en"
+  },
+  "2011": {
+   "name": "EXPIRED - Tax Court of Canada",
+   "slug": "tb-expired-tax-court-of-canada-en"
+  },
+  "2013": {
+   "name": "Manitoba Civil Service - Health",
+   "slug": "cscmb-manitoba-civil-service-health-en"
+  },
+  "2014": {
+   "name": "Royal Canadian Mounted Police",
+   "slug": "tb-royal-canadian-mounted-police-en"
+  },
+  "2017": {
+   "name": "NB - Social Development",
+   "slug": "nbbm-nb-social-development-en"
+  },
+  "2018": {
+   "name": "Foreign Affairs and International Trade",
+   "slug": "tb-foreign-affairs-and-international-trade-en"
+  },
+  "2019": {
+   "name": "Transportation Safety Board of Canada",
+   "slug": "tb-transportation-safety-board-of-canada-en"
+  },
+  "2022": {
+   "name": "CNL Whiteshell (Pinawa - WPEG)",
+   "slug": "cnl-cnl-whiteshell-pinawa-wpeg-en"
+  },
+  "2024": {
+   "name": "EXPIRED - Canadian Artists and Producers Professional Relations Tribunal",
+   "slug": "tb-expired-canadian-artists-and-producers-professional-relations-tribunal-en"
+  },
+  "2028": {
+   "name": "EXPIRED - Aboriginal Affairs and Northern Development Canada",
+   "slug": "tb-expired-aboriginal-affairs-and-northern-development-canada-en"
+  },
+  "2030": {
+   "name": "Manitoba Civil Service - Education and Training",
+   "slug": "cscmb-manitoba-civil-service-education-and-training-en"
+  },
+  "2031": {
+   "name": "EXPIRED - Foreign Affairs, Trade and Development Canada",
+   "slug": "tb-expired-foreign-affairs-trade-and-development-canada-en"
+  },
+  "2034": {
+   "name": "EXPIRED - Public Works and Government Services Canada",
+   "slug": "tb-expired-public-works-and-government-services-canada-en"
+  },
+  "2038": {
+   "name": "Parliamentary Protective Service",
+   "slug": "tb-parliamentary-protective-service-en"
+  },
+  "2040": {
+   "name": "Hazardous Materials Information Review Commission Canada",
+   "slug": "tb-hazardous-materials-information-review-commission-canada-en"
+  },
+  "2042": {
+   "name": "EXPIRED - Social Development Canada",
+   "slug": "tb-expired-social-development-canada-en"
+  },
+  "2044": {
+   "name": "EXPIRED - National Library of Canada",
+   "slug": "tb-expired-national-library-of-canada-en"
+  },
+  "2046": {
+   "name": "EXPIRED - Solicitor General Canada",
+   "slug": "tb-expired-solicitor-general-canada-en"
+  },
+  "2048": {
+   "name": "Parole Board of Canada",
+   "slug": "tb-parole-board-of-canada-en"
+  },
+  "2050": {
+   "name": "EXPIRED - Passport Office",
+   "slug": "tb-expired-passport-office-en"
+  },
+  "2052": {
+   "name": "EXPIRED - Canadian Environmental Assessment Agency",
+   "slug": "tb-expired-canadian-environmental-assessment-agency-en"
+  },
+  "2083": {
+   "name": "Global Affairs Canada",
+   "slug": "tb-global-affairs-canada-en"
+  },
+  "2092": {
+   "name": "EXPIRED - Canada Industrial Relations Board (now part of ATS)",
+   "slug": "tb-expired-canada-industrial-relations-board-now-part-of-ats-en"
+  },
+  "2131": {
+   "name": "Canada Revenue Agency",
+   "slug": "cra-canada-revenue-agency-en"
+  },
+  "2132": {
+   "name": "Canadian Food Inspection Agency",
+   "slug": "cfia-canadian-food-inspection-agency-en"
+  },
+  "2135": {
+   "name": "University of Ottawa",
+   "slug": "university-of-ottawa-en"
+  },
+  "2138": {
+   "name": "Canadian Food Inspection Agency",
+   "slug": "canadian-food-inspection-agency-en"
+  },
+  "2389": {
+   "name": "Canadian Energy Regulator - CER",
+   "slug": "cer-canadian-energy-regulator-cer-en"
+  }
+ },
+ "chapter": {
+  "94": {
+   "name": "Retired Members Guild - Edmonton Chapter",
+   "slug": "retired-members-guild-edmonton-chapter-en"
+  },
+  "96": {
+   "name": "Retired Members Guild",
+   "slug": "retired-members-guild-en"
+  },
+  "97": {
+   "name": "Retired Members Guild - Avalon Area Chapter",
+   "slug": "retired-members-guild-avalon-area-chapter-en"
+  },
+  "100": {
+   "name": "Retired Members Guild - Moncton Chapter",
+   "slug": "retired-members-guild-moncton-chapter-en"
+  },
+  "102": {
+   "name": "Retired Members Guild - Nova Scotia Chapter",
+   "slug": "retired-members-guild-nova-scotia-chapter-en"
+  },
+  "104": {
+   "name": "Retired Members Guild - Vancouver Island Chapter",
+   "slug": "retired-members-guild-vancouver-island-chapter-en"
+  },
+  "106": {
+   "name": "Retired Members Guild - Fraser Valley Chapter",
+   "slug": "retired-members-guild-fraser-valley-chapter-en"
+  },
+  "108": {
+   "name": "Retired Members Guild - Winnipeg & Southern Manitoba Chapter",
+   "slug": "retired-members-guild-winnipeg-southern-manitoba-chapter-en"
+  },
+  "110": {
+   "name": "Retired Members Guild - NCR Chapter",
+   "slug": "retired-members-guild-ncr-chapter-en"
+  },
+  "111": {
+   "name": "Retired Members Guild - GTA Chapter",
+   "slug": "retired-members-guild-gta-chapter-en"
+  },
+  "114": {
+   "name": "Retired Members Guild - Fredericton Chapter",
+   "slug": "retired-members-guild-fredericton-chapter-en"
+  },
+  "116": {
+   "name": "RMG - Moncton Chapter",
+   "slug": "rmg-moncton-chapter-en"
+  },
+  "128": {
+   "name": "Retired Members Guild - Vancouver Chapter",
+   "slug": "retired-members-guild-vancouver-chapter-en"
+  },
+  "156": {
+   "name": "Retired Members Guild - Quebec City Chapter",
+   "slug": "retired-members-guild-quebec-city-chapter-en"
+  },
+  "159": {
+   "name": "Retired Members Guild - Victoria Chapter",
+   "slug": "retired-members-guild-victoria-chapter-en"
+  }
+ }
+}

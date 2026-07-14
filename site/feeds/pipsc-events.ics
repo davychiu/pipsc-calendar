@@ -1,0 +1,681 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-81501@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260713T210000Z
+DTEND:20260714T020000Z
+SUMMARY:Edmonton DND SH Outreach
+LOCATION:298 Falaise Avenue\, Lancaster Park
+DESCRIPTION:Group: Health Services Group\nhttps://pipsc.ca/events/edmonto
+ n-dnd-sh-outreach/
+URL:https://pipsc.ca/events/edmonton-dnd-sh-outreach/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-78923@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260714T230000Z
+DTEND:20260715T023000Z
+SUMMARY:SH Edmonton Subgroup Annual General Meeting
+LOCATION:17202 – 95 Ave\,\, Edmonton
+DESCRIPTION:Group: Edmonton\, AB\, Health Services Group\nhttps://pipsc.c
+ a/events/sh-edmonton-subgroup-annual-general-meeting-2/
+URL:https://pipsc.ca/events/sh-edmonton-subgroup-annual-general-meeting-2
+ /
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80230@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260714T230000Z
+DTEND:20260715T010000Z
+SUMMARY:Bargaining 101
+DESCRIPTION:Region: Ottawa Centreville\, NCR\nhttps://pipsc.ca/events/bar
+ gaining-101/
+URL:https://pipsc.ca/events/bargaining-101/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-76555@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260715T140000Z
+DTEND:20260717T220000Z
+SUMMARY:MAGE Bargaining Prep – Jul 15-17/26 (In-Person)
+LOCATION:PIPSC Winnipeg Office\, 363 Broadway Suite 960\, Winnipeg
+DESCRIPTION:Group: Manitoba Association of Government Engineers Group\nht
+ tps://pipsc.ca/events/mage-bargaining-prep-jul-15-17-26-in-person/
+URL:https://pipsc.ca/events/mage-bargaining-prep-jul-15-17-26-in-person/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-78749@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260717T130000Z
+DTEND:20260718T210000Z
+SUMMARY:AFS Executive & Planning Meetings
+LOCATION:PIPSC Office\, 250 Tremblay rd\, Ottawa
+DESCRIPTION:Group: Audit\, Financial & Scientific Group\nhttps://pipsc.ca
+ /events/afs-executive-planning-meetings/
+URL:https://pipsc.ca/events/afs-executive-planning-meetings/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80266@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260717T160000Z
+DTEND:20260717T170000Z
+SUMMARY:Basic Steward’s School Call For Interest
+DESCRIPTION:Region: Ottawa Centreville\, NCR\nhttps://pipsc.ca/events/bas
+ ic-stewards-school-call-for-interest/
+URL:https://pipsc.ca/events/basic-stewards-school-call-for-interest/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80802@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260718T110000Z
+DTEND:20260718T150000Z
+SUMMARY:Halifax Pride Parade
+LOCATION:Parade Mustering Grounds\, 5775 Cogswell Street\, Halifax
+DESCRIPTION:Region: Halifax\, NS\nhttps://pipsc.ca/events/halifax-pride-p
+ arade/
+URL:https://pipsc.ca/events/halifax-pride-parade/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79162@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260718T133000Z
+DTEND:20260718T180000Z
+SUMMARY:Ottawa West Branch 2026 BBQ
+DESCRIPTION:Region: Ottawa West\, NCR\nhttps://pipsc.ca/events/ottawa-wes
+ t-branch-2026-bbq/
+URL:https://pipsc.ca/events/ottawa-west-branch-2026-bbq/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-75119@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260721T130000Z
+DTEND:20260723T210000Z
+SUMMARY:NR Bargaining Preparation Meeting (Hybrid)
+LOCATION:Michele Demers Conference Centre\, 250 Tremblay Rd\, Ottawa\, ON
+DESCRIPTION:Group: Engineering\, Architecture and Land Survey Group\nhttp
+ s://pipsc.ca/events/nr-bargaining-preparation-meeting-july-21-23-26-hybri
+ d/
+URL:https://pipsc.ca/events/nr-bargaining-preparation-meeting-july-21-23-
+ 26-hybrid/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79186@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260721T160000Z
+DTEND:20260724T000000Z
+SUMMARY:BCFNHA Bargaining w Employer (July 21-23)
+LOCATION:BCFNHA Alberni Office\, 701-1166 Alberni St\, Vancouver
+DESCRIPTION:Group: BC First Nations Health Authority Group\nhttps://pipsc
+ .ca/events/bcfnha-bargaining-w-employer-july-21-23/
+URL:https://pipsc.ca/events/bcfnha-bargaining-w-employer-july-21-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81068@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260721T160000Z
+DTEND:20260721T170000Z
+SUMMARY:Monthly Virtual SP Subgroup Presidents and Vice-Presidents Meetin
+ g
+DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
+ pipsc.ca/events/monthly-virtual-sp-subgroup-presidents-and-vice-president
+ s-meeting-12/
+URL:https://pipsc.ca/events/monthly-virtual-sp-subgroup-presidents-and-vi
+ ce-presidents-meeting-12/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81583@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260721T170000Z
+DTEND:20260721T200000Z
+SUMMARY:Interbranch Union Management Consultation
+LOCATION:99 Metcalfe St\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/interbranch-union-management-consulta
+ tion/
+URL:https://pipsc.ca/events/interbranch-union-management-consultation/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81507@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260721T200000Z
+DTEND:20260722T010000Z
+SUMMARY:Borden PIPSC Member Meet & Greet
+LOCATION:122 Ramillies Rd\, Borden
+DESCRIPTION:Group: Health Services Group\nhttps://pipsc.ca/events/borden-
+ pipsc-member-meet-greet/
+URL:https://pipsc.ca/events/borden-pipsc-member-meet-greet/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81510@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260722T200000Z
+DTEND:20260723T010000Z
+SUMMARY:Trenton PIPSC Member Meet & Greet
+LOCATION:414 Old Highway 2\, Trenton
+DESCRIPTION:Group: Health Services Group\nhttps://pipsc.ca/events/trenton
+ -pipsc-member-meet-greet/
+URL:https://pipsc.ca/events/trenton-pipsc-member-meet-greet/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81512@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260723T200000Z
+DTEND:20260724T010000Z
+SUMMARY:Kingston PIPSC Member Meet & Greet
+LOCATION:330 King St E\, Kingston
+DESCRIPTION:Group: Health Services Group\nhttps://pipsc.ca/events/kingsto
+ n-pipsc-member-meet-greet/
+URL:https://pipsc.ca/events/kingston-pipsc-member-meet-greet/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-75883@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260724T130000Z
+DTEND:20260724T210000Z
+SUMMARY:Finance Committee Meeting
+LOCATION:Michèle Demers Conference Centre (PIPSC National Office)\, 250 
+ Tremblay Rd\, Ottawa\, ON
+DESCRIPTION:https://pipsc.ca/events/finance-committee-3/
+URL:https://pipsc.ca/events/finance-committee-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81497@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260730T180000Z
+DTEND:20260730T200000Z
+SUMMARY:PIPSC Meet & Greet with VP Dave Sutherland
+LOCATION:Quidi Vidi Brewing Company\, 35 Barrows Road\, St. John's
+DESCRIPTION:Region: St. John's\, NL\nhttps://pipsc.ca/events/pipsc-meet-g
+ reet-with-vp-dave-sutherland/
+URL:https://pipsc.ca/events/pipsc-meet-greet-with-vp-dave-sutherland/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79600@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260806T000000Z
+DTEND:20260806T030000Z
+SUMMARY:2026 Fireworks Cruise Summer – AAFC Branch
+DESCRIPTION:https://pipsc.ca/events/2026-fireworks-cruise-summer-aafc-bra
+ nch/
+URL:https://pipsc.ca/events/2026-fireworks-cruise-summer-aafc-branch/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-4813@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260806T130000Z
+DTEND:20260807T210000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:Michele Demers Conference Centre (PIPSC National Office)\, 250 T
+ remblay Road\, Ottawa\, ON
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-4/
+URL:https://pipsc.ca/events/board-of-directors-meeting-4/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81602@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260808T110000Z
+DTEND:20260808T140000Z
+SUMMARY:Edmonton Branch Annual PIPSC Family Picnic 2026
+LOCATION:Coronation park\, Site 2\, 11425-142 Street\, NW\, Edmonton
+DESCRIPTION:Region: Edmonton\, AB\nhttps://pipsc.ca/events/edmonton-branc
+ h-annual-pipsc-family-picnic-2026/
+URL:https://pipsc.ca/events/edmonton-branch-annual-pipsc-family-picnic-20
+ 26/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-4406@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260815T130000Z
+DTEND:20260815T210000Z
+SUMMARY:Working Group on Consultation Meeting of August 15\, 2026
+LOCATION:Rogers Center Ottawa\, 55 Colonel By Drive\, Ottawa\, ON
+DESCRIPTION:https://pipsc.ca/events/working-group-on-consultation-meeting
+ -of-august-15-2026/
+URL:https://pipsc.ca/events/working-group-on-consultation-meeting-of-augu
+ st-15-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-76561@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260817T130000Z
+DTEND:20260817T210000Z
+SUMMARY:AFS Bargaining Prep Meeting
+LOCATION:PIPSC Office\, 250 Tremblay rd.\, Ottawa
+DESCRIPTION:Group: Audit\, Financial & Scientific Group\nhttps://pipsc.ca
+ /events/afs-bargaining-prep-meeting-3/
+URL:https://pipsc.ca/events/afs-bargaining-prep-meeting-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81077@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260818T130000Z
+DTEND:20260818T210000Z
+SUMMARY:AFS Bargaining with the employer
+LOCATION:PIPSC Office\, 250 Tremblay rd\, Ottawa
+DESCRIPTION:Group: Audit\, Financial & Scientific Group\nhttps://pipsc.ca
+ /events/afs-bargaining-with-the-employer/
+URL:https://pipsc.ca/events/afs-bargaining-with-the-employer/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81069@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260818T160000Z
+DTEND:20260818T170000Z
+SUMMARY:Monthly Virtual SP Subgroup Presidents and Vice-Presidents Meetin
+ g
+DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
+ pipsc.ca/events/monthly-virtual-sp-subgroup-presidents-and-vice-president
+ s-meeting-12-2/
+URL:https://pipsc.ca/events/monthly-virtual-sp-subgroup-presidents-and-vi
+ ce-presidents-meeting-12-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81632@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260820T120000Z
+SUMMARY:501 University Crescent SP Subgroup Lunch and Learn and Notice of
+  AGM – August 20\, 2026
+LOCATION:Fresh Water Institute (DFO) Winnipeg Large Seminar Rm
+DESCRIPTION:Group: 501 University Crescent\, Winnipeg\, MB\nhttps://pipsc
+ .ca/events/501-university-crescent-sp-subgroup-lunch-and-learn-and-notice
+ -of-agm-august-20-2026/
+URL:https://pipsc.ca/events/501-university-crescent-sp-subgroup-lunch-and
+ -learn-and-notice-of-agm-august-20-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-75370@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260825T130000Z
+DTEND:20260826T210000Z
+SUMMARY:SH Bargaining Meeting- August
+LOCATION:Delta Hotel Ottawa\, 101 Lyon St. N\, Ottawa\, ON
+DESCRIPTION:Group: Health Services Group\nhttps://pipsc.ca/events/sh-barg
+ aining-meeting-august/
+URL:https://pipsc.ca/events/sh-bargaining-meeting-august/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81393@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260829T170000Z
+SUMMARY:Regina Branch Saskatchewan Roughrider Game Event – August 29\, 
+ 2026
+LOCATION:Mosaic Stadium\, 1700 Elphinstone Street\, Regina\, SK
+DESCRIPTION:Region: Regina\, SK\nhttps://pipsc.ca/events/regina-branch-sa
+ skatchewan-roughrider-game-event-august-29-2026/
+URL:https://pipsc.ca/events/regina-branch-saskatchewan-roughrider-game-ev
+ ent-august-29-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81060@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260904T140000Z
+DTEND:20260904T220000Z
+SUMMARY:SAC Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/sac-meeting-10/
+URL:https://pipsc.ca/events/sac-meeting-10/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81120@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260915T160000Z
+DTEND:20260915T170000Z
+SUMMARY:Réunion des Président*es et Vice-Président*es des sous-groupes
+  SP- Réunion Mensuelle Virtuelle
+DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
+ pipsc.ca/events/reunion-des-presidentes-et-vice-presidentes-des-sous-grou
+ pes-sp-reunion-mensuelle-virtuelle/
+URL:https://pipsc.ca/events/reunion-des-presidentes-et-vice-presidentes-d
+ es-sous-groupes-sp-reunion-mensuelle-virtuelle/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-5138@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260917T170000Z
+DTEND:20260919T210000Z
+SUMMARY:Basic Steward Training
+LOCATION:Delta Dartmouth\, 240 Brownlow Avenue\, Dartmouth\, NS
+DESCRIPTION:Region: Atlantic Region\nhttps://pipsc.ca/events/atl-basic-st
+ eward-training/
+URL:https://pipsc.ca/events/atl-basic-steward-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-73892@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260918T170000Z
+DTEND:20260919T200000Z
+SUMMARY:Ontario and Nunavut Region Steward Council
+LOCATION:White Oaks Conference Resort\, 253 Taylor Road\, Niagara-on-the-
+ Lake\, ON
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
+ ntario-and-nunavut-region-steward-council-2/
+URL:https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-69512@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260922T150000Z
+DTEND:20260923T230000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:10135 100 St NW\, Edmonton\, AB T5J 1P7\, Edmonton
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-18/
+URL:https://pipsc.ca/events/board-of-directors-meeting-18/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-4878@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260923T190000Z
+DTEND:20260923T230000Z
+SUMMARY:Prairie/NWT Regional Training Committee Meeting ( Sub-Meeting) 
+ – – September 23\, 2026 – 1 pm – 5 pm
+LOCATION:The Westin Edmonton\, 10135 - 100th Street\, Edmonton\, AB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-regional-training-committee-meeting-sub-meeting-sept
+ ember-23-2026-1-pm-5-pm/
+URL:https://pipsc.ca/events/prairie-nwt-regional-training-committee-meeti
+ ng-sub-meeting-september-23-2026-1-pm-5-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-5203@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260924T150000Z
+DTEND:20260924T220000Z
+SUMMARY:Prairie/NWT Regional Executive Meeting (Sub-Meeting) – Septembe
+ r 24\, 2026 – 9 am – 4 pm
+LOCATION:The Westin Edmonton\, 10135 - 100th Street\, Edmonton\, AB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-regional-executive-meeting-sub-meeting-september-24-
+ 2026-9-am-4-pm/
+URL:https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-sub-me
+ eting-september-24-2026-9-am-4-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81614@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261002T113000Z
+DTEND:20261002T143000Z
+SUMMARY:SP Executive Half Day Meeting
+LOCATION:120 New Gower St\,\, St. John's\,
+DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
+ pipsc.ca/events/sp-executive-half-day-meeting/
+URL:https://pipsc.ca/events/sp-executive-half-day-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81118@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261002T130000Z
+DTEND:20261002T200000Z
+SUMMARY:ESDC Steering Committe Meeting on Oct 2\, 2026
+LOCATION:Ottawa\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/esdc-steering-committe-meeting-on-oct
+ -2-2026/
+URL:https://pipsc.ca/events/esdc-steering-committe-meeting-on-oct-2-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81616@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261002T153000Z
+DTEND:20261003T193000Z
+SUMMARY:SP Subgroups Presidents Meeting
+LOCATION:120 New Gower St\,\, St. John's
+DESCRIPTION:Group: Applied Science and Patent Examination Group\nhttps://
+ pipsc.ca/events/sp-subgroups-presidents-meeting/
+URL:https://pipsc.ca/events/sp-subgroups-presidents-meeting/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81115@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261023T090000Z
+DTEND:20261024T170000Z
+SUMMARY:Occupational Health and Safety Training – October 23 & 24\, 202
+ 6
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/occupational-health-and-safety-training-october-23-24-2026/
+URL:https://pipsc.ca/events/occupational-health-and-safety-training-octob
+ er-23-24-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-80759@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261023T150000Z
+DTEND:20261024T220000Z
+SUMMARY:Prairie/NWT Occupational Health and Safety Training – October 2
+ 3-24\, 2026
+LOCATION:Delta Hotels by Marriott Calgary Downtown\, 209 4th Avenue SE\, 
+ Calgary
+DESCRIPTION:https://pipsc.ca/events/prairie-nwt-occupational-health-and-s
+ afety-training/
+URL:https://pipsc.ca/events/prairie-nwt-occupational-health-and-safety-tr
+ aining/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81498@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261106T130000Z
+DTEND:20261106T203000Z
+SUMMARY:NRC-RO/RCO AGM Nov 6/26 (Hybrid)
+LOCATION:1141 Oxford St\, Halifax
+DESCRIPTION:Group: NRC - Research Officers and Research Council Officers 
+ Group\nhttps://pipsc.ca/events/nrc-ro-rco-agm-nov-6-26-hybrid/
+URL:https://pipsc.ca/events/nrc-ro-rco-agm-nov-6-26-hybrid/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81062@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261106T150000Z
+DTEND:20261106T230000Z
+SUMMARY:SAC Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/sac-meeting-11/
+URL:https://pipsc.ca/events/sac-meeting-11/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81494@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261107T130000Z
+DTEND:20261107T203000Z
+SUMMARY:NRC-RO/RCO Executive Committee Meeting Nov 7/26 (In Person)
+LOCATION:700-5657 Spring Garden Rd\, Halifax
+DESCRIPTION:Group: NRC - Research Officers and Research Council Officers 
+ Group\nhttps://pipsc.ca/events/nrc-ro-rco-executive-committee-meeting-nov
+ -7-26-in-person/
+URL:https://pipsc.ca/events/nrc-ro-rco-executive-committee-meeting-nov-7-
+ 26-in-person/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-64052@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261124T140000Z
+DTEND:20261125T220000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-17/
+URL:https://pipsc.ca/events/board-of-directors-meeting-17/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81707@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261125T170000Z
+DTEND:20261126T010000Z
+SUMMARY:RMG Executive Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:Group: Retired Members Guild\nhttps://pipsc.ca/events/rmg-exe
+ cutive-meeting-7/
+URL:https://pipsc.ca/events/rmg-executive-meeting-7/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-75872@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261205T010000Z
+DTEND:20261206T010000Z
+SUMMARY:BC/Yukon Executive Leadership Training
+LOCATION:Vancouver Marriott Pinnacle Downtown Hot\, Vancouver
+DESCRIPTION:Region: British Columbia & Yukon Region\nhttps://pipsc.ca/eve
+ nts/bc-yukon-executive-leadership-training/
+URL:https://pipsc.ca/events/bc-yukon-executive-leadership-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-71808@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270115T140000Z
+DTEND:20270116T220000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-19/
+URL:https://pipsc.ca/events/board-of-directors-meeting-19/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81620@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270311T160000Z
+DTEND:20270313T190000Z
+SUMMARY:Prairie/NWT Spring Basic Steward Training – March 11 -13\, 2027
+LOCATION:Delta Edmonton Centre Suite Hotel - Downtown\, 10222 102 Street 
+ NW\, Edmonton
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-spring-basic-steward-training/
+URL:https://pipsc.ca/events/prairie-nwt-spring-basic-steward-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81671@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270514T170000Z
+DTEND:20270515T200000Z
+SUMMARY:85th Quebec Regional Council 2027
+LOCATION:44\, avenue de l'Auberge\, Orford
+DESCRIPTION:Region: Québec Region\nhttps://pipsc.ca/events/85th-quebec-r
+ egional-council-2027/
+URL:https://pipsc.ca/events/85th-quebec-regional-council-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-72009@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270528T130000Z
+DTEND:20270529T210000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-20/
+URL:https://pipsc.ca/events/board-of-directors-meeting-20/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81681@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270602T190000Z
+DTEND:20270602T230000Z
+SUMMARY:Prairie/NWT Region Training Committee Meeting (Sub-Mtg) – June 
+ 2\, 2027
+LOCATION:Delta Hotels Winnipeg Downtown\, 350 St Mary Avenue\, Winnipeg\,
+  MB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-training-committee-meeting-sub-mtg-june-2-2027/
+URL:https://pipsc.ca/events/prairie-nwt-training-committee-meeting-sub-mt
+ g-june-2-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81682@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270603T150000Z
+DTEND:20270603T220000Z
+SUMMARY:Prairie/NWT Region Regional Executive Meeting – June 3\, 2027
+LOCATION:Delta Hotels Winnipeg Downtown\, 350 St Mary Avenue\, Winnipeg\,
+  MB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-regional-executive-meeting-june-3-2027/
+URL:https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-june-3
+ -2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81705@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270604T150000Z
+DTEND:20270604T180000Z
+SUMMARY:Prairie/NWT Region Branch Presidents Meeting (sub-mtg) – June 4
+ \, 2027
+LOCATION:Delta Hotels Winnipeg Downtown\, 350 St Mary Avenue\, Winnipeg\,
+  MB
+DESCRIPTION:https://pipsc.ca/events/prairie-nwt-branch-presidents-meeting
+ -sub-mtg-june-4-2027/
+URL:https://pipsc.ca/events/prairie-nwt-branch-presidents-meeting-sub-mtg
+ -june-4-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-7928@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270604T200000Z
+DTEND:20270605T220000Z
+SUMMARY:Prairie/NWT Region Regional Council – June 4-5\, 2027
+LOCATION:Delta Hotels Winnipeg Downtown\, 350 St Mary Avenue\, Winnipeg\,
+  MB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-regional-council-june-4-5-2027/
+URL:https://pipsc.ca/events/prairie-nwt-regional-council-june-4-5-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81702@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270812T130000Z
+DTEND:20270812T210000Z
+SUMMARY:Strategic Bargaining Committee Meeting of August 12\, 2027
+LOCATION:101 Lyon St. N\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/strategic-bargaining-committee-meetin
+ g-of-august-12-2027/
+URL:https://pipsc.ca/events/strategic-bargaining-committee-meeting-of-aug
+ ust-12-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-72012@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270909T130000Z
+DTEND:20270910T210000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-21/
+URL:https://pipsc.ca/events/board-of-directors-meeting-21/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79196@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270924T170000Z
+DTEND:20270925T210000Z
+SUMMARY:Ontario and Nunavut Region Steward Council
+LOCATION:253 Taylor Drive\, Niagara-on-the-Lake
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
+ ntario-and-nunavut-region-steward-council-3/
+URL:https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-3/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-72015@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20271015T130000Z
+DTEND:20271016T210000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-22/
+URL:https://pipsc.ca/events/board-of-directors-meeting-22/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-72017@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20271116T140000Z
+DTEND:20271117T220000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-23/
+URL:https://pipsc.ca/events/board-of-directors-meeting-23/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-72020@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20271213T140000Z
+DTEND:20271214T220000Z
+SUMMARY:Board of Directors Meeting
+LOCATION:250 Tremblay Road\, Ottawa
+DESCRIPTION:https://pipsc.ca/events/board-of-directors-meeting-24/
+URL:https://pipsc.ca/events/board-of-directors-meeting-24/
+END:VEVENT
+END:VCALENDAR

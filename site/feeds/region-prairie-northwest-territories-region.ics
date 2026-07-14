@@ -1,0 +1,99 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Prairie/Northwest Territories Region
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-4878@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260923T190000Z
+DTEND:20260923T230000Z
+SUMMARY:Prairie/NWT Regional Training Committee Meeting ( Sub-Meeting) 
+ – – September 23\, 2026 – 1 pm – 5 pm
+LOCATION:The Westin Edmonton\, 10135 - 100th Street\, Edmonton\, AB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-regional-training-committee-meeting-sub-meeting-sept
+ ember-23-2026-1-pm-5-pm/
+URL:https://pipsc.ca/events/prairie-nwt-regional-training-committee-meeti
+ ng-sub-meeting-september-23-2026-1-pm-5-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-5203@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260924T150000Z
+DTEND:20260924T220000Z
+SUMMARY:Prairie/NWT Regional Executive Meeting (Sub-Meeting) – Septembe
+ r 24\, 2026 – 9 am – 4 pm
+LOCATION:The Westin Edmonton\, 10135 - 100th Street\, Edmonton\, AB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-regional-executive-meeting-sub-meeting-september-24-
+ 2026-9-am-4-pm/
+URL:https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-sub-me
+ eting-september-24-2026-9-am-4-pm/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81115@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20261023T090000Z
+DTEND:20261024T170000Z
+SUMMARY:Occupational Health and Safety Training – October 23 & 24\, 202
+ 6
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/occupational-health-and-safety-training-october-23-24-2026/
+URL:https://pipsc.ca/events/occupational-health-and-safety-training-octob
+ er-23-24-2026/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81620@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270311T160000Z
+DTEND:20270313T190000Z
+SUMMARY:Prairie/NWT Spring Basic Steward Training – March 11 -13\, 2027
+LOCATION:Delta Edmonton Centre Suite Hotel - Downtown\, 10222 102 Street 
+ NW\, Edmonton
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-spring-basic-steward-training/
+URL:https://pipsc.ca/events/prairie-nwt-spring-basic-steward-training/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81681@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270602T190000Z
+DTEND:20270602T230000Z
+SUMMARY:Prairie/NWT Region Training Committee Meeting (Sub-Mtg) – June 
+ 2\, 2027
+LOCATION:Delta Hotels Winnipeg Downtown\, 350 St Mary Avenue\, Winnipeg\,
+  MB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-training-committee-meeting-sub-mtg-june-2-2027/
+URL:https://pipsc.ca/events/prairie-nwt-training-committee-meeting-sub-mt
+ g-june-2-2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-81682@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270603T150000Z
+DTEND:20270603T220000Z
+SUMMARY:Prairie/NWT Region Regional Executive Meeting – June 3\, 2027
+LOCATION:Delta Hotels Winnipeg Downtown\, 350 St Mary Avenue\, Winnipeg\,
+  MB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-regional-executive-meeting-june-3-2027/
+URL:https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-june-3
+ -2027/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-7928@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270604T200000Z
+DTEND:20270605T220000Z
+SUMMARY:Prairie/NWT Region Regional Council – June 4-5\, 2027
+LOCATION:Delta Hotels Winnipeg Downtown\, 350 St Mary Avenue\, Winnipeg\,
+  MB
+DESCRIPTION:Region: Prairie/Northwest Territories Region\nhttps://pipsc.c
+ a/events/prairie-nwt-regional-council-june-4-5-2027/
+URL:https://pipsc.ca/events/prairie-nwt-regional-council-june-4-5-2027/
+END:VEVENT
+END:VCALENDAR

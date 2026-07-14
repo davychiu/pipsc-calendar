@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Edmonton\, AB
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-81602@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260808T110000Z
+DTEND:20260808T140000Z
+SUMMARY:Edmonton Branch Annual PIPSC Family Picnic 2026
+LOCATION:Coronation park\, Site 2\, 11425-142 Street\, NW\, Edmonton
+DESCRIPTION:Region: Edmonton\, AB\nhttps://pipsc.ca/events/edmonton-branc
+ h-annual-pipsc-family-picnic-2026/
+URL:https://pipsc.ca/events/edmonton-branch-annual-pipsc-family-picnic-20
+ 26/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,18 @@
+{
+  "name": "pipsc-better-calendar",
+  "version": "1.0.0",
+  "description": "A usable calendar for PIPSC events",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "node src/sync.mjs",
+    "build": "node src/build.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.2.0"
+  }
+}

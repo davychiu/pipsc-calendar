@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Atlantic Region
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-5138@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260917T170000Z
+DTEND:20260919T210000Z
+SUMMARY:Basic Steward Training
+LOCATION:Delta Dartmouth\, 240 Brownlow Avenue\, Dartmouth\, NS
+DESCRIPTION:Region: Atlantic Region\nhttps://pipsc.ca/events/atl-basic-st
+ eward-training/
+URL:https://pipsc.ca/events/atl-basic-steward-training/
+END:VEVENT
+END:VCALENDAR

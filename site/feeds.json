@@ -1,0 +1,60 @@
+{
+ "all": "feeds/pipsc-events.ics",
+ "regions": [
+  {
+   "region": "Ottawa Centreville, NCR",
+   "file": "feeds/region-ottawa-centreville-ncr.ics",
+   "count": 2
+  },
+  {
+   "region": "Halifax, NS",
+   "file": "feeds/region-halifax-ns.ics",
+   "count": 1
+  },
+  {
+   "region": "Ottawa West, NCR",
+   "file": "feeds/region-ottawa-west-ncr.ics",
+   "count": 1
+  },
+  {
+   "region": "St. John's, NL",
+   "file": "feeds/region-st-john-s-nl.ics",
+   "count": 1
+  },
+  {
+   "region": "Edmonton, AB",
+   "file": "feeds/region-edmonton-ab.ics",
+   "count": 1
+  },
+  {
+   "region": "Regina, SK",
+   "file": "feeds/region-regina-sk.ics",
+   "count": 1
+  },
+  {
+   "region": "Atlantic Region",
+   "file": "feeds/region-atlantic-region.ics",
+   "count": 1
+  },
+  {
+   "region": "Ontario and Nunavut Region",
+   "file": "feeds/region-ontario-and-nunavut-region.ics",
+   "count": 2
+  },
+  {
+   "region": "Prairie/Northwest Territories Region",
+   "file": "feeds/region-prairie-northwest-territories-region.ics",
+   "count": 7
+  },
+  {
+   "region": "British Columbia & Yukon Region",
+   "file": "feeds/region-british-columbia-yukon-region.ics",
+   "count": 1
+  },
+  {
+   "region": "Québec Region",
+   "file": "feeds/region-qu-bec-region.ics",
+   "count": 1
+  }
+ ]
+}

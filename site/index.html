@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PIPSC Events — Better Calendar</title>
+<meta name="description" content="An unofficial, usable calendar of PIPSC events with filters and calendar subscriptions.">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap">
+    <h1>PIPSC Events</h1>
+    <p class="tagline">Unofficial mirror of <a href="https://pipsc.ca/events" target="_blank" rel="noopener">pipsc.ca/events</a> — sorted by event date, filterable, subscribable.</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <section class="controls" aria-label="Filters">
+    <input id="search" type="search" placeholder="Search events…" autocomplete="off">
+    <select id="region"><option value="">All regions</option></select>
+    <select id="group"><option value="">All groups</option></select>
+    <label class="toggle"><input type="checkbox" id="past"> Show past 90 days</label>
+    <div class="viewswitch" role="tablist">
+      <button id="view-list" class="active" role="tab" aria-selected="true">List</button>
+      <button id="view-month" role="tab" aria-selected="false">Month</button>
+    </div>
+  </section>
+
+  <section id="subscribe" class="subscribe">
+    <details>
+      <summary>📆 Subscribe in your own calendar</summary>
+      <p>Add these feeds to Google Calendar (“Other calendars → From URL”), Outlook, or Apple Calendar. They update automatically.</p>
+      <div id="feed-list"></div>
+    </details>
+  </section>
+
+  <section id="list-view" aria-live="polite"></section>
+
+  <section id="month-view" hidden>
+    <div class="month-nav">
+      <button id="prev-month" aria-label="Previous month">‹</button>
+      <h2 id="month-title"></h2>
+      <button id="next-month" aria-label="Next month">›</button>
+    </div>
+    <div id="month-grid" class="month-grid"></div>
+  </section>
+
+  <p id="status" class="status"></p>
+</main>
+
+<footer class="wrap footnote">
+  <p>Unofficial member-built tool. Data scraped from pipsc.ca; times shown in each event's local timezone (corrected from the source site's UTC display bug). <span id="generated"></span></p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

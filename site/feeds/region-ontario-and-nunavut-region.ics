@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Ontario and Nunavut Region
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-73892@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20260918T170000Z
+DTEND:20260919T200000Z
+SUMMARY:Ontario and Nunavut Region Steward Council
+LOCATION:White Oaks Conference Resort\, 253 Taylor Road\, Niagara-on-the-
+ Lake\, ON
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
+ ntario-and-nunavut-region-steward-council-2/
+URL:https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-2/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-79196@davychiu.github.io
+DTSTAMP:20260714T143553Z
+DTSTART:20270924T170000Z
+DTEND:20270925T210000Z
+SUMMARY:Ontario and Nunavut Region Steward Council
+LOCATION:253 Taylor Drive\, Niagara-on-the-Lake
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/events/o
+ ntario-and-nunavut-region-steward-council-3/
+URL:https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-3/
+END:VEVENT
+END:VCALENDAR
