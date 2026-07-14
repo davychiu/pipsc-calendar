@@ -20,9 +20,14 @@ pipsc.ca event pages ──┘                                    (events.json, 
 - **`src/sync.mjs`** — pulls the event index from the public WordPress REST API
   (`/wp-json/wp/v2/event`, which exposes titles, links, and region/group/
   employer/chapter taxonomies), then fetches only new or modified event pages
-  and scrapes the date/time/location block the API doesn't expose. Incremental
-  by default via `modified_after`; `--full` re-sweeps the whole index and
-  prunes deleted events. Detail fetches are serialized with a 700 ms delay.
+  and scrapes the date/time/location block the API doesn't expose. It also
+  mines news posts for event announcements ("When: … Where: …" lines), since
+  some events — branch socials, dine-outs, AGMs — are published only as news
+  and never appear on the official events page; prose times are genuine local
+  times (unlike the structured block, see below) and are kept as wall-clock
+  values. Incremental by default via `modified_after`; `--full` re-sweeps the
+  whole index and prunes deleted events. Detail fetches are serialized with a
+  700 ms delay.
 - **`src/build.mjs`** — writes the frontend payload (`site/events.json`) and
   iCalendar feeds (`site/feeds/*.ics`): one for all upcoming events plus one
   per region.

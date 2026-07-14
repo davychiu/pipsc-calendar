@@ -7,7 +7,7 @@ X-WR-CALNAME:PIPSC Events — Québec Region
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:pipsc-event-5139@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20261021T130000Z
 DTEND:20261023T160000Z
 SUMMARY:Promotion de lieu de travail psychologiquement sains (2 jrs) et E
@@ -21,11 +21,11 @@ URL:https://pipsc.ca/events/ohs-courses-tbc-in-french-and-in-person-octob
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-74240@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20261022T130000Z
 DTEND:20261024T160000Z
 SUMMARY:Cours de base pour nouveaux délégués (en présentiel) oct.2026
-LOCATION:90\, rue Stanstead\, Bromont
+LOCATION:90\, rue Stanstead\, Bromont\, QC
 DESCRIPTION:Region: Québec Region\nhttps://pipsc.ca/events/cours-de-base
  -pour-nouveaux-delegues-en-presentiel-oct-2026/
 URL:https://pipsc.ca/events/cours-de-base-pour-nouveaux-delegues-en-prese
@@ -33,7 +33,7 @@ URL:https://pipsc.ca/events/cours-de-base-pour-nouveaux-delegues-en-prese
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81671@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20270514T170000Z
 DTEND:20270515T200000Z
 SUMMARY:85th Quebec Regional Council 2027

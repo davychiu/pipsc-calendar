@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Vancouver\, BC
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-78973@davychiu.github.io
+DTSTAMP:20260714T162231Z
+DTSTART:20260716T173000
+SUMMARY:Dinner out with Vancouver Branch and the Young Professionals Comm
+ ittee
+LOCATION:The Sequel – Kitchen & Bar\, 1575 W Georgia St\, Vancouver\, B
+ C V6G 2T1
+DESCRIPTION:Region: Vancouver\, BC\nhttps://pipsc.ca/events/dinner-out-wi
+ th-vancouver-branch-and-the-young-professionals-committee/
+URL:https://pipsc.ca/events/dinner-out-with-vancouver-branch-and-the-youn
+ g-professionals-committee/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-news-80268@davychiu.github.io
+DTSTAMP:20260714T162231Z
+DTSTART:20261015T173000
+DTEND:20261015T200000
+SUMMARY:Vancouver Branch Pool and Pizza Event
+LOCATION:Commodore Lanes\, 838 Granville St\, Vancouver\, BC V6Z 1K3
+DESCRIPTION:Region: British Columbia & Yukon Region\, Vancouver\, BC\nhtt
+ ps://pipsc.ca/vancouver-branch-pool-and-pizza-event/
+URL:https://pipsc.ca/vancouver-branch-pool-and-pizza-event/
+END:VEVENT
+END:VCALENDAR

@@ -12,14 +12,19 @@
    "count": 3
   },
   {
-   "region": "Halifax, NS",
-   "file": "feeds/region-halifax-ns.ics",
-   "count": 5
+   "region": "Vancouver, BC",
+   "file": "feeds/region-vancouver-bc.ics",
+   "count": 2
   },
   {
    "region": "Ontario and Nunavut Region",
    "file": "feeds/region-ontario-and-nunavut-region.ics",
-   "count": 6
+   "count": 7
+  },
+  {
+   "region": "Halifax, NS",
+   "file": "feeds/region-halifax-ns.ics",
+   "count": 5
   },
   {
    "region": "Ottawa West, NCR",
@@ -39,6 +44,16 @@
   {
    "region": "St. John's, NL",
    "file": "feeds/region-st-john-s-nl.ics",
+   "count": 1
+  },
+  {
+   "region": "British Columbia & Yukon Region",
+   "file": "feeds/region-british-columbia-yukon-region.ics",
+   "count": 3
+  },
+  {
+   "region": "Yukon",
+   "file": "feeds/region-yukon.ics",
    "count": 1
   },
   {
@@ -75,11 +90,6 @@
    "region": "Québec Region",
    "file": "feeds/region-qu-bec-region.ics",
    "count": 3
-  },
-  {
-   "region": "British Columbia & Yukon Region",
-   "file": "feeds/region-british-columbia-yukon-region.ics",
-   "count": 1
   }
  ]
 }

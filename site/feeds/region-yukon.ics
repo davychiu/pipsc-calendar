@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//pipsc-better-calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:PIPSC Events — Yukon
+X-PUBLISHED-TTL:PT12H
+BEGIN:VEVENT
+UID:pipsc-event-news-81709@davychiu.github.io
+DTSTAMP:20260714T162231Z
+DTSTART:20260731T180000
+SUMMARY:Yukon Branch Summer Dine Out
+LOCATION:Tony’s Pasta & Seafood House\, Tagish Room\, 201 Wood Street\,
+  Whitehorse\, YT
+DESCRIPTION:Region: British Columbia & Yukon Region\, Yukon\nhttps://pips
+ c.ca/yukon-branch-summer-dine-out/
+URL:https://pipsc.ca/yukon-branch-summer-dine-out/
+END:VEVENT
+END:VCALENDAR

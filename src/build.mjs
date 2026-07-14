@@ -17,29 +17,40 @@ const SITE_DIR = new URL('../site/', import.meta.url);
 const FEEDS_DIR = new URL('feeds/', SITE_DIR);
 
 const events = Object.values(JSON.parse(await readFile(new URL('events.json', DATA_DIR), 'utf8')));
+const news = Object.values(JSON.parse(await readFile(new URL('news-events.json', DATA_DIR), 'utf8').catch(() => '{}')));
 const terms = JSON.parse(await readFile(new URL('terms.json', DATA_DIR), 'utf8'));
 const state = JSON.parse(await readFile(new URL('state.json', DATA_DIR), 'utf8'));
+
+// The same event can exist as an `event` post and a news announcement; keep
+// the event version.
+const dedupeKey = (e) => `${(e.title ?? '').toLowerCase().replace(/[^a-z0-9]+/g, ' ').trim()}|${e.startDate}`;
+const eventKeys = new Set(events.filter((e) => e.startDate).map(dedupeKey));
+const allSources = [...events, ...news.filter((n) => !eventKeys.has(dedupeKey(n)))];
 
 const termNames = (tax, ids) => (ids ?? []).map((id) => terms[tax]?.[id]?.name).filter(Boolean);
 
 const today = new Date().toISOString().slice(0, 10);
 const cutoffPast = new Date(Date.now() - 90 * 86400_000).toISOString().slice(0, 10);
 
-const enriched = events
+const enriched = allSources
   .filter((e) => e.startDate && !e.missing)
   .map((e) => {
-    const startUTC = e.startTime ? `${e.startDate}T${e.startTime}:00Z` : null;
-    let endUTC = e.endTime ? `${e.endDate ?? e.startDate}T${e.endTime}:00Z` : null;
+    // Structured times are raw UTC (site display bug); prose times
+    // (localTimes) are genuine local wall-clock times.
+    const startUTC = e.startTime && !e.localTimes ? `${e.startDate}T${e.startTime}:00Z` : null;
+    let endUTC = e.endTime && !e.localTimes ? `${e.endDate ?? e.startDate}T${e.endTime}:00Z` : null;
     if (startUTC && endUTC && endUTC <= startUTC) endUTC = null;
     return {
-      id: e.id,
+      id: `${e.source === 'news' ? 'news-' : ''}${e.id}`,
       title: e.title,
       link: e.link,
       startDate: e.startDate,
       endDate: e.endDate ?? e.startDate,
       startUTC,
       endUTC,
-      tz: TZ_MAP[e.tzLabel] ?? (e.startTime ? 'America/Toronto' : null),
+      startLocal: e.localTimes && e.startTime ? `${e.startDate}T${e.startTime}` : null,
+      endLocal: e.localTimes && e.endTime ? `${e.endDate ?? e.startDate}T${e.endTime}` : null,
+      tz: TZ_MAP[e.tzLabel] ?? (e.startTime && !e.localTimes ? 'America/Toronto' : null),
       tzLabel: e.tzLabel ?? null,
       location: e.location ?? [],
       region: termNames('region', e.taxonomies?.region),
@@ -89,6 +100,12 @@ function vevent(e, dtstamp) {
   if (e.startUTC) {
     lines.push(`DTSTART:${icsUTC(e.startUTC)}`);
     if (e.endUTC) lines.push(`DTEND:${icsUTC(e.endUTC)}`);
+  } else if (e.startLocal) {
+    // Prose-sourced wall-clock time; emit floating so clients show it as
+    // written (venue-local dinners etc. — tz label usually absent).
+    const flat = (s) => s.replace(/[-:]/g, '') + '00';
+    lines.push(`DTSTART:${flat(e.startLocal)}`);
+    if (e.endLocal && e.endLocal > e.startLocal) lines.push(`DTEND:${flat(e.endLocal)}`);
   } else {
     lines.push(`DTSTART;VALUE=DATE:${e.startDate.replaceAll('-', '')}`);
     lines.push(`DTEND;VALUE=DATE:${addDays(e.endDate, 1).replaceAll('-', '')}`);

@@ -10,7 +10,7 @@
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import * as cheerio from 'cheerio';
-import { parseEventPage } from './parse-event.mjs';
+import { parseEventPage, parseProseEvent } from './parse-event.mjs';
 
 const decodeEntities = (s) => cheerio.load(`<x>${s ?? ''}</x>`)('x').text().trim();
 
@@ -77,12 +77,64 @@ async function syncTerms() {
   console.log(`terms: ${TAXONOMIES.map((t) => `${t}=${Object.keys(terms[t]).length}`).join(' ')}`);
 }
 
+// Some events are announced only as news posts ("When: ... Where: ...").
+// Post content comes straight from the REST index — no page scraping.
+const NEWS_FILE = new URL('news-events.json', DATA_DIR);
+const POSTS_SINCE = '2025-07-01T00:00:00';
+
+async function syncNews(state) {
+  const news = await loadJson(NEWS_FILE, {});
+  const fields = '_fields=id,slug,link,modified,date,title,content,region,group,employer,chapter';
+  let url = `${API}/posts?${fields}`;
+  if (!FULL && state.lastModifiedPosts) {
+    const after = new Date(new Date(state.lastModifiedPosts + 'Z').getTime() - 3600_000)
+      .toISOString().replace(/\.\d+Z$/, '');
+    url += `&modified_after=${after}`;
+  } else {
+    url += `&after=${POSTS_SINCE}`;
+  }
+  const index = await fetchAllPages(url);
+  let found = 0;
+  const liveIds = new Set();
+  for (const p of index) {
+    liveIds.add(String(p.id));
+    const text = cheerio.load(p.content?.rendered ?? '')('body').text().replace(/\s+/g, ' ').trim();
+    const prose = parseProseEvent(text);
+    if (!prose || prose.startDate < p.date?.slice(0, 10)) {
+      delete news[p.id]; // announcement edited away, or date precedes publication (misparse)
+      continue;
+    }
+    news[p.id] = {
+      id: p.id,
+      slug: p.slug,
+      link: p.link,
+      title: decodeEntities(p.title?.rendered),
+      published: p.date,
+      modified: p.modified,
+      taxonomies: Object.fromEntries(TAXONOMIES.map((t) => [t, p[t] ?? []])),
+      ...prose,
+      description: text.slice(0, 1500),
+      source: 'news',
+      scrapedAt: new Date().toISOString(),
+    };
+    found++;
+  }
+  if (FULL) {
+    for (const id of Object.keys(news)) if (!liveIds.has(id)) delete news[id];
+  }
+  await writeFile(NEWS_FILE, JSON.stringify(news, null, 1));
+  const allMod = index.map((p) => p.modified).sort();
+  state.lastModifiedPosts = allMod.at(-1) ?? state.lastModifiedPosts;
+  console.log(`news: ${index.length} posts checked, ${found} with event announcements, ${Object.keys(news).length} stored`);
+}
+
 async function main() {
   await mkdir(DATA_DIR, { recursive: true });
   const events = await loadJson(EVENTS_FILE, {});
   const state = await loadJson(STATE_FILE, {});
 
   await syncTerms();
+  await syncNews(state);
 
   const fields = '_fields=id,slug,link,modified,date,title,region,group,employer,chapter';
   let indexUrl = `${API}/event?${fields}&orderby=modified&order=desc`;

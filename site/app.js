@@ -57,7 +57,19 @@
   }
 
   // ---- formatting ----
+  const fmtClock = (hhmm) => {
+    let [h, m] = hhmm.split(':').map(Number);
+    const mer = h < 12 ? 'a.m.' : 'p.m.';
+    h = h % 12 || 12;
+    return `${h}:${String(m).padStart(2, '0')} ${mer}`;
+  };
   const fmtTime = (e) => {
+    if (e.startLocal) {
+      // prose-sourced wall-clock time, shown as written
+      const s = fmtClock(e.startLocal.slice(11));
+      const label = e.tzLabel ? ` (${e.tzLabel})` : '';
+      return e.endLocal ? `${s} – ${fmtClock(e.endLocal.slice(11))}${label}` : s + label;
+    }
     if (!e.startUTC) return 'All day';
     const opt = { timeZone: e.tz, hour: 'numeric', minute: '2-digit' };
     const s = new Date(e.startUTC).toLocaleTimeString('en-CA', opt);

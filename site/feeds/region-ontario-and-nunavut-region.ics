@@ -6,8 +6,22 @@ METHOD:PUBLISH
 X-WR-CALNAME:PIPSC Events — Ontario and Nunavut Region
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:pipsc-event-news-80088@davychiu.github.io
+DTSTAMP:20260714T162231Z
+DTSTART:20260717T180000
+SUMMARY:Ontario and Nunavut Regional Executive “Meet and Greet” Recep
+ tion
+LOCATION:Delta Waterloo Reception room: Laurel Creek – second floor Tim
+ e: 6:00 p.m. to 9:00 p.m. This will be a great opportunity for you to mee
+ t your Ontario and Nunavu
+DESCRIPTION:Region: Ontario and Nunavut Region\nhttps://pipsc.ca/ontario-
+ and-nunavut-regional-executive-meet-and-greet-reception/
+URL:https://pipsc.ca/ontario-and-nunavut-regional-executive-meet-and-gree
+ t-reception/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-74181@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20260717T170000Z
 DTEND:20260717T210000Z
 SUMMARY:Ontario and Nunavut Regional Training Committee Meeting #2
@@ -19,7 +33,7 @@ URL:https://pipsc.ca/events/ontario-and-nunavut-regional-training-committ
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-70318@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20260718T130000Z
 DTEND:20260718T210000Z
 SUMMARY:Ontario and Nunavut Region Executive Meeting #4
@@ -30,7 +44,7 @@ URL:https://pipsc.ca/events/ontario-and-nunavut-region-executive-meeting/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-73892@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20260918T170000Z
 DTEND:20260919T200000Z
 SUMMARY:Ontario and Nunavut Region Steward Council
@@ -42,7 +56,7 @@ URL:https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-2/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-72007@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20270305T140000Z
 DTEND:20270306T220000Z
 SUMMARY:Ontario and Nunavut Region Training – TBD
@@ -53,7 +67,7 @@ URL:https://pipsc.ca/events/ontario-and-nunavut-region-training-tbd/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-72973@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20270526T180000Z
 DTEND:20270529T170000Z
 SUMMARY:Ontario and Nunavut May Labour School (Advanced Steward Training)
@@ -65,7 +79,7 @@ URL:https://pipsc.ca/events/ontario-and-nunavut-may-labour-school-advance
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-79196@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20270924T170000Z
 DTEND:20270925T210000Z
 SUMMARY:Ontario and Nunavut Region Steward Council

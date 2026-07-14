@@ -7,7 +7,7 @@ X-WR-CALNAME:PIPSC Events — Prairie/Northwest Territories Region
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:pipsc-event-4878@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20260923T190000Z
 DTEND:20260923T230000Z
 SUMMARY:Prairie/NWT Regional Training Committee Meeting ( Sub-Meeting) 
@@ -21,7 +21,7 @@ URL:https://pipsc.ca/events/prairie-nwt-regional-training-committee-meeti
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-5203@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20260924T150000Z
 DTEND:20260924T220000Z
 SUMMARY:Prairie/NWT Regional Executive Meeting (Sub-Meeting) – Septembe
@@ -35,7 +35,7 @@ URL:https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-sub-me
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81115@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20261023T090000Z
 DTEND:20261024T170000Z
 SUMMARY:Occupational Health and Safety Training – October 23 & 24\, 202
@@ -47,7 +47,7 @@ URL:https://pipsc.ca/events/occupational-health-and-safety-training-octob
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81620@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20270311T160000Z
 DTEND:20270313T190000Z
 SUMMARY:Prairie/NWT Spring Basic Steward Training – March 11 -13\, 2027
@@ -59,7 +59,7 @@ URL:https://pipsc.ca/events/prairie-nwt-spring-basic-steward-training/
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81681@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20270602T190000Z
 DTEND:20270602T230000Z
 SUMMARY:Prairie/NWT Region Training Committee Meeting (Sub-Mtg) – June 
@@ -73,7 +73,7 @@ URL:https://pipsc.ca/events/prairie-nwt-training-committee-meeting-sub-mt
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-81682@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20270603T150000Z
 DTEND:20270603T220000Z
 SUMMARY:Prairie/NWT Region Regional Executive Meeting – June 3\, 2027
@@ -86,7 +86,7 @@ URL:https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-june-3
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-7928@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20270604T200000Z
 DTEND:20270605T220000Z
 SUMMARY:Prairie/NWT Region Regional Council – June 4-5\, 2027

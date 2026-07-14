@@ -60,6 +60,73 @@ export function parseDateLine(line) {
   return out;
 }
 
+// Fallback for content whose date lives only in prose, e.g.
+//   "When: Friday, July 31, 2026, at 6:00 PM Where: Tony's..., Whitehorse, YT Cost: ..."
+//   "When: Wednesday, May 27, 2026 – 5:30 to 9:00pm"
+//   "When: May 27 2026, at 12:00 PM PT Where: 401 Burrard St."
+// Unlike the structured date block (raw UTC), prose times are genuine local
+// times as written, so results carry localTimes: true.
+const TZ_TOKEN = /\b(PT|MT|CT|ET|AT|NT|PST|PDT|MST|MDT|CST|CDT|EST|EDT|AST|ADT|NST|NDT)\b/;
+
+function to24h(hourStr, minStr, meridiem) {
+  let h = Number(hourStr);
+  if (meridiem) {
+    h %= 12;
+    if (/^p/i.test(meridiem)) h += 12;
+  }
+  if (h > 23) return null;
+  return `${String(h).padStart(2, '0')}:${minStr ?? '00'}`;
+}
+
+export function parseProseEvent(text) {
+  if (!text) return null;
+  const whenM = text.match(/\bwhen\s*:\s*/i);
+  if (!whenM) return null;
+  const win = text.slice(whenM.index, whenM.index + 200);
+
+  const dateM = win.match(/([A-Za-z]+)\s+(\d{1,2})(?:\s*(?:st|nd|rd|th))?,?\s+(\d{4})/);
+  if (!dateM) return null;
+  const startDate = parseLongDate(`${dateM[1]} ${dateM[2]}, ${dateM[3]}`);
+  if (!startDate) return null;
+
+  const timeWin = win.slice(dateM.index + dateM[0].length, dateM.index + dateM[0].length + 90);
+  const MER = String.raw`(a\.?m\.?|p\.?m\.?)`;
+  const range = timeWin.match(new RegExp(String.raw`(\d{1,2})(?::(\d{2}))?\s*${MER}?\s*(?:to|until|[-–—])\s*(\d{1,2})(?::(\d{2}))?\s*${MER}`, 'i'));
+  const single = timeWin.match(new RegExp(String.raw`(\d{1,2})(?::(\d{2}))?\s*${MER}`, 'i'));
+  let startTime = null;
+  let endTime = null;
+  if (range) {
+    startTime = to24h(range[1], range[2], range[3] ?? range[6]); // "5:30 to 9:00pm" inherits pm
+    endTime = to24h(range[4], range[5], range[6]);
+    if (startTime && endTime && endTime < startTime && !range[3]) {
+      // "11:30 to 1:00pm" — start was am
+      startTime = to24h(range[1], range[2], 'am');
+    }
+  } else if (single) {
+    startTime = to24h(single[1], single[2], single[3]);
+  }
+  if (!startTime) return null;
+  const tzM = timeWin.match(TZ_TOKEN);
+
+  let location = [];
+  const whereM = text.match(/where\s*:\s*(.{3,160})/is);
+  if (whereM) {
+    let loc = whereM[1];
+    const stop = loc.search(/\b(cost|price|no\s+rsvp|rsvp|when|registration|please|agenda)\b\s*:?/i);
+    if (stop > 0) {
+      loc = loc.slice(0, stop);
+    } else {
+      // no section label in range: cut after "..., ON" / "..., BC V6G 2T1"
+      const prov = loc.match(/^(.*,\s*(?:BC|AB|SK|MB|ON|QC|NB|NS|PE|NL|YT|NT|NU)\b(?:\s+[A-Z]\d[A-Z]\s*\d[A-Z]\d)?)/);
+      if (prov) loc = prov[1];
+    }
+    loc = loc.replace(/\s+/g, ' ').replace(/[.,;\s]+$/, '').trim();
+    if (loc.length >= 3) location = [loc];
+  }
+
+  return { startDate, endDate: startDate, startTime, endTime, tzLabel: tzM ? tzM[1] : null, localTimes: true, location };
+}
+
 export function parseEventPage(html) {
   const $ = cheerio.load(html);
   const head = $('.event-detail-head');
@@ -85,5 +152,10 @@ export function parseEventPage(html) {
 
   const frLink = $('a.lang-item[data-lang="FR"]').attr('href') || null;
 
-  return { ...when, location: locationLines, description, links, frLink };
+  let result = { ...when, location: locationLines, description, links, frLink };
+  if (!result.startDate) {
+    const prose = parseProseEvent(description);
+    if (prose) result = { ...result, ...prose, location: locationLines.length ? locationLines : prose.location };
+  }
+  return result;
 }

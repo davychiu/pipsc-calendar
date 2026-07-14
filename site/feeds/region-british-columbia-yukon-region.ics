@@ -6,8 +6,30 @@ METHOD:PUBLISH
 X-WR-CALNAME:PIPSC Events — British Columbia & Yukon Region
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
+UID:pipsc-event-news-81709@davychiu.github.io
+DTSTAMP:20260714T162231Z
+DTSTART:20260731T180000
+SUMMARY:Yukon Branch Summer Dine Out
+LOCATION:Tony’s Pasta & Seafood House\, Tagish Room\, 201 Wood Street\,
+  Whitehorse\, YT
+DESCRIPTION:Region: British Columbia & Yukon Region\, Yukon\nhttps://pips
+ c.ca/yukon-branch-summer-dine-out/
+URL:https://pipsc.ca/yukon-branch-summer-dine-out/
+END:VEVENT
+BEGIN:VEVENT
+UID:pipsc-event-news-80268@davychiu.github.io
+DTSTAMP:20260714T162231Z
+DTSTART:20261015T173000
+DTEND:20261015T200000
+SUMMARY:Vancouver Branch Pool and Pizza Event
+LOCATION:Commodore Lanes\, 838 Granville St\, Vancouver\, BC V6Z 1K3
+DESCRIPTION:Region: British Columbia & Yukon Region\, Vancouver\, BC\nhtt
+ ps://pipsc.ca/vancouver-branch-pool-and-pizza-event/
+URL:https://pipsc.ca/vancouver-branch-pool-and-pizza-event/
+END:VEVENT
+BEGIN:VEVENT
 UID:pipsc-event-75872@davychiu.github.io
-DTSTAMP:20260714T160843Z
+DTSTAMP:20260714T162231Z
 DTSTART:20261205T010000Z
 DTEND:20261206T010000Z
 SUMMARY:BC/Yukon Executive Leadership Training
