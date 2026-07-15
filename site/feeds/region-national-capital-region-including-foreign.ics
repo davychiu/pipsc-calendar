@@ -6,19 +6,8 @@ METHOD:PUBLISH
 X-WR-CALNAME:PIPSC Events — National Capital Region (including foreign)
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
-UID:pipsc-event-80407@davychiu.github.io
-DTSTAMP:20260714T162231Z
-DTSTART:20260714T190000Z
-DTEND:20260714T210000Z
-SUMMARY:You’re invited to Bargaining 101 virtual session!
-DESCRIPTION:Region: National Capital Region (including foreign)\nhttps://
- pipsc.ca/events/youre-invited-to-bargaining-101-virtual-session/
-URL:https://pipsc.ca/events/youre-invited-to-bargaining-101-virtual-sessi
- on/
-END:VEVENT
-BEGIN:VEVENT
 UID:pipsc-event-80365@davychiu.github.io
-DTSTAMP:20260714T162231Z
+DTSTAMP:20260714T162452Z
 DTSTART:20260805T200000Z
 DTEND:20260805T230000Z
 SUMMARY:2026 Fireworks Cruise Summer Social Event – PIPSC AAFC Branch 
@@ -31,7 +20,7 @@ URL:https://pipsc.ca/events/2026-fireworks-cruise-summer-social-event-pip
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-72065@davychiu.github.io
-DTSTAMP:20260714T162231Z
+DTSTAMP:20260714T162452Z
 DTSTART:20261007T210000Z
 DTEND:20261008T000000Z
 SUMMARY:OSB Branch AGM

@@ -7,7 +7,7 @@ X-WR-CALNAME:PIPSC Events — Vancouver\, BC
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:pipsc-event-78973@davychiu.github.io
-DTSTAMP:20260714T162231Z
+DTSTAMP:20260714T162452Z
 DTSTART:20260716T173000
 SUMMARY:Dinner out with Vancouver Branch and the Young Professionals Comm
  ittee
@@ -20,7 +20,7 @@ URL:https://pipsc.ca/events/dinner-out-with-vancouver-branch-and-the-youn
 END:VEVENT
 BEGIN:VEVENT
 UID:pipsc-event-news-80268@davychiu.github.io
-DTSTAMP:20260714T162231Z
+DTSTAMP:20260714T162452Z
 DTSTART:20261015T173000
 DTEND:20261015T200000
 SUMMARY:Vancouver Branch Pool and Pizza Event

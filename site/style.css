@@ -28,6 +28,10 @@ a { color: var(--accent); }
 .topbar { background: var(--card); border-bottom: 1px solid var(--border); padding: 1.2rem 0; margin-bottom: 1.2rem; }
 .topbar h1 { margin: 0 0 .2rem; font-size: 1.5rem; }
 .tagline { margin: 0; color: var(--muted); font-size: .95rem; }
+.topbar-row { display: flex; justify-content: space-between; align-items: flex-start; gap: 1rem; }
+.lang-switch { display: flex; border: 1px solid var(--border); border-radius: 8px; overflow: hidden; flex: 0 0 auto; }
+.lang-switch button { padding: .35rem .7rem; border: 0; background: var(--card); color: var(--muted); cursor: pointer; font-size: .85rem; font-weight: 600; }
+.lang-switch button.active { background: var(--accent); color: #fff; }
 
 .controls { display: flex; flex-wrap: wrap; gap: .6rem; align-items: center; margin-bottom: 1rem; }
 .controls input[type=search] { flex: 1 1 200px; }

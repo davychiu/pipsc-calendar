@@ -3,25 +3,31 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>PIPSC Events — Better Calendar</title>
+<title>PIPSC Events Calendar</title>
 <meta name="description" content="An unofficial, usable calendar of PIPSC events with filters and calendar subscriptions.">
 <link rel="stylesheet" href="style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📅</text></svg>">
 </head>
 <body>
 <header class="topbar">
-  <div class="wrap">
-    <h1>PIPSC Events</h1>
-    <p class="tagline">Unofficial mirror of <a href="https://pipsc.ca/events" target="_blank" rel="noopener">pipsc.ca/events</a> — sorted by event date, filterable, subscribable.</p>
+  <div class="wrap topbar-row">
+    <div>
+      <h1 id="t-title">PIPSC Events Calendar</h1>
+      <p class="tagline"><span id="t-tagline">Unofficial mirror of</span> <a id="t-source" href="https://pipsc.ca/events" target="_blank" rel="noopener">pipsc.ca/events</a><span id="t-tagline2"> — sorted by event date, filterable, subscribable.</span></p>
+    </div>
+    <div class="lang-switch" role="group" aria-label="Language">
+      <button id="lang-en" class="active">EN</button>
+      <button id="lang-fr">FR</button>
+    </div>
   </div>
 </header>
 
 <main class="wrap">
   <section class="controls" aria-label="Filters">
     <input id="search" type="search" placeholder="Search events…" autocomplete="off">
-    <select id="region"><option value="">All regions</option></select>
-    <select id="group"><option value="">All groups</option></select>
-    <label class="toggle"><input type="checkbox" id="past"> Show past 90 days</label>
+    <select id="region"><option value="" id="t-all-regions">All regions</option></select>
+    <select id="group"><option value="" id="t-all-groups">All groups</option></select>
+    <label class="toggle"><input type="checkbox" id="past"> <span id="t-past">Show past 90 days</span></label>
     <div class="viewswitch" role="tablist">
       <button id="view-list" class="active" role="tab" aria-selected="true">List</button>
       <button id="view-month" role="tab" aria-selected="false">Month</button>
@@ -30,8 +36,8 @@
 
   <section id="subscribe" class="subscribe">
     <details>
-      <summary>📆 Subscribe in your own calendar</summary>
-      <p>Add these feeds to Google Calendar (“Other calendars → From URL”), Outlook, or Apple Calendar. They update automatically.</p>
+      <summary id="t-sub-summary">📆 Subscribe in your own calendar</summary>
+      <p id="t-sub-text">Add these feeds to Google Calendar (“Other calendars → From URL”), Outlook, or Apple Calendar. They update automatically.</p>
       <div id="feed-list"></div>
     </details>
   </section>
@@ -51,7 +57,7 @@
 </main>
 
 <footer class="wrap footnote">
-  <p>Data from pipsc.ca; times shown in each event's local timezone. <span id="generated"></span></p>
+  <p><span id="t-footer">Data from pipsc.ca; times shown in each event's local timezone.</span> <span id="generated"></span></p>
 </footer>
 
 <script src="app.js"></script>

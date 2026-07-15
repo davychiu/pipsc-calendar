@@ -2,11 +2,6 @@
  "all": "feeds/pipsc-events.ics",
  "regions": [
   {
-   "region": "National Capital Region (including foreign)",
-   "file": "feeds/region-national-capital-region-including-foreign.ics",
-   "count": 3
-  },
-  {
    "region": "Ottawa Centreville, NCR",
    "file": "feeds/region-ottawa-centreville-ncr.ics",
    "count": 3
@@ -60,6 +55,11 @@
    "region": "Agriculture & Agri-Food Canada, NCR",
    "file": "feeds/region-agriculture-agri-food-canada-ncr.ics",
    "count": 1
+  },
+  {
+   "region": "National Capital Region (including foreign)",
+   "file": "feeds/region-national-capital-region-including-foreign.ics",
+   "count": 2
   },
   {
    "region": "Edmonton, AB",

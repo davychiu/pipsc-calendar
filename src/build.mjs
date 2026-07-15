@@ -44,6 +44,7 @@ const enriched = allSources
       id: `${e.source === 'news' ? 'news-' : ''}${e.id}`,
       title: e.title,
       link: e.link,
+      frLink: e.frLink ?? null,
       startDate: e.startDate,
       endDate: e.endDate ?? e.startDate,
       startUTC,
