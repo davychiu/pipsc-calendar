@@ -3301,5 +3301,66 @@
   "description": "Published July 10, 2026 | Last updated 3 days ago Join us for an evening of great food, conversation, and networking. This event is open to members of the PIPSC Yukon Branch and the Yukon Hospital Corporation (YHC) Group. When: Friday, July 31, 2026, at 6:00 PMWhere: Tony’s Pasta & Seafood House, Tagish Room, 201 Wood Street, Whitehorse, YT Cost: PIPSC will reimburse up to $50 per member. Members are responsible for any remaining costs. Whether you’re looking to connect with fellow members, meet new colleagues, learn more about your union, or simply enjoy a relaxed evening together, we’d love to see you there! This event is supported in part by the BC/Yukon Young Professionals Committee (YPC). RSVP NOW Please register by Friday, July 24, 2026. Space is limited to the first 25 registrants. We look forward to seeing you!",
   "source": "news",
   "scrapedAt": "2026-07-14T16:22:30.244Z"
+ },
+ "82416": {
+  "id": 82416,
+  "slug": "join-pipsc-for-a-labour-day-celebration-in-burnaby",
+  "link": "https://pipsc.ca/join-pipsc-for-a-labour-day-celebration-in-burnaby/",
+  "title": "Join PIPSC for a Labour Day celebration in Burnaby",
+  "published": "2026-07-24T14:53:59",
+  "modified": "2026-07-24T16:30:12",
+  "taxonomies": {
+   "region": [
+    518,
+    1733,
+    1783
+   ],
+   "group": [
+    843
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-09-07",
+  "endDate": "2026-09-07",
+  "startTime": "11:00",
+  "endTime": "14:30",
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "Edmonds Park, 7433 Humphries Ave., Burnaby Labour Day is a time to celebrate the history of the labour movement in Canada and recognize the strength and contrib"
+  ],
+  "description": "Published July 24, 2026 | Last updated 3 hours ago The Greater Vancouver Branch, Surrey-White Rock Branch and SP Lower Mainland Sub Group invite you to celebrate Labour Day with fellow PIPSC members, families and the broader labour community! Enjoy an afternoon of music, games, food, children’s activities and conversations about the labour movement. This event is hosted jointly with the Vancouver & New Westminster District Labour Councils. When: Monday, September 7, 2026, from 11 AM to 2:30 PMWhere: Edmonds Park, 7433 Humphries Ave., Burnaby Labour Day is a time to celebrate the history of the labour movement in Canada and recognize the strength and contributions of working people. Stop by the PIPSC tent to say hello and pick up a special visibility item (limited quantities available). We hope to see you there! In solidarity, Michael Langet, PIPSCDavy Chiu, PIPSCBryan Chen, PIPSC",
+  "source": "news",
+  "scrapedAt": "2026-07-24T18:45:48.667Z"
+ },
+ "82651": {
+  "id": 82651,
+  "slug": "dinner-okanagan-branch-and-bc-yukon-young-professionals",
+  "link": "https://pipsc.ca/dinner-okanagan-branch-and-bc-yukon-young-professionals/",
+  "title": "Dinner: Okanagan Branch and BC-Yukon Young Professionals",
+  "published": "2026-07-24T15:11:16",
+  "modified": "2026-07-24T17:00:54",
+  "taxonomies": {
+   "region": [
+    518,
+    1556
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-08-25",
+  "endDate": "2026-08-25",
+  "startTime": "18:00",
+  "endTime": null,
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "Kin & Folk, 557 Main St, Penticton, BC V2A 5C6"
+  ],
+  "description": "Published July 24, 2026 | Last updated 3 hours ago The Okanagan Branch and the BC-Yukon Young Professionals Committee invite you to join fellow PIPSC members for a Dine-Out event in Penticton! All PIPSC members are welcome. Event Details: When: Tuesday, August 25, 2026 at 6:00 PM Where: Kin & Folk, 557 Main St, Penticton, BC V2A 5C6 Cost: PIPSC will subsidize up to $50 per member toward the cost of the meal. Members are responsible for any additional costs above this amount. This is a great opportunity to connect with other PIPSC members in the Okanagan region, build your network, and learn more about your union. Join us to: Meet other PIPSC members from your community. Connect with others who share your interests. Build professional and social connections. Learn more about how you can get involved with PIPSC. Please RSVP by August 21. Space is limited to the first 25 registrants. RSVP NOW We hope you’ll join us for a great evening of food, conversation, and connection!",
+  "source": "news",
+  "scrapedAt": "2026-07-24T18:45:48.665Z"
  }
 }
