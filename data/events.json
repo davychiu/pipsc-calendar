@@ -14541,7 +14541,7 @@
   "link": "https://pipsc.ca/events/osfi-bargaining-prep-meeting-5/",
   "title": "OSFI Bargaining Prep Meeting",
   "published": "2026-02-02T19:45:23",
-  "modified": "2026-06-11T19:51:24",
+  "modified": "2026-07-28T04:00:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -14562,7 +14562,7 @@
    "OSFI - Professional Employees Group": "https://pipsc.ca/group/osfi-professional-employees-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-preparatoire-aux-negociations-avec-le-bsif-5/",
-  "scrapedAt": "2026-07-14T14:40:54.441Z"
+  "scrapedAt": "2026-07-28T07:47:38.225Z"
  },
  "5383": {
   "id": 5383,
@@ -92493,7 +92493,7 @@
   "link": "https://pipsc.ca/events/sp-sault-ste-marie-subgroup-agm/",
   "title": "SP Sault Ste Marie Subgroup AGM",
   "published": "2026-04-17T13:32:21",
-  "modified": "2026-04-29T01:00:28",
+  "modified": "2026-07-28T04:00:28",
   "taxonomies": {
    "region": [],
    "group": [
@@ -92519,7 +92519,7 @@
    "Sault Ste. Marie": "https://pipsc.ca/group/sp-sault-ste-marie-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-du-sous-groupe-sault-ste-marie-du-groupe-sp/",
-  "scrapedAt": "2026-07-14T15:01:11.534Z"
+  "scrapedAt": "2026-07-28T07:47:36.932Z"
  },
  "72597": {
   "id": 72597,
@@ -117748,6 +117748,41 @@
   },
   "frLink": "https://pipsc.ca/fr/events/la-belle-et-la-bete/",
   "scrapedAt": "2026-07-22T18:34:49.472Z"
+ },
+ "82459": {
+  "id": 82459,
+  "slug": "pipsc-fredericton-branch-pool-night-at-doolys",
+  "link": "https://pipsc.ca/events/pipsc-fredericton-branch-pool-night-at-doolys/",
+  "title": "PIPSC Fredericton Branch – Pool Night at Dooly’s",
+  "published": "2026-07-27T18:55:36",
+  "modified": "2026-07-27T18:56:56",
+  "taxonomies": {
+   "region": [
+    2373,
+    1867
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-08-26",
+  "endDate": "2026-08-26",
+  "startTime": "17:30",
+  "endTime": "20:30",
+  "tzLabel": "AT",
+  "raw": "August 26, 2026 - August 26, 2026 | 5:30 PM - 8:30 PM (AT)",
+  "location": [
+   "Dooly’s Billiard Room",
+   "432 Queen Street",
+   "Fredericton"
+  ],
+  "description": "The Fredericton Branch of PIPSC invites its members, as well as the NEW Gagetown DND Branch members to a night of Pool and Pizza. Food and Beverages (2) will be provided for members. Please R.S.V.P. to a Branch Executive Member through email by Friday, August 21st , 2026 providing your name and group so that your spot can be reserved and the correct amount food can be purchased.Date: Wednesday August 26th , 2026Time: 5:00 – 8:00 p.m.Location: Dooly’s Billiard Room, 432 Queen St., Fredericton, NB Hope to see you there, Scott McConaghyPresident, Fredericton Branch Executive MembersGlen MacDonald: glen.macdonald@gnb.caMike Taylor: mike.taylor@gnb.caAlexander Blaney: ablaney@pipsc.caScott McConaghy: mscottmcconaghy@gmail.com",
+  "links": {
+   "DND Gagetown, NB": "https://pipsc.ca/region/atl-dnd-gagetown-nb-en/",
+   "Fredericton, NB": "https://pipsc.ca/region/atl-fredericton-nb-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/section-de-fredericton-de-lipfpc-soiree-de-billard-chez-doolys/",
+  "scrapedAt": "2026-07-28T07:47:39.382Z"
  },
  "82474": {
   "id": 82474,
