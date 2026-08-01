@@ -4711,7 +4711,7 @@
   "link": "https://pipsc.ca/events/prairie-nwt-advance-labour-school-april-30-may-1-2-2026/",
   "title": "Prairie/NWT Advance Labour School – April 30 & May 1 – 2, 2026",
   "published": "2026-01-29T19:37:32",
-  "modified": "2026-05-02T22:00:26",
+  "modified": "2026-08-01T06:00:27",
   "taxonomies": {
    "region": [
     507
@@ -4737,7 +4737,7 @@
    "Prairie/Northwest Territories Region": "https://pipsc.ca/region/prairie-northwest-territories-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/ecole-syndicale-avancee-des-prairies-et-des-t-n-o/",
-  "scrapedAt": "2026-07-14T15:00:26.280Z"
+  "scrapedAt": "2026-08-01T07:38:06.710Z"
  },
  "4499": {
   "id": 4499,
@@ -43474,7 +43474,7 @@
   "link": "https://pipsc.ca/events/dnd-national-consultation-and-stewards-meeting/",
   "title": "DND NCT Executive and Ontario and Nunavut Region Steward Consultation Meetings",
   "published": "2026-02-03T16:53:58",
-  "modified": "2026-06-02T18:14:27",
+  "modified": "2026-08-01T05:00:27",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -43495,7 +43495,7 @@
   "description": "Event contact: Heather Kohli Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be ded",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/consultation-nationale-et-reunion-des-delegues-syndicaux-du-mdn/",
-  "scrapedAt": "2026-07-14T14:53:44.439Z"
+  "scrapedAt": "2026-08-01T07:38:07.868Z"
  },
  "7751": {
   "id": 7751,
@@ -90161,7 +90161,7 @@
   "link": "https://pipsc.ca/events/sh-executive-meeting-and-strategic-planning-2026/",
   "title": "SH Executive Meeting and Strategic Planning 2026",
   "published": "2026-04-01T19:08:21",
-  "modified": "2026-05-02T21:00:27",
+  "modified": "2026-08-01T04:00:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -90185,7 +90185,7 @@
    "Health Services Group": "https://pipsc.ca/group/health-services-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-executive-de-sh-et-planification-strategique-2026/",
-  "scrapedAt": "2026-07-14T15:00:27.588Z"
+  "scrapedAt": "2026-08-01T07:38:09.191Z"
  },
  "71644": {
   "id": 71644,
@@ -90193,7 +90193,7 @@
   "link": "https://pipsc.ca/events/national-young-professionals-committee-meeting-2-virtual-2/",
   "title": "National Young Professionals Committee Meeting #2 (Virtual)",
   "published": "2026-04-02T13:50:21",
-  "modified": "2026-05-02T20:00:27",
+  "modified": "2026-08-01T04:00:27",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -90210,7 +90210,7 @@
   "description": "Event contact: Shelby Woodman Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be de",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/reunion-du-comite-national-des-jeunes-professionnels-virtuel/",
-  "scrapedAt": "2026-07-14T15:00:28.762Z"
+  "scrapedAt": "2026-08-01T07:38:10.370Z"
  },
  "71646": {
   "id": 71646,
@@ -118310,5 +118310,37 @@
   },
   "frLink": "https://pipsc.ca/fr/events/defile-de-la-fierte-de-montreal-2026/",
   "scrapedAt": "2026-07-31T18:45:36.047Z"
+ },
+ "83210": {
+  "id": 83210,
+  "slug": "2026-nav-canada-group-agm-october-14-hybrid",
+  "link": "https://pipsc.ca/events/2026-nav-canada-group-agm-october-14-hybrid/",
+  "title": "2026 NAV Canada Group AGM – October 14 (Hybrid)",
+  "published": "2026-07-31T19:09:26",
+  "modified": "2026-07-31T19:09:26",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    149
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-14",
+  "startTime": "15:00",
+  "endTime": "18:00",
+  "tzLabel": "ET",
+  "raw": "October 14, 2026 - October 14, 2026 | 3:00 PM - 6:00 PM (ET)",
+  "location": [
+   "750 Ridgewood Ave,",
+   "Ottawa"
+  ],
+  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "links": {
+   "NAV CANADA - Professional Employees Group": "https://pipsc.ca/group/nav-canada-professional-employees-group-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/assemblee-generale-annuelle-2026-du-groupe-nav-canada-14-octobre-hybride/",
+  "scrapedAt": "2026-08-01T07:38:11.117Z"
  }
 }
