@@ -3392,5 +3392,33 @@
   "description": "You’re invited to the CP Vancouver Sub-Group AGM. All CP Group members (regular and retired) are invited to attend the AGM; only regular members can participate in the election of the Vancouver CP Sub-Group Executives. When: Thursday, September 24, 2026 from 5:15 PM to 8:30 PM Where: TBD – Downtown Vancouver; location will be shared via email to registered participants on or before September 10, 2026 For more information on the event, including how to RSVP, please visit this web page. Please register by 5:15 PM PT! If you have any questions, please email Amy Lee at alee@pipsc.ca. In solidarity, Amy Lee, CP Vancouver Sub-group Executive, PIPSC zeffy.com/en-CA/ticketing/cp-vancouver-agm-vpl-central-library-boardroom-thursday-september-24-2026-registration-starts-at-515pm",
   "source": "news",
   "scrapedAt": "2026-08-01T11:05:25.916Z"
+ },
+ "83440": {
+  "id": 83440,
+  "slug": "cp-group-info-session-your-union-your-voice",
+  "link": "https://pipsc.ca/cp-group-info-session-your-union-your-voice/",
+  "title": "CP Group info session: Your Union, Your Voice",
+  "published": "2026-08-10T13:33:09",
+  "modified": "2026-08-10T13:33:10",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    256
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-09-09",
+  "endDate": "2026-09-09",
+  "startTime": "12:00",
+  "endTime": null,
+  "tzLabel": "ET",
+  "localTimes": true,
+  "location": [
+   "Zoom (the meeting link will be sent to registered participants after"
+  ],
+  "description": "Published August 10, 2026 | Last updated 4 hours ago CP Members, You’re invited to the CP Group’s virtual session: Your Union, Your Voice, a brief introduction to your union, followed by a live Q&A with your CP National Executive. When: Wednesday, September 9, 2026 at 12:00 PM ET Where: Zoom (the meeting link will be sent to registered participants after registration closes) Register now RSVP before Monday, August 31, 2026. If you have any questions, please email cpevents@pipsc.ca. In solidarity, Amy LeeOn behalf of your CP National Executive, PIPSC",
+  "source": "news",
+  "scrapedAt": "2026-08-10T18:03:30.990Z"
  }
 }

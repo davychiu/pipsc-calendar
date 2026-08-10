@@ -12722,7 +12722,7 @@
   "link": "https://pipsc.ca/events/ohs-courses-tbc-in-french-and-in-person-october-2026/",
   "title": "Promotion de lieu de travail psychologiquement sains (2 jrs) et Enquête d’incidents en santé et sécurité (0,5 jrs)  octobre 2026",
   "published": "2026-01-29T19:39:12",
-  "modified": "2026-06-02T18:15:19",
+  "modified": "2026-08-10T16:48:18",
   "taxonomies": {
    "region": [
     459
@@ -12731,15 +12731,15 @@
    "employer": [],
    "chapter": []
   },
-  "startDate": "2026-10-21",
-  "endDate": "2026-10-23",
+  "startDate": "2026-10-22",
+  "endDate": "2026-10-24",
   "startTime": "13:00",
   "endTime": "16:00",
   "tzLabel": "ET",
-  "raw": "October 21, 2026 - October 23, 2026 | 1:00 PM - 4:00 PM (ET)",
+  "raw": "October 22, 2026 - October 24, 2026 | 1:00 PM - 4:00 PM (ET)",
   "location": [
    "Château Bromont",
-   "Château Bromont",
+   "90, rue Stanstead",
    "90, rue Stanstead, J2L1K6",
    "Bromont, QC"
   ],
@@ -12748,7 +12748,7 @@
    "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/cours-sst-a-determiner-en-presentiel-octobre-2026/",
-  "scrapedAt": "2026-07-14T14:51:20.279Z"
+  "scrapedAt": "2026-08-10T18:03:32.181Z"
  },
  "5141": {
   "id": 5141,
@@ -13590,7 +13590,7 @@
   "link": "https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-sub-meeting-september-24-2026-9-am-4-pm/",
   "title": "Prairie/NWT Regional Executive Meeting (Sub-Meeting) – September 24, 2026 – 9 am – 4 pm",
   "published": "2026-01-29T19:39:24",
-  "modified": "2026-07-28T18:10:21",
+  "modified": "2026-08-10T15:51:11",
   "taxonomies": {
    "region": [
     507
@@ -13615,7 +13615,7 @@
    "Prairie/Northwest Territories Region": "https://pipsc.ca/region/prairie-northwest-territories-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-lexecutif-regional-des-prairies-et-des-territoires-du-nord-ouest-sous-reunion-24-septembre-2026-9-h-a-16-h/",
-  "scrapedAt": "2026-07-28T18:46:22.651Z"
+  "scrapedAt": "2026-08-10T18:03:37.772Z"
  },
  "5206": {
   "id": 5206,
@@ -81393,7 +81393,7 @@
   "link": "https://pipsc.ca/events/introduction-a-la-sante-et-securite-au-travail-avril-2026/",
   "title": "Introduction à la Santé et sécurité au travail – avril 2026",
   "published": "2026-02-03T17:02:46",
-  "modified": "2026-07-18T04:00:28",
+  "modified": "2026-08-10T16:47:34",
   "taxonomies": {
    "region": [
     459
@@ -81418,7 +81418,7 @@
    "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/introduction-a-la-sante-et-securite-au-travail-en-presentiel/",
-  "scrapedAt": "2026-07-18T07:09:40.367Z"
+  "scrapedAt": "2026-08-10T18:03:33.561Z"
  },
  "10804": {
   "id": 10804,
@@ -98537,7 +98537,7 @@
   "link": "https://pipsc.ca/events/saskatoon-sp-subgroup-bbq-june-10-2026/",
   "title": "Saskatoon SP Subgroup BBQ – AAFC site members – June 10, 2026",
   "published": "2026-05-15T13:51:14",
-  "modified": "2026-05-15T14:40:43",
+  "modified": "2026-08-10T14:05:25",
   "taxonomies": {
    "region": [],
    "group": [
@@ -98546,19 +98546,19 @@
    "employer": [],
    "chapter": []
   },
-  "startDate": null,
-  "endDate": null,
-  "startTime": null,
+  "startDate": "2026-06-10",
+  "endDate": "2026-06-10",
+  "startTime": "12:00",
   "endTime": null,
-  "tzLabel": null,
-  "raw": "",
+  "tzLabel": "PT",
+  "raw": "June 10, 2026 | 12:00 PM - (PT)",
   "location": [],
   "description": "You’re invited to Saskatoon SP Subgroup – BBQ at AAFC! Date: June 10, 2026 Time: 12:00pm to 1:30pm Location: AAFC Research Station Parking Lot – 107 Science Place, Saskatoon, SK RSVP Deadline: June 5, 2026 HOW TO RSVP: Please contact Adam Fenwick (adamfenwick@pipsc.ca) or Zohreh Heydarian (zheydarian@pipsc.ca). MEETING OR EVENT INFORMATION – Open to all Saskatoon SP members at AAFC. Food and non-alcoholic beverages will be provided. SP Subgroup Executive Members will be on-site. We look forward to seeing you there! If you have any questions, please contact Adam Fenwick (adamfenwick@pipsc.ca) or Zohreh Heydarian (mailto:zheydarian@pipsc.ca). Adam Fenwick PIPSC SP Saskatoon Subgroup President",
   "links": {
    "Saskatoon": "https://pipsc.ca/group/sp-saskatoon-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/saskatoon-sp-subgroup-bbq-june-10-2026/",
-  "scrapedAt": "2026-07-14T14:58:26.699Z"
+  "scrapedAt": "2026-08-10T18:03:40.239Z"
  },
  "75517": {
   "id": 75517,
@@ -99947,7 +99947,7 @@
   "link": "https://pipsc.ca/events/nr-dnd-ncr-event-preparing-for-retirement-and-personal-finances/",
   "title": "NR DND NCR Sub-Group Event: Preparing for Retirement and Personal Finances",
   "published": "2026-06-01T15:56:07",
-  "modified": "2026-06-04T12:39:17",
+  "modified": "2026-08-10T14:10:02",
   "taxonomies": {
    "region": [],
    "group": [
@@ -99956,19 +99956,19 @@
    "employer": [],
    "chapter": []
   },
-  "startDate": null,
-  "endDate": null,
-  "startTime": null,
+  "startDate": "2026-07-15",
+  "endDate": "2026-07-15",
+  "startTime": "18:30",
   "endTime": null,
-  "tzLabel": null,
-  "raw": "",
+  "tzLabel": "PT",
+  "raw": "July 15, 2026 | 6:30 PM - (PT)",
   "location": [],
   "description": "DND NR Sub-group is conducting a Professional Development Seminar on “Preparing for Retirement & Personal Finances” for its members. Date: Wed, 15 July 2026 Time: 6:30 pm Location: PIPSC HQ / 250 Tremblay Road Refreshment: Pizza & Drinks It is recommended RVSP be made early due to limited seating. https://forms.gle/BBvkm84AAJHjarw5A RVSP: Are required prior to Wed, 8 July 2026 OPI: Questions to John Eng/ Vice-President of DND NR Sub-group. Contact: Email – Jeng@PIPSC.CA / Tel: 613-355-5171",
   "links": {
    "NCR, DND": "https://pipsc.ca/group/nr-ncr-dnd-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/evenement-du-sous-groupe-nr-mdn-rcn-preparation-a-la-retraite-et-finances-personnelles/",
-  "scrapedAt": "2026-07-14T14:42:21.623Z"
+  "scrapedAt": "2026-08-10T18:03:38.966Z"
  },
  "76855": {
   "id": 76855,
@@ -116324,6 +116324,35 @@
   "frLink": "https://pipsc.ca/fr/events/85e-conseil-regional-du-quebec-2027/",
   "scrapedAt": "2026-07-15T18:20:01.053Z"
  },
+ "81673": {
+  "id": 81673,
+  "slug": "gatineau-branch-agm-golf-tournament-friday-september-4-2026",
+  "link": "https://pipsc.ca/events/gatineau-branch-agm-golf-tournament-friday-september-4-2026/",
+  "title": "Gatineau Branch AGM & Golf Tournament Friday, September 4, 2026",
+  "published": "2026-08-10T11:38:00",
+  "modified": "2026-08-10T11:38:03",
+  "taxonomies": {
+   "region": [
+    406
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-09-04",
+  "endDate": "2026-09-04",
+  "startTime": "00:00",
+  "endTime": "22:00",
+  "tzLabel": "ET",
+  "raw": "September 4, 2026 - September 4, 2026 | 12:00 AM - 10:00 PM (ET)",
+  "location": [],
+  "description": "You are invited to an AGM & golf tournament sponsored by the PIPSC Gatineau Branch on Friday, September 4, 2026. Please register at this link HERE You must include your intention to golf or simply attend the AGM and supper. Registration will be confirmed on a first come first served basis as space is limited. Players are asked to provide their own golf clubs. A limited amount of rental equipment will be available. Time: Registration will begin at 12:00 p.m. with the tee-offs commencing at 12:30 p.m. Supper: 6:00 p.m. Location: Golf Château Cartier 1170 Aylmer Road, Gatineau, QC J9H 7L3 Please note: Members may need to request appropriate leave from the employer for this event.",
+  "links": {
+   "Gatineau, NCR": "https://pipsc.ca/region/ncr-gatineau-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/la-section-de-gatineau-de-lipfpc-vous-invite-a-son-assemblee-generale-annuelle-aga-ainsi-qua-un-tournoi-de-golf-le-vendredi-4-septembre-2026/",
+  "scrapedAt": "2026-08-10T18:03:41.496Z"
+ },
  "81681": {
   "id": 81681,
   "slug": "prairie-nwt-training-committee-meeting-sub-mtg-june-2-2027",
@@ -117147,7 +117176,7 @@
   "link": "https://pipsc.ca/events/afs-bargaining-prep-meeting-4/",
   "title": "AFS Bargaining Prep Meeting",
   "published": "2026-07-31T15:55:21",
-  "modified": "2026-07-31T15:55:21",
+  "modified": "2026-08-10T16:16:20",
   "taxonomies": {
    "region": [],
    "group": [
@@ -117163,15 +117192,16 @@
   "tzLabel": "ET",
   "raw": "September 16, 2026 - September 17, 2026 | 1:00 PM - 9:00 PM (ET)",
   "location": [
+   "Sheraton Stoney Creek Hotel",
    "49 Goderich Road",
    "Hamilton"
   ],
-  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "description": "Event contact: Natalie Belanger Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be ",
   "links": {
    "Audit, Financial & Scientific Group": "https://pipsc.ca/group/audit-financial-scientific-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-preparatoire-des-negos-vfs-2/",
-  "scrapedAt": "2026-07-31T18:45:37.450Z"
+  "scrapedAt": "2026-08-10T18:03:36.397Z"
  },
  "83200": {
   "id": 83200,
@@ -117208,7 +117238,7 @@
   "link": "https://pipsc.ca/events/2026-nav-canada-group-agm-october-14-hybrid/",
   "title": "2026 NAV Canada Group AGM – October 14 (Hybrid)",
   "published": "2026-07-31T19:09:26",
-  "modified": "2026-08-07T19:09:21",
+  "modified": "2026-08-10T16:47:29",
   "taxonomies": {
    "region": [],
    "group": [
@@ -117232,7 +117262,7 @@
    "NAV CANADA - Professional Employees Group": "https://pipsc.ca/group/nav-canada-professional-employees-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/assemblee-generale-annuelle-2026-du-groupe-nav-canada-14-octobre-hybride/",
-  "scrapedAt": "2026-08-08T05:56:56.304Z"
+  "scrapedAt": "2026-08-10T18:03:34.843Z"
  },
  "83232": {
   "id": 83232,
