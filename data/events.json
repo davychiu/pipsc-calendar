@@ -12722,7 +12722,7 @@
   "link": "https://pipsc.ca/events/ohs-courses-tbc-in-french-and-in-person-october-2026/",
   "title": "Promotion de lieu de travail psychologiquement sains (2 jrs) et Enquête d’incidents en santé et sécurité (0,5 jrs)  octobre 2026",
   "published": "2026-01-29T19:39:12",
-  "modified": "2026-08-10T16:48:18",
+  "modified": "2026-08-10T18:17:57",
   "taxonomies": {
    "region": [
     459
@@ -12748,7 +12748,7 @@
    "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/cours-sst-a-determiner-en-presentiel-octobre-2026/",
-  "scrapedAt": "2026-08-10T18:03:32.181Z"
+  "scrapedAt": "2026-08-11T06:04:36.283Z"
  },
  "5141": {
   "id": 5141,
@@ -92027,7 +92027,7 @@
   "link": "https://pipsc.ca/events/statcan-branch-agm/",
   "title": "StatCan Branch AGM",
   "published": "2026-04-17T13:34:21",
-  "modified": "2026-06-02T18:15:23",
+  "modified": "2026-08-11T04:00:26",
   "taxonomies": {
    "region": [
     92,
@@ -92050,7 +92050,7 @@
    "Statistics Canada, NCR": "https://pipsc.ca/region/ncr-statistics-canada-ncr-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-de-la-section-statcan/",
-  "scrapedAt": "2026-07-14T14:51:06.630Z"
+  "scrapedAt": "2026-08-11T06:04:29.980Z"
  },
  "72599": {
   "id": 72599,
@@ -92215,7 +92215,7 @@
   "link": "https://pipsc.ca/events/cacc-bi-annual-meeting-of-member-organizations-in-person-may-10-12-26/",
   "title": "CACC Bi-annual Meeting of Member Organizations (In-person) – May 10-12/26",
   "published": "2026-04-17T16:12:26",
-  "modified": "2026-05-12T18:00:21",
+  "modified": "2026-08-11T05:00:26",
   "taxonomies": {
    "region": [],
    "group": [
@@ -92240,7 +92240,7 @@
    "New Brunswick Crown Prosecutor": "https://pipsc.ca/group/new-brunswick-crown-prosecutor-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-semestrielle-du-cacc-en-presentiel-10-12-mai-26/",
-  "scrapedAt": "2026-07-14T14:59:02.067Z"
+  "scrapedAt": "2026-08-11T06:04:27.489Z"
  },
  "72774": {
   "id": 72774,
@@ -95253,7 +95253,7 @@
   "link": "https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-2/",
   "title": "Ontario and Nunavut Region Steward Council",
   "published": "2026-04-28T20:05:21",
-  "modified": "2026-08-05T12:52:21",
+  "modified": "2026-08-10T21:01:20",
   "taxonomies": {
    "region": [
     516
@@ -95278,7 +95278,7 @@
    "Ontario and Nunavut Region": "https://pipsc.ca/region/ontario-and-nunavut-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/conseil-des-intendants-de-la-region-de-lontario-et-du-nunavut/",
-  "scrapedAt": "2026-08-05T18:53:13.948Z"
+  "scrapedAt": "2026-08-11T06:04:34.950Z"
  },
  "73946": {
   "id": 73946,
@@ -95455,7 +95455,7 @@
   "link": "https://pipsc.ca/events/wrh-rt-bargaining-with-the-employer-2/",
   "title": "WRH RT Bargaining with the employer",
   "published": "2026-04-30T12:42:20",
-  "modified": "2026-05-12T21:00:21",
+  "modified": "2026-08-11T04:00:26",
   "taxonomies": {
    "region": [],
    "group": [
@@ -95480,7 +95480,7 @@
    "Windsor Regional Hospital Radiation Therapists Group": "https://pipsc.ca/group/windsor-regional-hospital-radiation-therapists-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/negos-avec-lemployeur-hrw-tr/",
-  "scrapedAt": "2026-07-14T14:58:59.386Z"
+  "scrapedAt": "2026-08-11T06:04:31.202Z"
  },
  "74052": {
   "id": 74052,
@@ -95616,15 +95616,24 @@
   "link": "https://pipsc.ca/events/canadian-coast-guard-college-umcc-may-12-2026/",
   "title": "Canadian Coast Guard College UMCC May 12 2026",
   "published": "2026-04-30T13:05:21",
-  "modified": "2026-05-12T21:00:23",
+  "modified": "2026-08-11T04:00:26",
   "taxonomies": {
    "region": [],
    "group": [],
    "employer": [],
    "chapter": []
   },
-  "scrapedAt": "2026-07-14T14:58:58.229Z",
-  "missing": true
+  "startDate": "2026-05-12",
+  "endDate": "2026-05-12",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "tzLabel": "ET",
+  "raw": "May 12, 2026 - May 12, 2026 | 1:00 PM - 9:00 PM (ET)",
+  "location": [],
+  "description": "Event contact: Andrea Lawrie Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be ded",
+  "links": {},
+  "frLink": "https://pipsc.ca/fr/events/college-de-la-garde-cotiere-canadienne/",
+  "scrapedAt": "2026-08-11T06:04:28.649Z"
  },
  "74072": {
   "id": 74072,
@@ -99624,7 +99633,7 @@
   "link": "https://pipsc.ca/events/mage-bargaining-prep-aug-10-11-26-in-person/",
   "title": "MAGE Bargaining Prep – Aug 10-11/26 (In-Person)",
   "published": "2026-05-28T11:29:20",
-  "modified": "2026-06-23T19:42:21",
+  "modified": "2026-08-10T22:01:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -99649,7 +99658,7 @@
    "Manitoba Association of Government Engineers Group": "https://pipsc.ca/group/manitoba-association-of-government-engineers-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/preparation-aux-negociations-collectives-du-groupe-mage-10-11-aout-2026-en-presentiel/",
-  "scrapedAt": "2026-07-14T14:38:41.355Z"
+  "scrapedAt": "2026-08-11T06:04:33.603Z"
  },
  "76559": {
   "id": 76559,
@@ -117396,10 +117405,10 @@
   "link": "https://pipsc.ca/events/dinner-northern-bc-branch-and-the-young-professionals-committee/",
   "title": "Dinner: Northern BC Branch and the Young Professionals Committee",
   "published": "2026-08-05T16:13:45",
-  "modified": "2026-08-07T17:43:06",
+  "modified": "2026-08-10T22:40:18",
   "taxonomies": {
    "region": [
-    1758,
+    1766,
     1758
    ],
    "group": [],
@@ -117418,7 +117427,7 @@
    "Northern B.C.": "https://pipsc.ca/region/bc-northern-b-c-en/"
   },
   "frLink": "https://pipsc.ca/fr/",
-  "scrapedAt": "2026-08-07T18:02:08.884Z"
+  "scrapedAt": "2026-08-11T06:04:32.366Z"
  },
  "83388": {
   "id": 83388,
