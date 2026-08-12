@@ -90629,9 +90629,9 @@
   "id": 72007,
   "slug": "ontario-and-nunavut-region-training-tbd",
   "link": "https://pipsc.ca/events/ontario-and-nunavut-region-training-tbd/",
-  "title": "Ontario and Nunavut Region Training – TBD",
+  "title": "Ontario and Nunavut Region Training for Constituent Bodies",
   "published": "2026-04-10T12:58:26",
-  "modified": "2026-06-24T14:58:21",
+  "modified": "2026-08-12T13:53:21",
   "taxonomies": {
    "region": [
     516
@@ -90640,13 +90640,14 @@
    "employer": [],
    "chapter": []
   },
-  "startDate": "2027-03-05",
-  "endDate": "2027-03-06",
+  "startDate": "2027-03-12",
+  "endDate": "2027-03-13",
   "startTime": "14:00",
   "endTime": "22:00",
   "tzLabel": "ET",
-  "raw": "March 5, 2027 - March 6, 2027 | 2:00 PM - 10:00 PM (ET)",
+  "raw": "March 12, 2027 - March 13, 2027 | 2:00 PM - 10:00 PM (ET)",
   "location": [
+   "Marriott on the Falls",
    "6755 Fallsview Boulevard",
    "Niagara Falls, ON"
   ],
@@ -90655,7 +90656,7 @@
    "Ontario and Nunavut Region": "https://pipsc.ca/region/ontario-and-nunavut-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/formation-dans-les-regions-de-lontario-et-du-nunavut-a-determiner/",
-  "scrapedAt": "2026-07-14T14:38:21.359Z"
+  "scrapedAt": "2026-08-12T18:07:31.733Z"
  },
  "72009": {
   "id": 72009,
@@ -115461,7 +115462,7 @@
   "link": "https://pipsc.ca/events/sp-bargaining-prep-7/",
   "title": "SP Bargaining Prep",
   "published": "2026-06-23T13:28:23",
-  "modified": "2026-08-04T15:41:21",
+  "modified": "2026-08-12T17:21:23",
   "taxonomies": {
    "region": [],
    "group": [
@@ -115482,7 +115483,7 @@
    "Applied Science and Patent Examination Group": "https://pipsc.ca/group/applied-science-and-patent-examination-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/preparation-aux-negociations-du-groupe-sp-2/",
-  "scrapedAt": "2026-08-04T18:53:33.610Z"
+  "scrapedAt": "2026-08-12T18:07:27.734Z"
  },
  "80327": {
   "id": 80327,
@@ -118041,10 +118042,11 @@
   "link": "https://pipsc.ca/events/victoria-re-subgroup-garden-pizza-party/",
   "title": "Victoria RE Subgroup Garden Pizza Party",
   "published": "2026-08-07T17:21:06",
-  "modified": "2026-08-07T17:21:08",
+  "modified": "2026-08-12T17:11:11",
   "taxonomies": {
    "region": [],
    "group": [
+    200,
     1163
    ],
    "employer": [],
@@ -118059,10 +118061,11 @@
   "location": [],
   "description": "You’re invited to the Victoria RE Subgroup Garden Pizza Party When: Tuesday 25 Aug, 5:00-6:30pm Where: Pacific Forestry Centre wellness garden (to the right of the main entrance behind the header house) Pizza, snacks, and pop will be provided. Come with your questions or concerns about work-related issues, or just to socialize. Stewards will be on hand to meet new members. If you have any questions, please email Cosmin Filipescu at cfilipescu@pipsc.ca. In solidarity, Cosmin FilipescuSteward, Subgroup Secretary, PIPSC",
   "links": {
+   "Research Group": "https://pipsc.ca/group/research-group-en/",
    "Victoria, BC": "https://pipsc.ca/group/re-victoria-bc-en/"
   },
   "frLink": "https://pipsc.ca/fr/",
-  "scrapedAt": "2026-08-07T18:02:10.019Z"
+  "scrapedAt": "2026-08-12T18:07:29.096Z"
  },
  "83520": {
   "id": 83520,
@@ -118260,5 +118263,36 @@
   },
   "frLink": "https://pipsc.ca/fr/events/formation-de-lequipe-de-negociation-11-12-aout-25-en-personne/",
   "scrapedAt": "2026-08-12T06:42:40.996Z"
+ },
+ "84096": {
+  "id": 84096,
+  "slug": "pipsc-ottawa-east-branch-sunday-september-20-2026",
+  "link": "https://pipsc.ca/events/pipsc-ottawa-east-branch-sunday-september-20-2026/",
+  "title": "PIPSC Ottawa East Branch – Bowling! Sunday September 20, 2026",
+  "published": "2026-08-12T16:19:31",
+  "modified": "2026-08-12T16:21:05",
+  "taxonomies": {
+   "region": [
+    92,
+    456
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-09-20",
+  "endDate": "2026-09-20",
+  "startTime": "12:00",
+  "endTime": "14:30",
+  "tzLabel": "ET",
+  "raw": "September 20, 2026 - September 20, 2026 | 12:00 PM - 2:30 PM (ET)",
+  "location": [],
+  "description": "The PIPSC Ottawa East Branch Executive invites you and your family (up to a maximum of 4 people) to a FREE afternoon of bowling at the Orleans Bowling Centre. The cost of bowling, shoe rental, pizza (2 slices per person), and refillable fountain drinks will be covered by the Ottawa East Branch. Come out to meet some of your Branch Executive members and other PIPSC family members. Registration is required and will be on a first-come, first-served basis, as space is limited. Prizes will be awarded at the end. WHEN: Sunday September 20, 2026 WHERE: Orleans Bowling Centre, 885 Taylor Creek Drive, Orleans TIME: 12:00 pm to 2:30 pm REGISTRATION: Please register at the following link by September 4, 2026. For any questions, please email us at oeb@pipsc.ca We look forward to seeing you at this OE branch event. Greg ScriverPresident, OEB",
+  "links": {
+   "National Capital Region (including foreign)": "https://pipsc.ca/region/national-capital-region-including-foreign-en/",
+   "Ottawa East, NCR": "https://pipsc.ca/region/ncr-ottawa-east-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/la-section-dottawa-est-dimanche-20-septembre-2026/",
+  "scrapedAt": "2026-08-12T18:07:30.392Z"
  }
 }
