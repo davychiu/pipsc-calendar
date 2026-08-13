@@ -92055,7 +92055,7 @@
   "link": "https://pipsc.ca/events/nfb-bargaining-meeting/",
   "title": "NFB Bargaining Meeting",
   "published": "2026-04-17T13:18:21",
-  "modified": "2026-05-14T21:01:14",
+  "modified": "2026-08-13T04:00:29",
   "taxonomies": {
    "region": [],
    "group": [
@@ -92080,7 +92080,7 @@
    "National Film Board - Professional Group": "https://pipsc.ca/group/national-film-board-professional-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-negociation-de-lonf/",
-  "scrapedAt": "2026-07-14T14:58:35.433Z"
+  "scrapedAt": "2026-08-13T18:07:40.056Z"
  },
  "72593": {
   "id": 72593,
@@ -95377,7 +95377,7 @@
   "link": "https://pipsc.ca/events/ontario-and-nunavut-region-steward-council-2/",
   "title": "Ontario and Nunavut Region Steward Council",
   "published": "2026-04-28T20:05:21",
-  "modified": "2026-08-11T16:56:23",
+  "modified": "2026-08-13T13:12:21",
   "taxonomies": {
    "region": [
     516
@@ -95402,7 +95402,7 @@
    "Ontario and Nunavut Region": "https://pipsc.ca/region/ontario-and-nunavut-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/conseil-des-intendants-de-la-region-de-lontario-et-du-nunavut/",
-  "scrapedAt": "2026-08-11T18:07:27.154Z"
+  "scrapedAt": "2026-08-13T18:07:37.507Z"
  },
  "73946": {
   "id": 73946,
@@ -95612,7 +95612,7 @@
   "link": "https://pipsc.ca/events/wrh-rt-bargaining-with-employer/",
   "title": "WRH RT Bargaining with employer",
   "published": "2026-04-30T12:43:21",
-  "modified": "2026-05-14T21:01:33",
+  "modified": "2026-08-13T04:00:30",
   "taxonomies": {
    "region": [],
    "group": [
@@ -95637,7 +95637,7 @@
    "Windsor Regional Hospital Radiation Therapists Group": "https://pipsc.ca/group/windsor-regional-hospital-radiation-therapists-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/negos-avec-lemployeur-hrw-tr-2/",
-  "scrapedAt": "2026-07-14T14:58:34.171Z"
+  "scrapedAt": "2026-08-13T18:07:38.776Z"
  },
  "74054": {
   "id": 74054,
@@ -99646,7 +99646,7 @@
   "link": "https://pipsc.ca/events/sherbrooke-branch-pizza-lunch-june-17-2026/",
   "title": "Sherbrooke Branch- Pizza Lunch- June 17, 2026",
   "published": "2026-05-25T18:16:05",
-  "modified": "2026-05-26T01:26:08",
+  "modified": "2026-08-12T18:12:58",
   "taxonomies": {
    "region": [
     467
@@ -99667,7 +99667,7 @@
    "Sherbrooke, QC": "https://pipsc.ca/region/que-sherbrooke-qc-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/section-sherbrooke-diner-pizza-17-juin-2026/",
-  "scrapedAt": "2026-07-14T14:56:55.427Z"
+  "scrapedAt": "2026-08-13T18:07:43.990Z"
  },
  "76304": {
   "id": 76304,
@@ -100158,7 +100158,7 @@
   "link": "https://pipsc.ca/events/quebec-city-branch-baseball-night-june-25-2026/",
   "title": "Quebec City Branch- Baseball night- June 25, 2026",
   "published": "2026-06-01T14:20:33",
-  "modified": "2026-06-12T19:10:26",
+  "modified": "2026-08-12T18:12:41",
   "taxonomies": {
    "region": [
     1521
@@ -100179,7 +100179,7 @@
    "Québec City, QC": "https://pipsc.ca/region/que-quebec-city-qc-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/section-ville-de-quebec-soiree-baseball-25-juin-2026/",
-  "scrapedAt": "2026-07-14T14:40:39.580Z"
+  "scrapedAt": "2026-08-13T18:07:45.177Z"
  },
  "76822": {
   "id": 76822,
@@ -115554,9 +115554,9 @@
   "id": 80357,
   "slug": "uoitp-executive-meeting-in-person-august-5-26",
   "link": "https://pipsc.ca/events/uoitp-executive-meeting-in-person-august-5-26/",
-  "title": "UOITP Executive Meeting (In-Person) – August 5/26",
+  "title": "UOITP Executive Meeting (In-Person) – August 12/26",
   "published": "2026-06-23T16:33:21",
-  "modified": "2026-08-11T14:23:07",
+  "modified": "2026-08-12T21:01:22",
   "taxonomies": {
    "region": [],
    "group": [
@@ -115565,12 +115565,12 @@
    "employer": [],
    "chapter": []
   },
-  "startDate": "2026-08-05",
-  "endDate": "2026-08-05",
+  "startDate": "2026-08-12",
+  "endDate": "2026-08-12",
   "startTime": "13:00",
   "endTime": "21:00",
   "tzLabel": "ET",
-  "raw": "August 5, 2026 - August 5, 2026 | 1:00 PM - 9:00 PM (ET)",
+  "raw": "August 12, 2026 - August 12, 2026 | 1:00 PM - 9:00 PM (ET)",
   "location": [
    "UOttawa",
    "Ottawa"
@@ -115580,7 +115580,7 @@
    "University of Ottawa Information Technology Professional Group": "https://pipsc.ca/group/university-of-ottawa-information-technology-professional-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-lexecutif-de-luoitp-en-personne-5-aout-2026/",
-  "scrapedAt": "2026-08-11T18:07:29.855Z"
+  "scrapedAt": "2026-08-13T18:07:41.306Z"
  },
  "80360": {
   "id": 80360,
@@ -116249,9 +116249,9 @@
   "id": 81383,
   "slug": "nr-tbs-joint-career-development-committee-meeting-aug-25-26-hybrid",
   "link": "https://pipsc.ca/events/nr-tbs-joint-career-development-committee-meeting-aug-25-26-hybrid/",
-  "title": "NR-TBS Joint Career Development Committee Meeting Aug 25/26 (Hybrid)",
+  "title": "NR-TBS Joint Career Development Committee Meeting (Hybrid)",
   "published": "2026-07-07T11:35:21",
-  "modified": "2026-08-11T17:05:13",
+  "modified": "2026-08-13T15:09:20",
   "taxonomies": {
    "region": [],
    "group": [
@@ -116276,7 +116276,7 @@
    "Engineering, Architecture and Land Survey Group": "https://pipsc.ca/group/engineering-architecture-and-land-survey-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-du-comite-nr-sct-de-la-promotion-professionnelle-25-aout-26-hybride/",
-  "scrapedAt": "2026-08-11T18:07:25.813Z"
+  "scrapedAt": "2026-08-13T18:07:34.814Z"
  },
  "81387": {
   "id": 81387,
@@ -116661,7 +116661,7 @@
   "link": "https://pipsc.ca/events/sp-subgroups-presidents-meeting/",
   "title": "SP Subgroups Presidents Meeting",
   "published": "2026-07-09T14:28:21",
-  "modified": "2026-08-07T13:44:25",
+  "modified": "2026-08-12T18:58:23",
   "taxonomies": {
    "region": [],
    "group": [
@@ -116677,15 +116677,16 @@
   "tzLabel": "NT",
   "raw": "October 2, 2026 - October 3, 2026 | 3:30 PM - 7:30 PM (NT)",
   "location": [
+   "Delta Hotels St. John's Conference Centre",
    "120 New Gower St,",
-   "St. John's"
+   "St. John's, NL"
   ],
-  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "description": "Event contact: Annie Debe Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deduct",
   "links": {
    "Applied Science and Patent Examination Group": "https://pipsc.ca/group/applied-science-and-patent-examination-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-des-presidentses-des-sous-groupes-du-groupe-sp/",
-  "scrapedAt": "2026-08-07T18:02:15.157Z"
+  "scrapedAt": "2026-08-13T18:07:42.714Z"
  },
  "81620": {
   "id": 81620,
@@ -117216,7 +117217,7 @@
   "link": "https://pipsc.ca/events/mauricie-branch-pumpkin-hunt-activity-sunday-september-27-2026/",
   "title": "Mauricie Branch- Pumpkin Hunt Activity- Sunday, September 27, 2026",
   "published": "2026-07-21T17:44:00",
-  "modified": "2026-07-21T17:58:24",
+  "modified": "2026-08-12T18:12:13",
   "taxonomies": {
    "region": [
     1573
@@ -117237,7 +117238,7 @@
    "Mauricie, QC": "https://pipsc.ca/region/que-mauricie-qc-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/section-mauricie-invitation-a-la-cueillette-de-citrouilles-27-septembre-2026/",
-  "scrapedAt": "2026-07-21T18:40:43.315Z"
+  "scrapedAt": "2026-08-13T18:07:46.386Z"
  },
  "82399": {
   "id": 82399,
@@ -117668,7 +117669,7 @@
   "link": "https://pipsc.ca/events/2026-montreal-pride-parade/",
   "title": "2026 Montreal Pride Parade",
   "published": "2026-07-31T17:13:12",
-  "modified": "2026-07-31T17:13:14",
+  "modified": "2026-08-12T18:11:53",
   "taxonomies": {
    "region": [
     473
@@ -117689,7 +117690,7 @@
    "Ville-Marie, QC": "https://pipsc.ca/region/que-ville-marie-qc-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/defile-de-la-fierte-de-montreal-2026/",
-  "scrapedAt": "2026-07-31T18:45:36.047Z"
+  "scrapedAt": "2026-08-13T18:07:47.561Z"
  },
  "83210": {
   "id": 83210,
@@ -118137,7 +118138,7 @@
   "link": "https://pipsc.ca/events/bcy-labour-school-2027/",
   "title": "BCY Labour School 2027",
   "published": "2026-08-11T16:36:21",
-  "modified": "2026-08-11T16:36:21",
+  "modified": "2026-08-13T17:17:21",
   "taxonomies": {
    "region": [
     518
@@ -118161,7 +118162,7 @@
    "British Columbia & Yukon Region": "https://pipsc.ca/region/british-columbia-yukon-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/bcy-labour-school-2027/",
-  "scrapedAt": "2026-08-11T18:07:28.504Z"
+  "scrapedAt": "2026-08-13T18:07:33.988Z"
  },
  "83634": {
   "id": 83634,
@@ -118294,5 +118295,37 @@
   },
   "frLink": "https://pipsc.ca/fr/events/la-section-dottawa-est-dimanche-20-septembre-2026/",
   "scrapedAt": "2026-08-12T18:07:30.392Z"
+ },
+ "84552": {
+  "id": 84552,
+  "slug": "uoitp-bargaining-prep-meeting-aug-20-26-in-person",
+  "link": "https://pipsc.ca/events/uoitp-bargaining-prep-meeting-aug-20-26-in-person/",
+  "title": "UOITP Bargaining Prep Meeting – Aug 20/26 (In-Person)",
+  "published": "2026-08-13T14:58:27",
+  "modified": "2026-08-13T14:58:27",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    125
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-07-07",
+  "endDate": "2026-07-07",
+  "startTime": "13:00",
+  "endTime": "21:00",
+  "tzLabel": "ET",
+  "raw": "July 7, 2026 - July 7, 2026 | 1:00 PM - 9:00 PM (ET)",
+  "location": [
+   "250 Tremblay Rd.",
+   "Ottawa"
+  ],
+  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "links": {
+   "University of Ottawa Information Technology Professional Group": "https://pipsc.ca/group/university-of-ottawa-information-technology-professional-group-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/reunion-de-preparation-a-la-negociation-collective-du-groupe-uoitp-20-aout-2026-en-personne/",
+  "scrapedAt": "2026-08-13T18:07:36.073Z"
  }
 }
