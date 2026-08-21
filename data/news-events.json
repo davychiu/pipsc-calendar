@@ -3450,6 +3450,34 @@
   "source": "news",
   "scrapedAt": "2026-08-20T17:45:39.711Z"
  },
+ "84799": {
+  "id": 84799,
+  "slug": "bcfnha-agm-on-september-24-2026",
+  "link": "https://pipsc.ca/bcfnha-agm-on-september-24-2026/",
+  "title": "BCFNHA AGM on September 24, 2026",
+  "published": "2026-08-20T21:07:37",
+  "modified": "2026-08-20T21:07:40",
+  "taxonomies": {
+   "region": [],
+   "group": [],
+   "employer": [
+    620
+   ],
+   "chapter": []
+  },
+  "startDate": "2026-09-24",
+  "endDate": "2026-09-24",
+  "startTime": "18:00",
+  "endTime": null,
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "New Novelty Restaurant and Sweets (6669 Fraser St, Vancouver, BC V5X 3T6"
+  ],
+  "description": "Published August 20, 2026 | Last updated 8 hours ago Join us in person or virtually for the upcoming Annual General Meeting of the BCFNHA Group. When: Thursday, September 24, 2026 at 6:00 PM Where: New Novelty Restaurant and Sweets (6669 Fraser St, Vancouver, BC V5X 3T6). Members can attend virtually or join us in person for dinner. Meeting business will start at 6:30 PM. Members will receive a registration link by email. If you have questions, please contact Priya Prabakaran at pprabakaran@pipsc.ca.",
+  "source": "news",
+  "scrapedAt": "2026-08-21T05:48:32.316Z"
+ },
  "84809": {
   "id": 84809,
   "slug": "pipsc-greater-vancouver-pickleball-mixer",
