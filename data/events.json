@@ -14497,7 +14497,7 @@
   "link": "https://pipsc.ca/events/osfi-bargaining-prep-meeting-2/",
   "title": "OSFI Bargaining Prep Meeting",
   "published": "2026-01-30T23:29:05",
-  "modified": "2026-05-26T21:00:26",
+  "modified": "2026-08-25T03:00:28",
   "taxonomies": {
    "region": [],
    "group": [
@@ -14508,17 +14508,17 @@
   },
   "startDate": "2026-05-26",
   "endDate": "2026-05-26",
-  "startTime": "14:00",
-  "endTime": "21:00",
+  "startTime": "10:00",
+  "endTime": "17:00",
   "tzLabel": "ET",
-  "raw": "May 26, 2026 - May 26, 2026 | 2:00 PM - 9:00 PM (ET)",
+  "raw": "May 26, 2026 - May 26, 2026 | 10:00 AM - 5:00 PM (ET)",
   "location": [],
   "description": "Event contact: Annie Debe Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deduct",
   "links": {
    "OSFI - Professional Employees Group": "https://pipsc.ca/group/osfi-professional-employees-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-preparatoire-aux-negociations-avec-le-bsif-2/",
-  "scrapedAt": "2026-07-14T14:56:38.277Z"
+  "scrapedAt": "2026-08-25T05:47:58.128Z"
  },
  "5342": {
   "id": 5342,
@@ -96986,7 +96986,7 @@
   "link": "https://pipsc.ca/events/sp-virtual-bargaining-prep-4/",
   "title": "SP Virtual Bargaining Prep",
   "published": "2026-05-07T18:31:26",
-  "modified": "2026-05-26T20:00:26",
+  "modified": "2026-08-25T03:00:26",
   "taxonomies": {
    "region": [],
    "group": [
@@ -96997,17 +96997,17 @@
   },
   "startDate": "2026-05-26",
   "endDate": "2026-05-26",
-  "startTime": "17:00",
-  "endTime": "20:00",
+  "startTime": "13:00",
+  "endTime": "16:00",
   "tzLabel": "ET",
-  "raw": "May 26, 2026 - May 26, 2026 | 5:00 PM - 8:00 PM (ET)",
+  "raw": "May 26, 2026 - May 26, 2026 | 1:00 PM - 4:00 PM (ET)",
   "location": [],
   "description": "Event contact: Annie Debe Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deduct",
   "links": {
    "Applied Science and Patent Examination Group": "https://pipsc.ca/group/applied-science-and-patent-examination-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/preparation-virtuelle-aux-negociations-sp-3/",
-  "scrapedAt": "2026-07-14T14:56:40.669Z"
+  "scrapedAt": "2026-08-25T05:47:59.519Z"
  },
  "74757": {
   "id": 74757,
@@ -119916,5 +119916,69 @@
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/csc-pipsc-national-labor-management-union-consultation-committee-meetings/",
   "scrapedAt": "2026-08-24T17:47:13.338Z"
+ },
+ "85092": {
+  "id": 85092,
+  "slug": "pool-night-at-the-snooker-shack-pipsc-saskatoon-prince-albert-it-sub-group",
+  "link": "https://pipsc.ca/events/pool-night-at-the-snooker-shack-pipsc-saskatoon-prince-albert-it-sub-group/",
+  "title": "Pool Night at The Snooker Shack – PIPSC Saskatoon & Prince Albert IT Sub-group",
+  "published": "2026-08-24T19:43:42",
+  "modified": "2026-08-24T20:13:36",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    2059
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-09-16",
+  "endDate": "2026-09-16",
+  "startTime": "18:00",
+  "endTime": "20:00",
+  "tzLabel": "CST",
+  "raw": "September 16, 2026 - September 16, 2026 | 6:00 PM - 8:00 PM (CST)",
+  "location": [
+   "The Snooker Shack, 3421 8 St E Saskatoon, SK S7H 0W5, Located across from The Center Mall"
+  ],
+  "description": "PIPSC IT Saskatoon & Prince Albert Sub-Group invites its members to a social event at The Snooker Shack Thursday, September 17th, 2026Where: The Snooker Shack, 3421 8 St E Saskatoon, SK S7H 0W5, Located across from The Center MallWhen: Thursday, September 17th, 2026. From 6:00 pm to 8:00 pmRSVP: Please RSVP by email to dkarpinski@pipsc.ca by September 14th, 2026Additional info: Pool tables have been reserved in the private lounge for use by all attendees from 6:00-8:00. Food and drink will not be provided. Members may purchase their own refreshments at their leisure.",
+  "links": {
+   "Saskatoon & Prince Albert, SK": "https://pipsc.ca/group/cs-saskatoon-prince-albert-sk-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/pool-night-at-the-snooker-shack-pipsc-saskatoon-prince-albert-it-sub-group/",
+  "scrapedAt": "2026-08-25T05:48:00.332Z"
+ },
+ "85096": {
+  "id": 85096,
+  "slug": "northern-new-brunswick-branch-agm",
+  "link": "https://pipsc.ca/events/northern-new-brunswick-branch-agm/",
+  "title": "NORTHERN NEW-BRUNSWICK BRANCH AGM",
+  "published": "2026-08-24T18:15:18",
+  "modified": "2026-08-24T18:15:20",
+  "taxonomies": {
+   "region": [
+    1559
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-08",
+  "startTime": "18:00",
+  "endTime": "20:00",
+  "tzLabel": "AT",
+  "raw": "October 8, 2026 - October 8, 2026 | 6:00 PM - 8:00 PM (AT)",
+  "location": [
+   "Nectar International Cuisine",
+   "50 Douglas Avenue",
+   "Bathurst, NB"
+  ],
+  "description": "Nectar International Cuisine50 Douglas AvenueBathurst, NB Date : Thursday October 08, 2026Time : 6:00 PM supper will be servedTime : 7:00 PM AGM will start The Northern New Brunswick Branch invites you to its Annual General Meeting on Thursday October 08, 2026 (A supper will be served starting at around 6:00 PM and the AGM will start at 7:00 PM.) Welcome and Introduction Approval of the 2025 AGM minutes President’s report Treasurer’s report Special guest (Mark Bellefleur Atlantic President ) Election (vice-président, Treasurer, 3 member at large) Coming activities Other Door prizes Come and listen to our Atlantic President, Mark Bellefleur speech, and ask whatever question(s) you would like to or discuss with Mark. Please RSVP by October 5th to Gilles Comeau at gilles-comeau@hotmail.com. Hope to see you all! Gilles Comeau506-226-0121or e-mail: gilles-comeau@hotmail.com This AGM will be conducted with the Bathurst IT sub-group which will start at 6:00 PM",
+  "links": {
+   "Northern New Brunswick": "https://pipsc.ca/region/atl-northern-new-brunswick-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/aga-du-chapitre-du-nord-du-noveau-brunswick/",
+  "scrapedAt": "2026-08-25T05:48:01.518Z"
  }
 }
