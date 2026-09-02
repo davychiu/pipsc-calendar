@@ -3637,5 +3637,42 @@
   "description": "Splitsville Bowling Event, Kingston – October 2, 2026 Published September 1, 2026 | Last updated 6 hours ago The Young Professionals Committee will be hosting a MEMBER only bowling event at Splitsville on Friday October 2, 2026, starting at 6:00 p.m. located at 10 Bath Road, Kingston, Ontario. This amazing “member only” event is an incredible opportunity for all the young and vibrant members of the Institute who are under the age of 40 to come together and engage in some fun interactions with their fellow young professionals in a relaxed and enjoyable atmosphere. It is a fantastic chance to make new connections, build lasting relationships, and have some fun while doing so. So, if you’re a young and dynamic member of the Institute, don’t miss out on this exciting and entertaining event! When: Friday October 2, 2026 Where: Splitsville Hamilton – 10 Bath Road, Kingston Time: 6:00 p.m. to 8:00 p.m. Please RSVP your attendance to Heather Kohli at hkohli@pipsc.ca by no later than 5:00 p.m. Friday, September 25, 2026. When sending in your RSVP, please include any food allergies or dietary restrictions. Please note: this event is for PIPSC members under 40 years of age only. The Institute will not be covering travel, salary, per diems and/or accommodation costs to attend this function. This event is on a first come, first serve basis as it’s limited to 50 members.",
   "source": "news",
   "scrapedAt": "2026-09-01T19:56:35.935Z"
+ },
+ "85692": {
+  "id": 85692,
+  "slug": "trivia-night-at-cafe-marie",
+  "link": "https://pipsc.ca/trivia-night-at-cafe-marie/",
+  "title": "Trivia Night at Café Marie",
+  "published": "2026-09-02T18:14:44",
+  "modified": "2026-09-02T18:14:46",
+  "taxonomies": {
+   "region": [
+    518,
+    1733,
+    1783
+   ],
+   "group": [
+    171,
+    153,
+    194,
+    843,
+    717,
+    727
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-11-18",
+  "endDate": "2026-11-18",
+  "startTime": "17:30",
+  "endTime": "19:30",
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "Café Marie Geoguessr is a cult-classic trivia game where participants guess locations on a map based on Google Street View photos. It is free and can be played"
+  ],
+  "description": "Published September 2, 2026 | Last updated 1 hour ago We invite you to the PIPSC Trivia Pizza Night mixer co-hosted by SP Lower Mainland Sub-Group, Surrey-White Rock Branch, and Vancouver Branch! We’ll be playing the Geoguessr trivia game in both solo and team formats. When: Wednesday, November 18, 2026 from 5:30 PM to 7:30 PM Where: Café Marie Geoguessr is a cult-classic trivia game where participants guess locations on a map based on Google Street View photos. It is free and can be played on phones, tablets, and computers. Join us for: Pizza, non-alcoholic drinks, and desserts (drink menu available here) A chance to win exciting prizes Opportunities to network and learn more about union updates and activities Come connect with colleagues, meet your executive team and local stewards, and enjoy an evening of food, fun, and conversation. This is a great chance to get involved and help shape our future together. Please RSVP by November 4 at https://forms.gle/SAPLFmiYPb6RTiAD7. We look forward to seeing you there!",
+  "source": "news",
+  "scrapedAt": "2026-09-02T19:47:25.334Z"
  }
 }
