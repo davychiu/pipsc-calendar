@@ -3824,7 +3824,7 @@
   "link": "https://pipsc.ca/events/sh-agm-2026/",
   "title": "SH AGM 2026",
   "published": "2026-01-29T19:37:21",
-  "modified": "2026-06-06T21:00:27",
+  "modified": "2026-09-05T04:00:26",
   "taxonomies": {
    "region": [],
    "group": [
@@ -3835,10 +3835,10 @@
   },
   "startDate": "2026-06-06",
   "endDate": "2026-06-06",
-  "startTime": "13:00",
-  "endTime": "21:00",
+  "startTime": "09:00",
+  "endTime": "17:00",
   "tzLabel": "ET",
-  "raw": "June 6, 2026 - June 6, 2026 | 1:00 PM - 9:00 PM (ET)",
+  "raw": "June 6, 2026 - June 6, 2026 | 9:00 AM - 5:00 PM (ET)",
   "location": [
    "Delta Hotel Montreal",
    "475 Av. du Président-Kennedy",
@@ -3849,7 +3849,7 @@
    "Health Services Group": "https://pipsc.ca/group/health-services-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-du-groupe-sh-2026/",
-  "scrapedAt": "2026-07-14T14:41:54.403Z"
+  "scrapedAt": "2026-09-05T09:05:52.680Z"
  },
  "4426": {
   "id": 4426,
@@ -80433,7 +80433,7 @@
   "link": "https://pipsc.ca/events/bc-yuk-regional-council-2026/",
   "title": "BC/YUK  Regional Council 2026",
   "published": "2026-02-03T17:02:25",
-  "modified": "2026-06-07T00:00:27",
+  "modified": "2026-09-05T07:00:26",
   "taxonomies": {
    "region": [
     518
@@ -80443,11 +80443,11 @@
    "chapter": []
   },
   "startDate": "2026-06-05",
-  "endDate": "2026-06-07",
-  "startTime": "21:00",
-  "endTime": "00:00",
+  "endDate": "2026-06-06",
+  "startTime": "14:00",
+  "endTime": "17:00",
   "tzLabel": "PT",
-  "raw": "June 5, 2026 - June 7, 2026 | 9:00 PM - 12:00 AM (PT)",
+  "raw": "June 5, 2026 - June 6, 2026 | 2:00 PM - 5:00 PM (PT)",
   "location": [
    "Laurel Point Inn",
    "Inn at Laurel Point",
@@ -80458,7 +80458,7 @@
    "British Columbia & Yukon Region": "https://pipsc.ca/region/british-columbia-yukon-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/bc-yuk-regional-council-2026/",
-  "scrapedAt": "2026-07-14T14:41:51.770Z"
+  "scrapedAt": "2026-09-05T09:05:50.028Z"
  },
  "10724": {
   "id": 10724,
@@ -83871,7 +83871,7 @@
   "link": "https://pipsc.ca/events/2026-bc-yukon-steward-council/",
   "title": "2026 BC/Yukon Steward Council",
   "published": "2026-02-03T17:03:51",
-  "modified": "2026-09-04T19:01:25",
+  "modified": "2026-09-04T21:04:20",
   "taxonomies": {
    "region": [
     518
@@ -83896,7 +83896,7 @@
    "British Columbia & Yukon Region": "https://pipsc.ca/region/british-columbia-yukon-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/2026-bc-yukon-steward-council/",
-  "scrapedAt": "2026-09-04T19:36:08.149Z"
+  "scrapedAt": "2026-09-05T09:05:53.503Z"
  },
  "10992": {
   "id": 10992,
@@ -90922,7 +90922,7 @@
   "link": "https://pipsc.ca/events/separate-employers-group-meeting-of-october-17-2026/",
   "title": "Separate Employers Group Meeting of October 17, 2026",
   "published": "2026-04-10T18:26:20",
-  "modified": "2026-08-30T01:32:27",
+  "modified": "2026-09-05T04:01:20",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -90943,7 +90943,7 @@
   "description": "Event contact: Erica-Martine Jean Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will b",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/reunion-du-groupe-des-employeurs-separes-du-17-october-2026/",
-  "scrapedAt": "2026-08-30T10:29:17.237Z"
+  "scrapedAt": "2026-09-05T09:05:51.270Z"
  },
  "72069": {
   "id": 72069,
@@ -96616,7 +96616,7 @@
   "link": "https://pipsc.ca/events/nureg-bargaining-prep-meeting-2/",
   "title": "NUREG Bargaining Prep Meeting",
   "published": "2026-05-12T15:50:21",
-  "modified": "2026-08-27T20:35:27",
+  "modified": "2026-09-04T21:01:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -96641,7 +96641,7 @@
    "Nuclear Regulatory Group": "https://pipsc.ca/group/nuclear-regulatory-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-preparation-aux-negociations-nureg/",
-  "scrapedAt": "2026-08-28T01:29:50.285Z"
+  "scrapedAt": "2026-09-05T09:05:56.784Z"
  },
  "75115": {
   "id": 75115,
@@ -116961,7 +116961,7 @@
   "link": "https://pipsc.ca/events/nrc-ro-rco-executive-committee-meeting-sept4-26-hybrid/",
   "title": "NRC-RO/RCO Executive Committee Meeting (Hybrid)",
   "published": "2026-08-14T14:50:21",
-  "modified": "2026-09-02T18:01:21",
+  "modified": "2026-09-04T21:01:29",
   "taxonomies": {
    "region": [],
    "group": [
@@ -116986,7 +116986,7 @@
    "NRC - Research Officers and Research Council Officers Group": "https://pipsc.ca/group/nrc-research-officers-and-research-council-officers-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-du-comite-executive-crnc-ar-acr-4-sept-26-hybride/",
-  "scrapedAt": "2026-09-02T19:47:28.715Z"
+  "scrapedAt": "2026-09-05T09:05:55.144Z"
  },
  "84674": {
   "id": 84674,
@@ -117479,7 +117479,7 @@
   "link": "https://pipsc.ca/events/sh-bargaining-prep-4/",
   "title": "SH Bargaining Prep",
   "published": "2026-08-19T14:07:21",
-  "modified": "2026-08-19T17:21:21",
+  "modified": "2026-09-04T21:01:29",
   "taxonomies": {
    "region": [],
    "group": [
@@ -117504,7 +117504,7 @@
    "Health Services Group": "https://pipsc.ca/group/health-services-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/preparation-aux-negociations-du-groupe-sh/",
-  "scrapedAt": "2026-08-19T17:41:10.194Z"
+  "scrapedAt": "2026-09-05T09:05:55.965Z"
  },
  "84839": {
   "id": 84839,
@@ -117512,7 +117512,7 @@
   "link": "https://pipsc.ca/events/sh-bargaining-meeting-with-tbs-oct/",
   "title": "SH Bargaining Meeting with TBS- Oct",
   "published": "2026-08-19T14:07:21",
-  "modified": "2026-08-19T17:21:21",
+  "modified": "2026-09-04T21:01:30",
   "taxonomies": {
    "region": [],
    "group": [
@@ -117537,7 +117537,7 @@
    "Health Services Group": "https://pipsc.ca/group/health-services-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-negociation-entre-sh-et-tbs-octobre/",
-  "scrapedAt": "2026-08-19T17:41:08.820Z"
+  "scrapedAt": "2026-09-05T09:05:54.327Z"
  },
  "84847": {
   "id": 84847,
@@ -118748,7 +118748,7 @@
   "link": "https://pipsc.ca/events/prairie-nwt-young-professional-committee-meeting-2/",
   "title": "Prairie/NWT Young Professional Committee Meeting – October 24, 2026",
   "published": "2026-08-27T18:31:20",
-  "modified": "2026-09-04T15:52:21",
+  "modified": "2026-09-04T19:42:25",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -118769,7 +118769,7 @@
   "description": "Event contact: Prashila Chand Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be de",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/reunion-du-comite-des-jeunes-professionnel%c2%b7les-des-prairies-et-des-t-n-o-2/",
-  "scrapedAt": "2026-09-04T19:36:12.893Z"
+  "scrapedAt": "2026-09-05T09:05:58.050Z"
  },
  "85426": {
   "id": 85426,
