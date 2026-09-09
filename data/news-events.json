@@ -3587,7 +3587,7 @@
   "link": "https://pipsc.ca/afs-vancouver-sub-group-annual-general-meeting-2026/",
   "title": "AFS Vancouver Sub-Group Annual General Meeting 2026",
   "published": "2026-08-27T21:54:06",
-  "modified": "2026-08-27T21:57:56",
+  "modified": "2026-09-09T18:01:32",
   "taxonomies": {
    "region": [],
    "group": [
@@ -3606,9 +3606,9 @@
   "location": [
    "Pink Pearl Restaurant, 1132 East Hastings Street, Vancouver, BC"
   ],
-  "description": "Published August 27, 2026 | Last updated 4 days ago You’re invited to the AFS Vancouver Sub-Group’s 2026 Annual General Meeting. When: Thursday, September 24, 2026 from 5:15 PM to 8:45 PM Where: Pink Pearl Restaurant, 1132 East Hastings Street, Vancouver, BC Any PIPSC CRA Vancouver AFS Sub-Group member may attend the meeting. The meeting begins at 6:00 PM, with dinner and social time beforehand. A maximum of 150 members can attend the dinner. If you are attending the dinner, please note whether you are a vegetarian. RSVPs are due by September 10, 2026. To RSVP, please visit this online form or scan the QR Code below. Dinner To reserve a seat for dinner, please pay the refundable $10 deposit by September 10, 2026. Your dinner reservation will be confirmed only once we receive and confirm your payment. You can send your payment in person or by email transfer to one of the following contacts: Ingrid Tan – itan@pipsc.ca Mauro Defeudis – mdefeudis@pipsc.ca You may also contact an available steward from the stewards list posted on PIPSC boards at your work location. Election This is an election year for the following executive positions: Vice-President Secretary Treasurer Up to 4 Members-at-Large Refer to the Stewards list. Members interested in serving on the executive are encouraged to express their interest. Keynote speakers will also be on hand to answer your questions. Thank you for your support of your union!",
+  "description": "Published August 27, 2026 | Last updated 1 week ago You’re invited to the AFS Vancouver Sub-Group’s 2026 Annual General Meeting. When: Thursday, September 24, 2026 from 5:15 PM to 8:45 PM Where: Pink Pearl Restaurant, 1132 East Hastings Street, Vancouver, BC Any PIPSC CRA Vancouver AFS Sub-Group member may attend the meeting. The meeting begins at 6:00 PM, with dinner and social time beforehand. A maximum of 150 members can attend the dinner. If you are attending the dinner, please note whether you are a vegetarian. RSVPs are due by September 18, 2026. To RSVP, please visit this online form or scan the QR Code below. Dinner To reserve a seat for dinner, please pay the refundable $10 deposit by September 10, 2026. Your dinner reservation will be confirmed only once we receive and confirm your payment. You can send your payment in person or by email transfer to one of the following contacts: Ingrid Tan – itan@pipsc.ca Mauro Defeudis – mdefeudis@pipsc.ca You may also contact an available steward from the stewards list posted on PIPSC boards at your work location. Election This is an election year for the following executive positions: Vice-President Secretary Treasurer Up to 4 Members-at-Large Refer to the Stewards list. Members interested in serving on the executive are encouraged to express their interest. Keynote speakers will also be on hand to answer your questions. Thank you for your support of your union!",
   "source": "news",
-  "scrapedAt": "2026-09-01T14:18:24.450Z"
+  "scrapedAt": "2026-09-09T19:46:17.646Z"
  },
  "85574": {
   "id": 85574,
@@ -3674,5 +3674,34 @@
   "description": "Published September 2, 2026 | Last updated 1 day ago We invite you to the PIPSC Trivia Pizza Night mixer co-hosted by SP Lower Mainland Sub-Group, Surrey-White Rock Branch, and Vancouver Branch! We’ll be playing the Geoguessr trivia game in both solo and team formats. When: Wednesday, November 18, 2026 from 5:30 PM to 7:30 PM Where: Café Marie Geoguessr is a cult-classic trivia game where participants guess locations on a map based on Google Street View photos. It is free and can be played on phones, tablets, and computers. Join us for: Pizza, non-alcoholic drinks, and desserts (drink menu available here) A chance to win exciting prizes Opportunities to network and learn more about union updates and activities Come connect with colleagues, meet your executive team and local stewards, and enjoy an evening of food, fun, and conversation. This is a great chance to get involved and help shape our future together. Please RSVP by November 4 at https://forms.gle/SAPLFmiYPb6RTiAD7. We look forward to seeing you there!",
   "source": "news",
   "scrapedAt": "2026-09-03T19:50:33.043Z"
+ },
+ "85944": {
+  "id": 85944,
+  "slug": "agm-cp-vancouver-island-sub-group",
+  "link": "https://pipsc.ca/agm-cp-vancouver-island-sub-group/",
+  "title": "AGM – CP Vancouver Island Sub-Group",
+  "published": "2026-09-09T17:23:21",
+  "modified": "2026-09-09T17:23:23",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    256,
+    1254
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-09-23",
+  "endDate": "2026-09-23",
+  "startTime": "17:30",
+  "endTime": null,
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "4 Mile Restaurant & Brewpub, 199 Island Highway, Victoria, BC"
+  ],
+  "description": "You’re invited to the CP Vancouver Island Sub-Group AGM 2026. Published September 9, 2026 | Last updated 2 hours ago You’re invited to the CP Vancouver Island Sub-Group AGM 2026. Join us on September 23 for an evening with Andrée Doucet, President of the CP Group and a member of the CP Bargaining Team. Andrée will provide a national update and answer members’ questions about the latest developments in CP bargaining, return-to-office (RTO), staffing shortages, and other issues affecting the future of your work. When: Wednesday, September 23, 2026 at 5:30 PM Where: 4 Mile Restaurant & Brewpub, 199 Island Highway, Victoria, BC Registration & Dinner: 5:00 PM RSVP by September 16, 2026, to nadikelly.mobile@gmail.com. If you have any dietary restrictions, please include them in your email. Dinner and refreshments will be provided at no cost to members This is your opportunity to hear firsthand what is happening at the national level and ensure Vancouver Island members’ voices are part of the conversation. Proposed Agenda Welcome Adoption of Agenda CP Group & Bargaining Update Andrée Doucet, President, CP Group Questions & Discussion Vancouver Island Subgroup Discussion Workplace concerns Member priorities Future activities New Business Adjournment Looking forward to seeing you there!",
+  "source": "news",
+  "scrapedAt": "2026-09-09T19:46:17.639Z"
  }
 }
