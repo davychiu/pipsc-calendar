@@ -81460,7 +81460,7 @@
   "link": "https://pipsc.ca/events/introduction-a-la-sante-et-securite-au-travail-avril-2026/",
   "title": "Introduction à la Santé et sécurité au travail – avril 2026",
   "published": "2026-02-03T17:02:46",
-  "modified": "2026-08-10T16:47:34",
+  "modified": "2026-09-10T03:00:26",
   "taxonomies": {
    "region": [
     459
@@ -81471,10 +81471,10 @@
   },
   "startDate": "2026-04-16",
   "endDate": "2026-04-18",
-  "startTime": "13:00",
-  "endTime": "16:00",
+  "startTime": "09:00",
+  "endTime": "12:00",
   "tzLabel": "ET",
-  "raw": "April 16, 2026 - April 18, 2026 | 1:00 PM - 4:00 PM (ET)",
+  "raw": "April 16, 2026 - April 18, 2026 | 9:00 AM - 12:00 PM (ET)",
   "location": [
    "Hôtel Delta par Marriott Québec",
    "690 boul. René-Lévesque Est",
@@ -81485,7 +81485,7 @@
    "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/introduction-a-la-sante-et-securite-au-travail-en-presentiel/",
-  "scrapedAt": "2026-08-10T18:03:33.561Z"
+  "scrapedAt": "2026-09-10T09:45:33.683Z"
  },
  "10804": {
   "id": 10804,
@@ -92537,7 +92537,7 @@
   "link": "https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-sub-meeting-june-11-2026-900-am-400-pm/",
   "title": "Prairie/NWT Regional Executive Meeting – (sub-meeting) June 11, 2026 – 9:00 AM – 4:00 PM",
   "published": "2026-04-24T15:14:21",
-  "modified": "2026-06-11T22:00:27",
+  "modified": "2026-09-10T06:00:28",
   "taxonomies": {
    "region": [
     507
@@ -92546,8 +92546,24 @@
    "employer": [],
    "chapter": []
   },
-  "scrapedAt": "2026-07-14T14:40:49.349Z",
-  "missing": true
+  "startDate": "2026-06-11",
+  "endDate": "2026-06-11",
+  "startTime": "09:00",
+  "endTime": "16:00",
+  "tzLabel": "MT",
+  "raw": "June 11, 2026 - June 11, 2026 | 9:00 AM - 4:00 PM (MT)",
+  "location": [
+   "Matrix Hotel Edmonton Downtown",
+   "10640 - 100 Avenue",
+   "Prism",
+   "Edmonton, AB"
+  ],
+  "description": "Event contact: Prashila Chand Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be de",
+  "links": {
+   "Prairie/Northwest Territories Region": "https://pipsc.ca/region/prairie-northwest-territories-region-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/reunion-de-lexecutif-regional-des-prairies-et-des-t-n-o-2/",
+  "scrapedAt": "2026-09-10T09:45:26.700Z"
  },
  "73270": {
   "id": 73270,
@@ -92759,7 +92775,7 @@
   "link": "https://pipsc.ca/events/afs-executive-meeting-26/",
   "title": "AFS Executive Meeting",
   "published": "2026-04-28T12:03:21",
-  "modified": "2026-06-11T21:00:27",
+  "modified": "2026-09-10T03:00:32",
   "taxonomies": {
    "region": [],
    "group": [
@@ -92770,10 +92786,10 @@
   },
   "startDate": "2026-06-11",
   "endDate": "2026-06-11",
-  "startTime": "13:00",
-  "endTime": "21:00",
+  "startTime": "09:00",
+  "endTime": "17:00",
   "tzLabel": "ET",
-  "raw": "June 11, 2026 - June 11, 2026 | 1:00 PM - 9:00 PM (ET)",
+  "raw": "June 11, 2026 - June 11, 2026 | 9:00 AM - 5:00 PM (ET)",
   "location": [
    "Ottawa Marriott",
    "100 Kent Street",
@@ -92784,7 +92800,7 @@
    "Audit, Financial & Scientific Group": "https://pipsc.ca/group/audit-financial-scientific-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-executive-vfs-3/",
-  "scrapedAt": "2026-07-14T14:40:50.856Z"
+  "scrapedAt": "2026-09-10T09:45:32.280Z"
  },
  "73579": {
   "id": 73579,
@@ -95481,7 +95497,7 @@
   "link": "https://pipsc.ca/events/bc-yuk-training-committee-meeting-2/",
   "title": "BC/YUK Training Committee Meeting",
   "published": "2026-05-01T13:33:21",
-  "modified": "2026-06-10T17:00:21",
+  "modified": "2026-09-10T07:00:27",
   "taxonomies": {
    "region": [
     518
@@ -95491,11 +95507,11 @@
    "chapter": []
   },
   "startDate": "2026-06-03",
-  "endDate": "2026-06-04",
-  "startTime": "20:00",
-  "endTime": "00:00",
+  "endDate": "2026-06-03",
+  "startTime": "13:00",
+  "endTime": "17:00",
   "tzLabel": "PT",
-  "raw": "June 3, 2026 - June 4, 2026 | 8:00 PM - 12:00 AM (PT)",
+  "raw": "June 3, 2026 - June 3, 2026 | 1:00 PM - 5:00 PM (PT)",
   "location": [
    "Victoria BC",
    "Victoria"
@@ -95505,7 +95521,7 @@
    "British Columbia & Yukon Region": "https://pipsc.ca/region/british-columbia-yukon-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/bc-yuk-training-committee-meeting-3/",
-  "scrapedAt": "2026-07-14T14:41:16.082Z"
+  "scrapedAt": "2026-09-10T09:45:24.004Z"
  },
  "74184": {
   "id": 74184,
@@ -97889,7 +97905,7 @@
   "link": "https://pipsc.ca/events/jcc-rt-2026-annual-general-meeting/",
   "title": "JCC-RT 2026 Annual General Meeting",
   "published": "2026-05-15T16:04:21",
-  "modified": "2026-06-12T01:00:27",
+  "modified": "2026-09-10T03:00:34",
   "taxonomies": {
    "region": [],
    "group": [
@@ -97899,11 +97915,11 @@
    "chapter": []
   },
   "startDate": "2026-06-11",
-  "endDate": "2026-06-12",
-  "startTime": "22:00",
-  "endTime": "01:00",
+  "endDate": "2026-06-11",
+  "startTime": "18:00",
+  "endTime": "21:00",
   "tzLabel": "ET",
-  "raw": "June 11, 2026 - June 12, 2026 | 10:00 PM - 1:00 AM (ET)",
+  "raw": "June 11, 2026 - June 11, 2026 | 6:00 PM - 9:00 PM (ET)",
   "location": [
    "21 Jones St.",
    "Stoney Creek"
@@ -97913,7 +97929,7 @@
    "Juravinski Cancer Centre - Radiation Therapists Group": "https://pipsc.ca/group/juravinski-cancer-centre-radiation-therapists-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/assemblee-generale-annuelle-2026-du-groupe-jcc-rt/",
-  "scrapedAt": "2026-07-14T14:40:47.125Z"
+  "scrapedAt": "2026-09-10T09:45:30.786Z"
  },
  "75526": {
   "id": 75526,
@@ -98595,7 +98611,7 @@
   "link": "https://pipsc.ca/events/bcfnha-bargaining-w-employer-june-9-11/",
   "title": "BCFNHA Bargaining w Employer (June 9-11)",
   "published": "2026-05-22T13:15:23",
-  "modified": "2026-06-12T00:00:28",
+  "modified": "2026-09-10T07:00:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -98604,8 +98620,19 @@
    "employer": [],
    "chapter": []
   },
-  "scrapedAt": "2026-07-14T14:40:48.251Z",
-  "missing": true
+  "startDate": "2026-06-09",
+  "endDate": "2026-06-11",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "tzLabel": "PT",
+  "raw": "June 9, 2026 - June 11, 2026 | 9:00 AM - 5:00 PM (PT)",
+  "location": [],
+  "description": "Event contact: Erica-Martine Jean Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will b",
+  "links": {
+   "BC First Nations Health Authority Group": "https://pipsc.ca/group/bc-first-nations-health-authority-group-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/negociations-entre-la-bcfnha-et-lemployeur-9-11-juin/",
+  "scrapedAt": "2026-09-10T09:45:25.298Z"
  },
  "76132": {
   "id": 76132,
@@ -114748,7 +114775,7 @@
   "link": "https://pipsc.ca/events/sh-executive-meeting-10/",
   "title": "SH Executive Meeting #2",
   "published": "2026-06-24T11:14:21",
-  "modified": "2026-09-03T21:01:30",
+  "modified": "2026-09-10T04:01:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -114773,7 +114800,7 @@
    "Health Services Group": "https://pipsc.ca/group/health-services-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-du-comite-executif-du-groupe-sh/",
-  "scrapedAt": "2026-09-04T09:47:15.960Z"
+  "scrapedAt": "2026-09-10T09:45:28.075Z"
  },
  "80403": {
   "id": 80403,
@@ -115889,7 +115916,7 @@
   "link": "https://pipsc.ca/events/nfb-bargaining-prep-day-3/",
   "title": "NFB Bargaining Prep- Day 3",
   "published": "2026-07-17T15:08:21",
-  "modified": "2026-08-26T16:48:21",
+  "modified": "2026-09-09T21:01:28",
   "taxonomies": {
    "region": [],
    "group": [
@@ -115910,7 +115937,7 @@
    "National Film Board - Professional Group": "https://pipsc.ca/group/national-film-board-professional-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-preparatoire-aux-negociations-du-groupe-onf-3ieme-jour/",
-  "scrapedAt": "2026-08-26T19:18:52.123Z"
+  "scrapedAt": "2026-09-10T09:45:36.278Z"
  },
  "82322": {
   "id": 82322,
@@ -117537,7 +117564,7 @@
   "link": "https://pipsc.ca/events/sh-bargaining-meeting-with-tbs-oct/",
   "title": "SH Bargaining Meeting with TBS- Oct",
   "published": "2026-08-19T14:07:21",
-  "modified": "2026-09-09T19:29:21",
+  "modified": "2026-09-10T03:01:20",
   "taxonomies": {
    "region": [],
    "group": [
@@ -117562,7 +117589,7 @@
    "Health Services Group": "https://pipsc.ca/group/health-services-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-negociation-entre-sh-et-tbs-octobre/",
-  "scrapedAt": "2026-09-09T19:46:21.146Z"
+  "scrapedAt": "2026-09-10T09:45:29.460Z"
  },
  "84847": {
   "id": 84847,
@@ -119326,7 +119353,7 @@
   "link": "https://pipsc.ca/events/wteg-executive-meeting-3/",
   "title": "WTEG Executive Meeting",
   "published": "2026-09-03T13:37:25",
-  "modified": "2026-09-09T17:01:21",
+  "modified": "2026-09-10T01:00:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -119351,7 +119378,7 @@
    "Whiteshell Technical Employees Group": "https://pipsc.ca/group/whiteshell-technical-employees-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-executive-wteg/",
-  "scrapedAt": "2026-09-09T19:46:27.336Z"
+  "scrapedAt": "2026-09-10T09:45:34.945Z"
  },
  "85743": {
   "id": 85743,
@@ -119785,7 +119812,7 @@
   "link": "https://pipsc.ca/events/2026-bcfnha-annual-general-meeting-hybrid/",
   "title": "2026 BCFNHA  Annual General Meeting (Hybrid)",
   "published": "2026-09-09T18:58:21",
-  "modified": "2026-09-09T19:33:21",
+  "modified": "2026-09-09T20:16:25",
   "taxonomies": {
    "region": [],
    "group": [
@@ -119810,7 +119837,7 @@
    "BC First Nations Health Authority Group": "https://pipsc.ca/group/bc-first-nations-health-authority-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/assemblee-generale-annuelle-2026-de-la-bcfnha-hybride/",
-  "scrapedAt": "2026-09-09T19:46:19.796Z"
+  "scrapedAt": "2026-09-10T09:45:37.533Z"
  },
  "85987": {
   "id": 85987,
