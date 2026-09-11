@@ -3703,5 +3703,58 @@
   "description": "You’re invited to the CP Vancouver Island Sub-Group AGM 2026. Published September 9, 2026 | Last updated 2 hours ago You’re invited to the CP Vancouver Island Sub-Group AGM 2026. Join us on September 23 for an evening with Andrée Doucet, President of the CP Group and a member of the CP Bargaining Team. Andrée will provide a national update and answer members’ questions about the latest developments in CP bargaining, return-to-office (RTO), staffing shortages, and other issues affecting the future of your work. When: Wednesday, September 23, 2026 at 5:30 PM Where: 4 Mile Restaurant & Brewpub, 199 Island Highway, Victoria, BC Registration & Dinner: 5:00 PM RSVP by September 16, 2026, to nadikelly.mobile@gmail.com. If you have any dietary restrictions, please include them in your email. Dinner and refreshments will be provided at no cost to members This is your opportunity to hear firsthand what is happening at the national level and ensure Vancouver Island members’ voices are part of the conversation. Proposed Agenda Welcome Adoption of Agenda CP Group & Bargaining Update Andrée Doucet, President, CP Group Questions & Discussion Vancouver Island Subgroup Discussion Workplace concerns Member priorities Future activities New Business Adjournment Looking forward to seeing you there!",
   "source": "news",
   "scrapedAt": "2026-09-09T19:46:17.639Z"
+ },
+ "86232": {
+  "id": 86232,
+  "slug": "victoria-branch-2026-annual-general-meeting",
+  "link": "https://pipsc.ca/victoria-branch-2026-annual-general-meeting/",
+  "title": "Victoria Branch 2026 Annual General Meeting",
+  "published": "2026-09-11T18:55:26",
+  "modified": "2026-09-11T18:55:29",
+  "taxonomies": {
+   "region": [
+    518,
+    1699
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-15",
+  "endDate": "2026-10-15",
+  "startTime": "17:00",
+  "endTime": null,
+  "tzLabel": "PT",
+  "localTimes": true,
+  "location": [
+   "Gorge Vale Golf Club, 1005 Craigflower Road, Victoria, B.C. The meeting will be followed by a guest speaker and dinner. All regular and retired members are invi"
+  ],
+  "description": "You’re invited to the PIPSC Victoria Branch 2026 Annual General Meeting. Published September 11, 2026 | Last updated 47 minutes ago You’re invited to the PIPSC Victoria Branch 2026 Annual General Meeting. When: Thursday, October 15, 2026, at 5:00 PM PT Where: Gorge Vale Golf Club, 1005 Craigflower Road, Victoria, B.C. The meeting will be followed by a guest speaker and dinner. All regular and retired members are invited to attend and vote for their Branch Executive. RSVP Please RSVP by Friday, October 9, 2026, by emailing pipsc.victoria.branch@gmail.com. Please indicate any special dietary needs. Guest information: Your first guest is free. Additional guests are $20 each, payable at the door. This is an adults-only event. Each member will receive two beverage tickets. Due to limited space, we will prioritize stewards, followed by members and guests. If you have any questions, please contact Katrina Johnston at kjohnston@pipsc.ca. We hope to see you there!",
+  "source": "news",
+  "scrapedAt": "2026-09-11T19:43:26.052Z"
+ },
+ "86278": {
+  "id": 86278,
+  "slug": "webinar-pipscs-truth-reconciliation-report-and-next-steps",
+  "link": "https://pipsc.ca/webinar-pipscs-truth-reconciliation-report-and-next-steps/",
+  "title": "Webinar: PIPSC’s Truth & Reconciliation Report and next steps",
+  "published": "2026-09-11T14:44:25",
+  "modified": "2026-09-11T14:44:29",
+  "taxonomies": {
+   "region": [],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-09-28",
+  "endDate": "2026-09-28",
+  "startTime": "11:30",
+  "endTime": null,
+  "tzLabel": "ET",
+  "localTimes": true,
+  "location": [],
+  "description": "Join our webinar on PIPSC’s history and our role and responsibilities in reconciliation. Published September 11, 2026 | Last updated 4 hours ago Join our webinar on PIPSC’s history and our role and responsibilities in reconciliation. Reconciliation requires truth. For us, that includes talking honestly about the history of our organization and understanding the role our membership historically played in the systems of discrimination and harm towards Indigenous Peoples. As part of our commitment to genuine and sustainable reconciliation, we invite you to an upcoming webinar on PIPSC’s history and our role and responsibilities in reconciliation. When: September 28, 2026 11:30 AM ET to 12:45 PM ET (simultaneous translation in English and French) or 4:00 PM ET to 5:15 PM ET (no simultaneous translation) Your involvement is important in shaping our collective understanding and progress. RSVP for the 11:30 AM webinar (Simultaneous translation in English and French) RSVP for the 4:00 PM webinar (No simultaneous translation) The webinar will provide an overview of the PIPSC Know History Report and the findings of PIPSC’s Reconciliation Readiness Assessment. What is the Know History Report? PIPSC needed to deepen our understanding of our history in relation to Indigenous Peoples and communities to work towards meaningful reconciliation. We partnered with Know History, Canada’s leading historical review firm, to produce a report on PIPSC members’ involvement in Canada’s Colonial System",
+  "source": "news",
+  "scrapedAt": "2026-09-11T19:43:26.054Z"
  }
 }
