@@ -117624,10 +117624,13 @@
   "link": "https://pipsc.ca/events/rimouski-afs-sub-group-agm-october-1st-2026/",
   "title": "RIMOUSKI AFS SUB-GROUP- AGM- OCTOBER 1ST, 2026",
   "published": "2026-08-19T16:57:56",
-  "modified": "2026-08-20T17:44:21",
+  "modified": "2026-09-14T22:36:45",
   "taxonomies": {
    "region": [],
-   "group": [],
+   "group": [
+    153,
+    1062
+   ],
    "employer": [],
    "chapter": []
   },
@@ -117639,9 +117642,12 @@
   "raw": "",
   "location": [],
   "description": "NOTICE OF MEETING AND ELECTION NOTICE TO ALL MEMBERS OF THE RIMOUSKI AFS SUB-GROUP Professional Institute of the Public Service of Canada You are cordially invited to attend the Annual General Meeting of the Rimouski AFS Sub-Group. ANNUAL GENERAL MEETING Date : Thursday, October 1, 2026Time : 5:30 p.m.Location : Yin Yan Sushi Restaurant, 61 St-Germain E., Rimouski (private room, second floor) A meal will be provided to members during the meeting. Our guest Ms. Mélanie LévesqueRegional Representative, AFS Group Ms. Lévesque will provide members with various updates and information on matters of importance to the AFS Group. Elections This year, the positions of President, Vice-President, and Secretary-Treasurer are up for election. Elections will therefore be held. Members interested in running for one of these three positions may submit their candidacy at the AGM, either in person or by proxy. Your presence is important This meeting will provide an opportunity to discuss succession and the importance of the Rimouski AFS Sub-Group. Your participation is therefore greatly encouraged. RSVP Please confirm whether you will be attending by September 25, 2026, by email at: ngendreau@pipsc.ca We look forward to seeing you there! Noémie Gendreau President, Rimouski AFS Sub-Group Agenda Rimouski VFS Sub-Group AGM 61 St-Germain E., Rimouski 1er octobre 2026 Call to Order Review and approval of the Agenda Review and approval of the Minutes of the Previous AGM (October 15, 2025) Rimouski A",
-  "links": {},
+  "links": {
+   "Audit, Financial & Scientific Group": "https://pipsc.ca/group/audit-financial-scientific-group-en/",
+   "Rimouski, QC": "https://pipsc.ca/group/afs-rimouski-qc-en/"
+  },
   "frLink": "https://pipsc.ca/fr/events/sous-groupe-vfs-de-rimouski-aga-1er-octobre-2026/",
-  "scrapedAt": "2026-08-21T05:48:52.879Z"
+  "scrapedAt": "2026-09-15T10:05:26.384Z"
  },
  "84858": {
   "id": 84858,
