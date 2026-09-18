@@ -120519,6 +120519,35 @@
   "frLink": "https://pipsc.ca/fr/events/mdn-de-la-rcn-ottawa-gatineau-soiree-cinema-octobre-2026/",
   "scrapedAt": "2026-09-16T20:08:24.453Z"
  },
+ "86663": {
+  "id": 86663,
+  "slug": "pipsc-cp-group-virtual-french-session-your-union-your-voice",
+  "link": "https://pipsc.ca/events/pipsc-cp-group-virtual-french-session-your-union-your-voice/",
+  "title": "PIPSC CP Group VIRTUAL French Session – YOUR UNION, YOUR VOICE",
+  "published": "2026-09-17T20:44:15",
+  "modified": "2026-09-17T20:44:17",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    256
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-14",
+  "endDate": "2026-10-14",
+  "startTime": "12:00",
+  "endTime": "13:00",
+  "tzLabel": "ET",
+  "raw": "October 14, 2026 - October 14, 2026 | 12:00 PM - 1:00 PM (ET)",
+  "location": [],
+  "description": "You’re invited to CP Group VIRTUAL French Session – YOUR UNION, YOUR VOICE –October 14, 2026 – 12 Noon (EDT) – Short Presentation on PIPSC 101 followed by Q&Awith your National CP Executives! Deadline to register is Monday, October 5, 2026. When: Wednesday, October 14, 2026 at 12pm ETWhere: VIRTUAL ZOOM – French Session – Zoom link will be sent to registeredparticipants. For more information on the event including how to RSVP, please visit our site at:https://www.zeffy.com/en-CA/ticketing/cp-group-virtual-french-session-your-union-your-voice-october-14-2026-12-noon-et-short-presentation-on-pipsc-101-followed-by-qanda-with-your-national-cp-executives If you have any questions, please email CPEVENTS@PIPSC.CA. In solidarity,YOUR CP NATIONAL EXECUTIVES",
+  "links": {
+   "Commerce & Purchasing Group": "https://pipsc.ca/group/commerce-purchasing-group-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/groupe-cp-de-lipfpc-seance-virtuelle-en-anglais-votre-syndicat-votre-voix/",
+  "scrapedAt": "2026-09-18T09:46:23.357Z"
+ },
  "86673": {
   "id": 86673,
   "slug": "cfia-sa-executive-committee-meeting-and-agm-nov-7-26-hybrid",
@@ -120550,5 +120579,34 @@
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-du-comite-executif-et-aga-du-groupe-acia-sa-7-nov-26-hybride/",
   "scrapedAt": "2026-09-15T20:15:20.480Z"
+ },
+ "86853": {
+  "id": 86853,
+  "slug": "it-ottawa-east-sub-group-2026-agm",
+  "link": "https://pipsc.ca/events/it-ottawa-east-sub-group-2026-agm/",
+  "title": "IT Ottawa East Sub-Group 2026 AGM",
+  "published": "2026-09-17T20:45:38",
+  "modified": "2026-09-17T20:45:40",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    1217
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-08",
+  "endDate": "2026-10-08",
+  "startTime": "17:00",
+  "endTime": "20:00",
+  "tzLabel": "ET",
+  "raw": "October 8, 2026 - October 8, 2026 | 5:00 PM - 8:00 PM (ET)",
+  "location": [],
+  "description": "The IT Ottawa East Sub-Group Executive of The Professional Institute of the Public Service of Canada (PIPSC) are inviting you to the 2026 Annual General Meeting. Who: IT Ottawa East Sub-Group Members of PIPSCWhere: Mandarin Restaurant, 2055 Tenth Line Rd, Orléans, ON K4A 4C5When: Thursday, October 8, 2026, from 5 pm to 8:00 pm Open to PIPSC members of the Ottawa East IT Subgroup only. There will be elections for 7 executive members including: Vice-President, Secretary (2-year terms), and 5 Members-at-Large (5 @ 2-year term). Come and join a hardworking dynamic team dedicated to hosting events for the membership. Learn new skills and meet new people. Nominations through email can be made and nominations from the floor of the AGM will also be accepted. Members must register here https://forms.gle/P73Ykq4fMDPXi4Yw6 by no later than noon on Tuesday, October 6, 2026. Space is limited, please register early. Agenda 5:00 – 5:15 pm Registration and Networking 5:15 pm AGM START President’s Welcome and IntroductionsTreasurer’s report including 2027 budgetPresident’s reportElectionsBargaining Update Adjournment 6:15 pm Mandarin Buffet *Ottawa East Branch is bordered by the Rideau River (West), Hwy 417 (South) and the Ottawa River (North).",
+  "links": {
+   "Ottawa-East, NCR": "https://pipsc.ca/group/cs-ottawa-east-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-est/",
+  "scrapedAt": "2026-09-18T09:46:22.613Z"
  }
 }
