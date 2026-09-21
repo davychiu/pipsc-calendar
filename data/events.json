@@ -120608,5 +120608,36 @@
   },
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-est/",
   "scrapedAt": "2026-09-18T09:46:22.613Z"
+ },
+ "86924": {
+  "id": 86924,
+  "slug": "the-ville-marie-branch-2026-annual-general-meeting-agm-october-27-2026",
+  "link": "https://pipsc.ca/events/the-ville-marie-branch-2026-annual-general-meeting-agm-october-27-2026/",
+  "title": "The Ville-Marie Branch 2026 Annual General Meeting (AGM)- October 27, 2026",
+  "published": "2026-09-21T17:40:19",
+  "modified": "2026-09-21T17:40:22",
+  "taxonomies": {
+   "region": [
+    459,
+    473
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": null,
+  "endDate": null,
+  "startTime": null,
+  "endTime": null,
+  "tzLabel": null,
+  "raw": "",
+  "location": [],
+  "description": "Dear Member, We are pleased to invite you to the 2026 Annual General Meeting (AGM). In order to maximize member participation, the 2026 AGM will be held in a hybrid format. Details The Ville-Marie Branch of the Institute will be holding its 2026 AGM on: DATE: October 27, 2026 TIME: 6 p.m. (Note 1) LOCATION: Chez Alexandre 1454 Rue Peel, Montréal, QC H3A 1S8 (see map), near the Peel metro station, where we will be on the second floor, in a private room. Parking is also available nearby. Note 1: Please arrive 15 minutes before 6 p.m. so that we can respect the proposed agenda. An AGM is a gathering of all the members of PIPSC working in Montreal’s downtown core and Montreal’s East end. This is an excellent opportunity to build relationships and exchange ideas and raise issues of concern. Elections will also be held for a new executive. Participation To register, please send a confirmation email to the email address donald.lefebvre@pipsc.ca (Secretary) no later than Monday October 12, 2026. Please specify whether you will attend in person or virtually, along with your full name and email address. In order to be respectful of the restaurant, we would like to provide them with an approximate number of attendees so they can plan accordingly. People who register but do not show up, incur costs for the restaurant. In case of cancellation, please contact us via the same email address donald.lefebvre@pipsc.ca (Secretary) no later than Monday October 19, 2026. Zoom link Will be provided",
+  "links": {
+   "Québec Region": "https://pipsc.ca/region/quebec-region-en/",
+   "Ville-Marie, QC": "https://pipsc.ca/region/que-ville-marie-qc-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/assemblee-generale-annuelle-aga-de-la-section-ville-marie-27-octobre-2026/",
+  "scrapedAt": "2026-09-21T21:05:08.754Z"
  }
 }
