@@ -120609,6 +120609,39 @@
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-est/",
   "scrapedAt": "2026-09-18T09:46:22.613Z"
  },
+ "86883": {
+  "id": 86883,
+  "slug": "halifax-it-subgroup-bowling-snacks-night",
+  "link": "https://pipsc.ca/events/halifax-it-subgroup-bowling-snacks-night/",
+  "title": "Halifax IT Subgroup Bowling & Snacks Night",
+  "published": "2026-09-23T16:14:23",
+  "modified": "2026-09-23T16:14:25",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    1260
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-16",
+  "endDate": "2026-10-16",
+  "startTime": "18:30",
+  "endTime": "20:30",
+  "tzLabel": "AT",
+  "raw": "October 16, 2026 - October 16, 2026 | 6:30 PM - 8:30 PM (AT)",
+  "location": [
+   "Bowlarama Spryfield Bowling & Arcade",
+   "16 Dentith Road",
+   "Halifax"
+  ],
+  "description": "The Halifax IT Subgroup invites you to Bowling & Snacks Night! Enjoy a fun evening of bowling and snacks for you and a guest at Bowlarama Spryfield Bowling & Arcade. Come out for a few frames and some great company! When & WhereDate: Friday, October 16, 2026Time: 6:30 p.m. – 8:30 p.m.Location: Bowlarama Spryfield Bowling & ArcadeAddress: 16 Dentith Rd, Halifax, NS RSVPPlease confirm your attendance no later than October 10, 2026, by emailing halifaxitsubgroup@pipsc.ca.",
+  "links": {
+   "Halifax, NS": "https://pipsc.ca/group/cs-halifax-ns-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/soiree-de-quilles-et-de-collations-du-sous-groupe-ti-de-halifax/",
+  "scrapedAt": "2026-09-23T20:22:26.644Z"
+ },
  "86924": {
   "id": 86924,
   "slug": "the-ville-marie-branch-2026-annual-general-meeting-agm-october-27-2026",
@@ -120675,14 +120708,17 @@
  },
  "87064": {
   "id": 87064,
-  "slug": "auto-draft",
-  "link": "https://pipsc.ca/events/auto-draft/",
+  "slug": "afs-saguenay-sub-group-agm-october-6-2026",
+  "link": "https://pipsc.ca/events/afs-saguenay-sub-group-agm-october-6-2026/",
   "title": "AFS Saguenay Sub-Group-AGM- October 6, 2026",
   "published": "2026-09-22T19:26:58",
-  "modified": "2026-09-22T19:30:01",
+  "modified": "2026-09-23T15:43:16",
   "taxonomies": {
    "region": [],
-   "group": [],
+   "group": [
+    153,
+    766
+   ],
    "employer": [],
    "chapter": []
   },
@@ -120693,9 +120729,45 @@
   "tzLabel": null,
   "raw": "",
   "location": [],
-  "description": "Notice of the 2026 Annual General Meeting (2026 AGM) We are pleased to invite you to the PIPSC AFS Saguenay Sub-Group Annual General Meeting. For the occasion, we’d like to invite you in large numbers to Jonquière’s Microbrasserie HopEra (free food and beverages). Date: Tuesday, October 06, 2026 Time: 5:30 p.m.: AGM, supper, and beverages Location: Microbrasserie HopEra 2377 rue St-Dominique Jonquière, QC G7X 6L4 Come and meet your new AFS regional representative, Madam Mélanie Lévesque. She will join us, in person, to brief us on current issues at PIPSC. Meet the executive and members of the AFS Saguenay Sub-Group and take part in the election of the directors. The following positions will be up for election, this year: Vice-President (two-year term) Secretary (two-year term) Please confirm your attendance with your local stewards or by e-mail to Klandry@Pipsc.ca. Accommodations can easily be made for people with special diets. The agenda will be handed to you on site. In solidarity, Your Executive, AFS Saguenay Sub-Group",
-  "links": {},
+  "description": "We are pleased to invite you to the PIPSC AFS Saguenay Sub-Group Annual General Meeting. For the occasion, we’d like to invite you in large numbers to Jonquière’s Microbrasserie HopEra (free food and beverages). Date: Tuesday, October 06, 2026 Time: 5:30 p.m.: AGM, supper, and beverages Location: Microbrasserie HopEra 2377 rue St-Dominique Jonquière, QC G7X 6L4 Come and meet your new AFS regional representative, Madam Mélanie Lévesque. She will join us, in person, to brief us on current issues at PIPSC. Meet the executive and members of the AFS Saguenay Sub-Group and take part in the election of the directors. The following positions will be up for election, this year: Vice-President (two-year term) Secretary (two-year term) Please confirm your attendance with your local stewards or by e-mail to Klandry@Pipsc.ca. Accommodations can easily be made for people with special diets. The agenda will be handed to you on site. In solidarity, Your Executive, AFS Saguenay Sub-Group",
+  "links": {
+   "Audit, Financial & Scientific Group": "https://pipsc.ca/group/audit-financial-scientific-group-en/",
+   "Saguenay, QC": "https://pipsc.ca/group/afs-saguenay-qc-en/"
+  },
   "frLink": "https://pipsc.ca/fr/events/sous-groupe-vfs-saguenay-aga-6-octobre-2026/",
-  "scrapedAt": "2026-09-22T20:11:50.871Z"
+  "scrapedAt": "2026-09-23T20:22:27.932Z"
+ },
+ "87088": {
+  "id": 87088,
+  "slug": "st-johns-it-subgroup-2026-agm",
+  "link": "https://pipsc.ca/events/st-johns-it-subgroup-2026-agm/",
+  "title": "St. John’s IT Subgroup 2026 AGM",
+  "published": "2026-09-23T16:44:22",
+  "modified": "2026-09-23T16:44:24",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    913
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-28",
+  "endDate": "2026-10-28",
+  "startTime": "18:00",
+  "endTime": "20:00",
+  "tzLabel": "NT",
+  "raw": "October 28, 2026 - October 28, 2026 | 6:00 PM - 8:00 PM (NT)",
+  "location": [
+   "St. John's Curling Club / Re-Max Centre",
+   "135 Mayor Avenue",
+   "St. John's"
+  ],
+  "description": "The St. John’s IT Subgroup is holding its AGM on Wednesday, Oct. 28, 2026, at 6:00 p.m. at St. John’s Curling Club/Re-Max Center – 135 Mayor Avenue. If you have questions, please contact the Subgroup President, Jeremy Korchoski at it_stjohns_subgroup@pipsc.ca. I’m looking forward to seeing you all!In solidarity,Jeremy KorchoskiPresident, St. John’s IT Subgroup, PIPSC",
+  "links": {
+   "St. John's, NL": "https://pipsc.ca/group/cs-st-johns-nl-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-de-st-johns/",
+  "scrapedAt": "2026-09-23T20:22:25.509Z"
  }
 }
