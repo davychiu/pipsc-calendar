@@ -120609,6 +120609,35 @@
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-est/",
   "scrapedAt": "2026-09-18T09:46:22.613Z"
  },
+ "86870": {
+  "id": 86870,
+  "slug": "it-hull-nrc-sub-group-2026-agm",
+  "link": "https://pipsc.ca/events/it-hull-nrc-sub-group-2026-agm/",
+  "title": "IT Hull NRC Sub-Group 2026 AGM",
+  "published": "2026-09-24T12:02:01",
+  "modified": "2026-09-24T12:02:03",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    815
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-28",
+  "endDate": "2026-10-28",
+  "startTime": "11:45",
+  "endTime": "13:00",
+  "tzLabel": "ET",
+  "raw": "October 28, 2026 - October 28, 2026 | 11:45 AM - 1:00 PM (ET)",
+  "location": [],
+  "description": "WHEN: Wednesday, October 28, 2026 LOCATION: Minotaure Restaurant, 3 Kent street, Gatineau, QC J8X 2H2 (Place Aubry) TIME: 11:45 am – 1:00 pm Lunch will be provided. To register please fill out this form: AGM registration form. Please register to attend October 21, 2026. There is no election this year. Agenda The agenda shall include the following items: Roll Call (members of the Sub-Group Executive)Approval of the AgendaAdoption of the Minutes of the previous Annual General meetingBusiness Arising from the MinutesReport of the PresidentAnnual Financial ReportNew Business, Including By-Law Amendments If you have any questions, please send an email to IT-TI-Hull@pipsc.ca",
+  "links": {
+   "Hull, NCR": "https://pipsc.ca/group/cs-hull-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-hull-rcn/",
+  "scrapedAt": "2026-09-24T20:30:28.246Z"
+ },
  "86883": {
   "id": 86883,
   "slug": "halifax-it-subgroup-bowling-snacks-night",
@@ -120712,7 +120741,7 @@
   "link": "https://pipsc.ca/events/afs-saguenay-sub-group-agm-october-6-2026/",
   "title": "AFS Saguenay Sub-Group-AGM- October 6, 2026",
   "published": "2026-09-22T19:26:58",
-  "modified": "2026-09-23T15:43:16",
+  "modified": "2026-09-24T14:09:17",
   "taxonomies": {
    "region": [],
    "group": [
@@ -120735,7 +120764,7 @@
    "Saguenay, QC": "https://pipsc.ca/group/afs-saguenay-qc-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/sous-groupe-vfs-saguenay-aga-6-octobre-2026/",
-  "scrapedAt": "2026-09-23T20:22:27.932Z"
+  "scrapedAt": "2026-09-24T20:30:26.923Z"
  },
  "87088": {
   "id": 87088,
@@ -120769,5 +120798,38 @@
   },
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-de-st-johns/",
   "scrapedAt": "2026-09-23T20:22:25.509Z"
+ },
+ "87123": {
+  "id": 87123,
+  "slug": "it-southwest-nova-subgroup-2026-annual-general-meeting",
+  "link": "https://pipsc.ca/events/it-southwest-nova-subgroup-2026-annual-general-meeting/",
+  "title": "IT Southwest Nova Subgroup 2026 Annual General Meeting",
+  "published": "2026-09-24T19:02:36",
+  "modified": "2026-09-24T19:02:38",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    1323
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-27",
+  "endDate": "2026-10-27",
+  "startTime": "17:00",
+  "endTime": "19:00",
+  "tzLabel": "AT",
+  "raw": "October 27, 2026 - October 27, 2026 | 5:00 PM - 7:00 PM (AT)",
+  "location": [
+   "Paddy's Pub",
+   "42 Aberdeen Street",
+   "Kentville"
+  ],
+  "description": "The PIPSC IT Southwest Nova Subgroup will be hosting its Annual General Meeting (AGM) on October 27th, 2026, at Paddy’s Pub, Kentville NS on the Mezzanine level. The IT Southwest Nova Subgroup AGM is a great time to gather with your fellow IT members, mingle with Subgroup Executives and potentially win one of the many door prizes. Subgroup Executive elections (Subgroup President, VP and Treasurer/Secretary) will be part of this meeting. Subgroup member’s meal and drinks are covered by the subgroup, just bring your appetite.Date: Tuesday, October 27, 2026. RSVPs are due by October 20th. Time: 5:00 p.m. – 7:00 p.m. Location: Paddy’s Pub, 42 Aberdeen Street, Kentville, NS Also, if you are a member not attending due to distance of the AGM from your work/home, please respond accordingly and be entered into one of our door prize draws. NOTE: If you have any dietary concerns, please identify in the RSVP.",
+  "links": {
+   "Southwest Nova Scotia": "https://pipsc.ca/group/cs-southwest-nova-scotia-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/assemblee-generale-annuelle-aga-du-sous-groupe-ti-du-sud-ouest-de-la-nouvelle-ecosse/",
+  "scrapedAt": "2026-09-24T20:30:25.438Z"
  }
 }
