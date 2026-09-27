@@ -49282,7 +49282,7 @@
   "link": "https://pipsc.ca/events/introduction-a-la-sante-et-securite-au-travail-en-presentiel/",
   "title": "Introduction à la Santé et sécurité au travail (en présentiel)",
   "published": "2026-02-03T16:55:14",
-  "modified": "2026-02-03T16:55:14",
+  "modified": "2026-09-27T15:01:21",
   "taxonomies": {
    "region": [
     459
@@ -49293,10 +49293,10 @@
   },
   "startDate": "2025-04-23",
   "endDate": "2025-04-25",
-  "startTime": "13:00",
-  "endTime": "21:00",
+  "startTime": "09:00",
+  "endTime": "17:00",
   "tzLabel": "ET",
-  "raw": "April 23, 2025 - April 25, 2025 | 1:00 PM - 9:00 PM (ET)",
+  "raw": "April 23, 2025 - April 25, 2025 | 9:00 AM - 5:00 PM (ET)",
   "location": [
    "L'Estrimont suites et spa",
    "L'Estrimont suites et spa",
@@ -49306,8 +49306,8 @@
   "links": {
    "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
   },
-  "frLink": "https://pipsc.ca/fr/",
-  "scrapedAt": "2026-07-14T15:45:13.024Z"
+  "frLink": "https://pipsc.ca/fr/events/introduction-a-la-sante-et-securite-au-travail-en-presentiel-avril-2025/",
+  "scrapedAt": "2026-09-27T20:08:54.979Z"
  },
  "8232": {
   "id": 8232,
@@ -99177,7 +99177,7 @@
   "link": "https://pipsc.ca/events/nr-executive-committee-meeting-sept-11-25-hybrid/",
   "title": "NR Executive Committee Meeting (Hybrid)",
   "published": "2026-05-29T18:26:21",
-  "modified": "2026-08-28T14:04:21",
+  "modified": "2026-09-27T15:35:29",
   "taxonomies": {
    "region": [],
    "group": [
@@ -99202,7 +99202,7 @@
    "Engineering, Architecture and Land Survey Group": "https://pipsc.ca/group/engineering-architecture-and-land-survey-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-du-comite-executif-nr-11-sept-26-hybride/",
-  "scrapedAt": "2026-08-28T17:27:04.030Z"
+  "scrapedAt": "2026-09-27T20:08:53.619Z"
  },
  "76732": {
   "id": 76732,
