@@ -3814,5 +3814,34 @@
   "description": "Published October 2, 2026 | Last updated 6 hours ago You’re invited to the PIPSC CP Vancouver Sub-Group Movie event featuring The Cat in the Hat! When: Saturday, November 7, 2026 at 9:00 AM (movie starts promptly at 9:30 AM)Where: New Westminster Landmark Cinema, 800 Carnarvon St #390, New Westminster Each member may request up to 2 tickets. Each ticket includes a popcorn and a soft drink. BUTTON: RSVP NOW If you have any questions, please email Amy Lee at alee@pipsc.ca. In solidarity, Amy LeeTreasurer, CP Vancouver Sub-Group, PIPSC www.zeffy.com/en-CA/ticketing/pipsc-vancouver-subgroup-saturday-movie-event-cat-in-the-hat-nov-07–2026",
   "source": "news",
   "scrapedAt": "2026-10-02T21:19:45.377Z"
+ },
+ "87550": {
+  "id": 87550,
+  "slug": "virtual-lunch-and-learn-sp-bargaining-101",
+  "link": "https://pipsc.ca/virtual-lunch-and-learn-sp-bargaining-101/",
+  "title": "Virtual Lunch and Learn – SP Bargaining 101",
+  "published": "2026-10-05T20:14:19",
+  "modified": "2026-10-05T20:14:54",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    171,
+    843
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-10-20",
+  "endDate": "2026-10-20",
+  "startTime": "12:00",
+  "endTime": "13:00",
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "Virtually via Zoom A minimum number of RSVPs is required to host this lunch and learn. We will confirm the session with registered participants before the event"
+  ],
+  "description": "Published October 5, 2026 | Last updated 2 hours ago The PIPSC SP Lower Mainland BC Sub-Group is hosting a collaborative lunch and learn on the SP bargaining proposal. The session will provide an overview of the proposal and an opportunity for members to ask questions. When: October 20, 2026, from 12:00 to 1:00 PMWhere: Virtually via Zoom A minimum number of RSVPs is required to host this lunch and learn. We will confirm the session with registered participants before the event. Please RSVP by October 20 using this link. Zoom meeting details will be shared with registered participants in advance. We look forward to seeing you there! In solidarity, Bryan ChenPresident, SP Vancouver Sub-Group, PIPSCforms.gle/ZC4rSuVfQLhLShrW9",
+  "source": "news",
+  "scrapedAt": "2026-10-05T23:09:59.165Z"
  }
 }
