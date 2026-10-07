@@ -2449,6 +2449,58 @@
   "2626": {
    "name": "Drumheller, AB",
    "slug": "sh-drumheller-ab-en"
+  },
+  "2645": {
+   "name": "Not applicable",
+   "slug": "la-not-applicable-en"
+  },
+  "2647": {
+   "name": "Not applicable",
+   "slug": "dlnu-not-applicable-en"
+  },
+  "2649": {
+   "name": "Not applicable",
+   "slug": "wgh-not-applicable-en"
+  },
+  "2651": {
+   "name": "Not applicable",
+   "slug": "parks-not-applicable-en"
+  },
+  "2653": {
+   "name": "Not applicable",
+   "slug": "agh-not-applicable-en"
+  },
+  "2655": {
+   "name": "Not applicable",
+   "slug": "ccortor-not-applicable-en"
+  },
+  "2656": {
+   "name": "CCORT-OR - Civic Hospital Site, Ottawa, ON",
+   "slug": "ccortor-ccort-or-civic-hospital-site-ottawa-on-en"
+  },
+  "2659": {
+   "name": "CCORT-OR - General Hospital Site, Ottawa, ON",
+   "slug": "ccortor-ccort-or-general-hospital-site-ottawa-on-en"
+  },
+  "2660": {
+   "name": "CCORT-OR - Breast Screening Clinic, Ottawa, ON",
+   "slug": "ccortor-ccort-or-breast-screening-clinic-ottawa-on-en"
+  },
+  "2663": {
+   "name": "Not applicable",
+   "slug": "nscaa-not-applicable-en"
+  },
+  "2665": {
+   "name": "Not applicable",
+   "slug": "cse-not-applicable-en"
+  },
+  "2666": {
+   "name": "Not applicable",
+   "slug": "cmc-not-applicable-en"
+  },
+  "2669": {
+   "name": "Not applicable",
+   "slug": "opeepm-not-applicable-en"
   }
  },
  "employer": {
