@@ -3879,5 +3879,33 @@
   "description": "Published October 7, 2026 | Last updated 1 day ago We are excited to invite you to a dine-out series of events! Members of all ages are welcome. When: Thursday, October 22, 2026 at 6:00 PMWhere: The Pawn Shop YVR – 1117 Granville St, VancouverCost: $5 per person This event brings together members in the Vancouver and Greater Vancouver (Lower Mainland) region. Members of the regional executive, along with stewards, will be present to engage and answer questions. Whether you’re looking to expand your social circle and professional network, have questions about your union, or just want to get full value from your dues, there are plenty of reasons to come out! Please RSVP by October 20 using this link. Space is limited, and priority is given to those who have never attended a union event. We will email successful registrants to confirm their spot by October 20; at that time, a $5 non-refundable deposit will be required within 24 hours via e-transfer. We look forward to seeing you there!",
   "source": "news",
   "scrapedAt": "2026-10-08T22:04:34.637Z"
+ },
+ "87821": {
+  "id": 87821,
+  "slug": "rmg-agm-notice-2026",
+  "link": "https://pipsc.ca/rmg-agm-notice-2026/",
+  "title": "RMG AGM 2026",
+  "published": "2026-10-09T20:34:36",
+  "modified": "2026-10-09T20:44:28",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    158
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-11-26",
+  "endDate": "2026-11-26",
+  "startTime": "13:00",
+  "endTime": "17:00",
+  "tzLabel": "ET",
+  "localTimes": true,
+  "location": [
+   "Rogers Centre 55 Colonel By Drive Ottawa ON K1N 9J2 The National Retired Members Guild (RMG) is holding its 2026 Annual General Meeting. All members of the Guil"
+  ],
+  "description": "When: November 26, 2026 from 1:00 PM to 5:00 PM ET.Where: Rogers Centre 55 Colonel By Drive Ottawa ON K1N 9J2 The National Retired Members Guild (RMG) is holding its 2026 Annual General Meeting. All members of the Guild are cordially invited. The meeting will be hybrid, to allow all members an opportunity to participate in the meeting. Any amendments to the ByLaws must be received by October 29, 2026. Please note that spaces are limited. You can RSVP to attend in person here You can RSVP to attend virtually here The deadline to RSVP for this event is November 13th. If you have already registered for the AGM via your PIPSC AGM registration, please do not register twice.Agenda items will include: adoption of minutes from the 2025 Annual General Meeting report from the President annual Financial Report including 2027 Budget proposed amendments to the Guild’s Constitution and By-Laws guest speaker TBD discussion of initiatives being undertaken by the Guild The 2025 minutes and proposed by-law changes, if any, are located here. After the meeting, you will have the opportunity to chat with the members of the Guild Executive for a brief reception till 6:00pm.NOTE: Any amendment to the Constitution and By-Laws shall take effect upon ratification at the Guild AGM and approval by PIPSC. By-Law 9.1 stipulates that the Annual General Meeting of the Guild “shall be open to all members of the Guild who wish to attend at their own expense.” Thus, the RMG does not reimburse any expenses incu",
+  "source": "news",
+  "scrapedAt": "2026-10-09T21:41:13.585Z"
  }
 }
