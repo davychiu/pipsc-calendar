@@ -119673,7 +119673,7 @@
   "link": "https://pipsc.ca/events/st-johns-it-subgroup-2026-agm/",
   "title": "St. John’s IT Subgroup 2026 AGM",
   "published": "2026-09-23T16:44:22",
-  "modified": "2026-10-09T17:25:02",
+  "modified": "2026-10-15T17:52:29",
   "taxonomies": {
    "region": [],
    "group": [
@@ -119682,23 +119682,23 @@
    "employer": [],
    "chapter": []
   },
-  "startDate": "2026-10-28",
-  "endDate": "2026-10-28",
+  "startDate": "2026-10-29",
+  "endDate": "2026-10-29",
   "startTime": "18:00",
   "endTime": "20:00",
   "tzLabel": "NT",
-  "raw": "October 28, 2026 - October 28, 2026 | 6:00 PM - 8:00 PM (NT)",
+  "raw": "October 29, 2026 - October 29, 2026 | 6:00 PM - 8:00 PM (NT)",
   "location": [
    "St. John's Curling Club / Re-Max Centre",
    "135 Mayor Avenue",
    "St. John's"
   ],
-  "description": "The St. John’s IT Subgroup is holding its AGM on Wednesday, Oct. 28, 2026, at 6:00 p.m. at St. John’s Curling Club/Re-Max Center – 135 Mayor Avenue.Guest Speakers: Rob Scott, IT Group Executive President, Tamara Critch, IT Group Executive ElectionsPositions up for election are: President – 2-year term Treasurer – 2-year term Members at Large – four for 2-year term Agenda6 p.m. – Call to OrderOpening RemarksApproval of AgendaReview and Approve Minutes from the 2025 AGMBusiness Arising from the MinutesPresident’s ReportFinancial Report and BudgetMotions by the MembersElectionsGuest SpeakersAdjournment If you have questions or would like to RSVP, please contact the Subgroup President, Jeremy Korchoski at it_stjohns_subgroup@pipsc.ca. I’m looking forward to seeing you all!In solidarity,Jeremy KorchoskiPresident, St. John’s IT Subgroup, PIPSC",
+  "description": "The St. John’s IT Subgroup is holding its AGM on Thursday, Oct. 29, 2026, at 6:00 p.m. at St. John’s Curling Club/Re-Max Center – 135 Mayor Avenue.Guest Speakers: Rob Scott, IT Group Executive President, Tamara Critch, IT Group Executive ElectionsPositions up for election are: President – 2-year term Treasurer – 2-year term Members at Large – four for 2-year term Agenda6 p.m. – Call to OrderOpening RemarksApproval of AgendaReview and Approve Minutes from the 2025 AGMBusiness Arising from the MinutesPresident’s ReportFinancial Report and BudgetMotions by the MembersElectionsGuest SpeakersAdjournment If you have questions or would like to RSVP, please contact the Subgroup President, Jeremy Korchoski at it_stjohns_subgroup@pipsc.ca. I’m looking forward to seeing you all!In solidarity,Jeremy KorchoskiPresident, St. John’s IT Subgroup, PIPSC",
   "links": {
    "St. John's, NL": "https://pipsc.ca/group/cs-st-johns-nl-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-de-st-johns/",
-  "scrapedAt": "2026-10-09T21:41:30.925Z"
+  "scrapedAt": "2026-10-15T20:20:51.273Z"
  },
  "87104": {
   "id": 87104,
@@ -121735,6 +121735,39 @@
   "localTimes": true,
   "scrapedAt": "2026-10-14T20:41:53.569Z"
  },
+ "87956": {
+  "id": 87956,
+  "slug": "moncton-branch-season-social",
+  "link": "https://pipsc.ca/events/moncton-branch-season-social/",
+  "title": "Moncton Branch Season Social",
+  "published": "2026-10-15T17:06:01",
+  "modified": "2026-10-15T17:06:03",
+  "taxonomies": {
+   "region": [
+    1527
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-09",
+  "endDate": "2026-12-09",
+  "startTime": "18:00",
+  "endTime": "20:30",
+  "tzLabel": "AT",
+  "raw": "December 9, 2026 - December 9, 2026 | 6:00 PM - 8:30 PM (AT)",
+  "location": [
+   "Moncton Coliseum Complex - Entrance C",
+   "377 Killam Drive",
+   "Moncton"
+  ],
+  "description": "Join your PIPSC colleagues for a superb evening and enjoy a traditional holiday buffet, drinks and music! Date: Wednesday, December 9, 2026 Time: 6:00 PM, doors open at 5:30 PM Place: Moncton Coliseum Complex – 377 Killam Drive, Moncton – Entrance C Menu: Festive Feast Main – Slow roasted turkey, gravy, cranberries, savoury stuffing, buttery mashed potatoes, seasonal vegetables, garden salad, bakery rolls and butter. Dessert – Apple crisp and whipped cream, coffee and tea. Costs: Members – There is no cost to members, all members in attendance will receive their meal, 2 drink tickets, and an entry for door prizes draw. Guests – Cost of $40.00 payable in CASH at the door. Limit of one guest per member. Guests will not receive drink tickets or door prize entry. Musical entertainment: Clinton Fernandez A 50/50 draw will be held, with proceeds going to Food Depot Alimentaire. Tickets sale will be by CASH only. ***SPACE IS LIMITED – MAKE SURE YOU RESERVE YOUR SPOT EARLY AS POSSIBLE.*** Please register no later than 5:00 PM on December 1st, 2026. A confirmation email will be sent once we have received your registration. We look forward to seeing you!",
+  "links": {
+   "Moncton, NB": "https://pipsc.ca/region/atl-moncton-nb-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/section-de-moncton-soiree-sociale-de-saison/",
+  "scrapedAt": "2026-10-15T20:20:52.454Z"
+ },
  "87958": {
   "id": 87958,
   "slug": "pipsc-it-saskatoon-prince-albert-sub-group-invites-its-members-to-the-annual-general-meeting-on-tuesday-november-10th-2026",
@@ -121773,7 +121806,7 @@
   "link": "https://pipsc.ca/events/bc-yukon-regional-council-3/",
   "title": "BC/Yukon Regional Council",
   "published": "2026-10-14T18:26:21",
-  "modified": "2026-10-14T18:55:21",
+  "modified": "2026-10-15T11:57:20",
   "taxonomies": {
    "region": [
     518
@@ -121797,7 +121830,7 @@
    "British Columbia & Yukon Region": "https://pipsc.ca/region/british-columbia-yukon-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/bc-yukon-regional-council-3/",
-  "scrapedAt": "2026-10-14T20:41:45.354Z"
+  "scrapedAt": "2026-10-15T20:20:53.835Z"
  },
  "87989": {
   "id": 87989,
