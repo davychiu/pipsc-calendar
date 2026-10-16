@@ -120731,7 +120731,7 @@
   "link": "https://pipsc.ca/events/moncton-nr-subgroup-agm/",
   "title": "Moncton NR Subgroup AGM",
   "published": "2026-10-06T12:53:38",
-  "modified": "2026-10-06T12:53:40",
+  "modified": "2026-10-16T18:58:13",
   "taxonomies": {
    "region": [],
    "group": [
@@ -120751,12 +120751,12 @@
    "137 McLaughlin Drive",
    "Moncton"
   ],
-  "description": "The Moncton NR Subgroup is holding its AGM on December 10th, 2026 at 6:00 p.m. at Tony’s Bistro, 137 McLaughlin Drive in Moncton. The deadline to register for the AGM is December 1st. If you have questions, please contact me at mhclassic@rogers.com. I’m looking forward to seeing you all!In solidarity,David Melanson, P. Eng.President, Moncton NR Subgroup, PIPSC",
+  "description": "The Moncton NR Subgroup is holding its AGM on December 10th, 2026 at 6:00 p.m. at Tony’s Bistro, 137 McLaughlin Drive in Moncton. The deadline to register for the AGM is December 1st. To RSVP, or if you have any questions, please contact me at mhclassic@rogers.com. I’m looking forward to seeing you all!In solidarity,David Melanson, P. Eng.President, Moncton NR Subgroup, PIPSC",
   "links": {
    "Moncton, NB": "https://pipsc.ca/group/nr-moncton-nb-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/lassemblee-generale-annuelle-du-sous-groupe-de-moncton-nr/",
-  "scrapedAt": "2026-10-06T21:38:05.747Z"
+  "scrapedAt": "2026-10-16T19:57:41.339Z"
  },
  "87562": {
   "id": 87562,
@@ -121257,6 +121257,38 @@
   "frLink": "https://pipsc.ca/fr/events/bc-yuk-regional-executive-meeting-8/",
   "scrapedAt": "2026-10-14T20:41:56.417Z"
  },
+ "87749": {
+  "id": 87749,
+  "slug": "pipsc-cp-gatineau-cp-ottawa-movie-night-2026",
+  "link": "https://pipsc.ca/events/pipsc-cp-gatineau-cp-ottawa-movie-night-2026/",
+  "title": "PIPSC CP Gatineau & CP Ottawa Movie Night 2026",
+  "published": "2026-10-16T13:13:17",
+  "modified": "2026-10-16T18:13:00",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    256
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-11-23",
+  "endDate": "2026-11-23",
+  "startTime": "18:00",
+  "endTime": null,
+  "tzLabel": null,
+  "raw": "",
+  "location": [
+   "Scotiabank Theatre Ottawa, 2385 City Park Drive, Ottawa Each member may request up to 2 tickets, with a choice of one small popcorn, one large candy, or one sof"
+  ],
+  "description": "Dear CP Gatineau & CP Ottawa Sub-Group Members, You’re invited to the PIPSC CP Gatineau and CP Ottawa Sub-Groups Movie Night, featuring The Hunger Games: Sunrise on the Reaping! When: Monday, November 23, 2026 (registration starts at 6:00 PM, event starts at 6:45 PM)Where: Scotiabank Theatre Ottawa, 2385 City Park Drive, Ottawa Each member may request up to 2 tickets, with a choice of one small popcorn, one large candy, or one soft drink. Space is limited. Please register early to secure your tickets. Registration will close on November 18 or when we reach capacity. RSVP now If you have any questions, please email Natalia Kim at cpottawa.cpgatineau.events@gmail.com. In solidarity, CP Gatineau and CP Ottawa Sub-Group Executives",
+  "links": {
+   "Commerce & Purchasing Group": "https://pipsc.ca/group/commerce-purchasing-group-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/soiree-cinema-des-sous-groupes-cp-gatineau-et-cp-ottawa-de-lipfpc/",
+  "localTimes": true,
+  "scrapedAt": "2026-10-16T19:57:42.787Z"
+ },
  "87752": {
   "id": 87752,
   "slug": "quebec-steward-council-2027",
@@ -121705,9 +121737,9 @@
   "id": 87952,
   "slug": "shawinigan-afs-sub-group-holiday-games-night-december-18-2026",
   "link": "https://pipsc.ca/events/shawinigan-afs-sub-group-holiday-games-night-december-18-2026/",
-  "title": "Shawinigan AFS Sub-Group- Holiday Games Night- December 18, 2026",
+  "title": "Shawinigan AFS Sub-Group- Holiday Games Night- December 4 , 2026",
   "published": "2026-10-14T15:47:16",
-  "modified": "2026-10-14T15:53:03",
+  "modified": "2026-10-16T13:44:47",
   "taxonomies": {
    "region": [],
    "group": [
@@ -121717,23 +121749,20 @@
    "employer": [],
    "chapter": []
   },
-  "startDate": "2026-12-18",
-  "endDate": "2026-12-18",
-  "startTime": "17:00",
-  "endTime": "21:00",
-  "tzLabel": "ET",
+  "startDate": null,
+  "endDate": null,
+  "startTime": null,
+  "endTime": null,
+  "tzLabel": null,
   "raw": "",
-  "location": [
-   "652 5e rue de la Pointe, Shawinigan, QC G9N 1E9"
-  ],
-  "description": "Dear Member, The holidays are just around the corner, and what better way to kick off the festivities than a night of games with colleagues? The Shawinigan AFS Sub-Group invites you to its Holiday Games Night: come unwind, laugh and celebrate in good company! When: Friday, December 18, 2026, from 5:00 to 9:00 PM ET Where: 652 5e rue de la Pointe, Shawinigan, QC G9N 1E9 Games, lively conversation, snacks and a festive atmosphere: everything you need for a memorable evening. It’s also the perfect chance to meet fellow members of your sub-group and put a face to your union. Save your spot today! The event is free, but registration is required. It only takes a few clicks: https://www.eventbrite.ca/e/soiree-ludique-de-noel-vfs-ipfpc-tickets-2003346797199 The more the merrier: invite your fellow members to sign up with you! We can’t wait to celebrate with you! In solidarity, ********************************************************************** Shawinigan Executive Audit, Financial and Scientific Sub-Group Professional Institute of the Public Service of Canada ► Email: vfs.shawinigan@pipsc.ca ► Web: http://www.pipsc.ca",
+  "location": [],
+  "description": "Dear Member, The holidays are just around the corner, and what better way to kick off the festivities than a night of games with colleagues? The Shawinigan AFS Sub-Group invites you to its Holiday Games Night: come unwind, laugh and celebrate in good company! When: Friday, December 4 , 2026, from 5:00 to 9:00 PM ET Where: 652 5e rue de la Pointe, Shawinigan, QC G9N 1E9 Games, lively conversation, snacks and a festive atmosphere: everything you need for a memorable evening. It’s also the perfect chance to meet fellow members of your sub-group and put a face to your union. Save your spot today! The event is free, but registration is required. It only takes a few clicks: https://www.eventbrite.ca/e/soiree-ludique-de-noel-vfs-ipfpc-tickets-2003346797199 The more the merrier: invite your fellow members to sign up with you! We can’t wait to celebrate with you! In solidarity, ********************************************************************** Shawinigan Executive Audit, Financial and Scientific Sub-Group Professional Institute of the Public Service of Canada ► Email: vfs.shawinigan@pipsc.ca ► Web: http://www.pipsc.ca",
   "links": {
    "Audit, Financial & Scientific Group": "https://pipsc.ca/group/audit-financial-scientific-group-en/",
    "Shawinigan, QC": "https://pipsc.ca/group/afs-shawinigan-qc-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/sous-groupe-vfs-de-shawinigan-soiree-ludique-de-noel-18-decembre-2026/",
-  "localTimes": true,
-  "scrapedAt": "2026-10-14T20:41:53.569Z"
+  "scrapedAt": "2026-10-16T19:57:45.811Z"
  },
  "87956": {
   "id": 87956,
@@ -121913,5 +121942,37 @@
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/ccsp-25e-centre-des-services-de-sante-des-forces/",
   "scrapedAt": "2026-10-16T09:50:31.556Z"
+ },
+ "88197": {
+  "id": 88197,
+  "slug": "winnipeg-and-southern-manitoba-brandon-annual-open-house-2026",
+  "link": "https://pipsc.ca/events/winnipeg-and-southern-manitoba-brandon-annual-open-house-2026/",
+  "title": "Winnipeg and Southern Manitoba – Brandon Annual Open House 2026",
+  "published": "2026-10-16T17:00:50",
+  "modified": "2026-10-16T17:00:52",
+  "taxonomies": {
+   "region": [
+    2125
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-03",
+  "endDate": "2026-12-03",
+  "startTime": "17:00",
+  "endTime": "19:00",
+  "tzLabel": "CT",
+  "raw": "December 3, 2026 - December 3, 2026 | 5:00 PM - 7:00 PM (CT)",
+  "location": [
+   "Flea Whiskey's",
+   "601 Erin St Winnipeg"
+  ],
+  "description": "When: December 03, 2026 5:00pm – 7:00pm Where: Flea Whiskey’s 601 Erin St Winnipeg Please join the Winnipeg and Southern Manitoba Branch executive for our annual open house. We will provide a beverage, appetizers and have pool tables available for those interested. Additional food and beverages are available for purchase. The attached lot has free parking after 5:00 pm. If you have any food allergies, contact Pramesh at pselliah@pipsc.ca to make the arrangement. This event is open to regular and retired PIPSC members only. You must provide a valid membership number. If you do not know your membership number go to the PIPSC website and click on the Member Tools tab. From here you can Find your Membership Number; Request a New Membership Card; or for those that have not joined PIPSC follow How to Become Member. To register for the event please click on the link below. Register by November 25th,2026. https://docs.google.com/forms/d/e/1FAIpQLSeY1D_uoS9CmecXJ0bOiiMGClPip5FkwLP8v5oFpuyL1IGr8Q/viewform?usp=publish-editor",
+  "links": {
+   "Winnipeg & Southern Manitoba, MB": "https://pipsc.ca/region/prai-winnipeg-southern-manitoba-mb-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/section-de-winnipeg-et-du-sud-du-manitoba-journee-portes-ouvertes-annuelle-2026/",
+  "scrapedAt": "2026-10-16T19:57:44.211Z"
  }
 }
