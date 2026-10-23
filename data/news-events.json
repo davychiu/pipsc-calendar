@@ -3935,5 +3935,34 @@
   "description": "You’re invited to BCFNHA Group Mini-Golf! When: Tuesday, November 24, 2026, from 5:30 PM to 7:00 PM PT Where: West Coast Mini Putt, 7391 Elmbridge Way, Richmond, BC V6X 1B8 RSVP by filling out this form. If you have questions, please contact Priya Prabakaran at pprabakaran@pipsc.ca.",
   "source": "news",
   "scrapedAt": "2026-10-21T20:37:56.637Z"
+ },
+ "88690": {
+  "id": 88690,
+  "slug": "dinner-bc-yukon-young-professionals-and-victoria-branch",
+  "link": "https://pipsc.ca/dinner-bc-yukon-young-professionals-and-victoria-branch/",
+  "title": "Dinner: BC-Yukon Young Professionals and Victoria Branch",
+  "published": "2026-10-23T15:15:51",
+  "modified": "2026-10-23T15:17:27",
+  "taxonomies": {
+   "region": [
+    518,
+    1699
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-11-17",
+  "endDate": "2026-11-17",
+  "startTime": "18:00",
+  "endTime": null,
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "4 Mile Restaurant & Brewpub (199 Island Hwy, Victoria, BC V9B 1G1)"
+  ],
+  "description": "Published October 23, 2026 | Last updated 5 hours ago The BC-Yukon Young Professionals Committee and Victoria Branch invite you to join fellow PIPSC members for a Dine-Out event in Victoria! All PIPSC members are welcome. Connect with other PIPSC members in the Greater Victoria region, build your network, and learn more about your union over an evening of food and conversation. When: Tuesday, November 17, 2026 at 6:00 PMWhere: 4 Mile Restaurant & Brewpub (199 Island Hwy, Victoria, BC V9B 1G1) Cost: PIPSC will subsidize up to $50 per member toward the cost of the meal. Members are responsible for any additional costs. RSVP here before November 13, 2026. Space is limited to the first 25 registrants. Join us to: Meet other PIPSC members from your community Connect with others who share your interests Build professional and social connections Learn more about how you can get involved with PIPSC",
+  "source": "news",
+  "scrapedAt": "2026-10-23T20:26:38.717Z"
  }
 }
