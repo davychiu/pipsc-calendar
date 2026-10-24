@@ -13658,7 +13658,7 @@
   "link": "https://pipsc.ca/events/prairie-nwt-regional-executive-meeting-sub-meeting-september-24-2026-9-am-4-pm/",
   "title": "Prairie/NWT Regional Executive Meeting (Sub-Meeting) – September 24, 2026 – 9 am – 4 pm",
   "published": "2026-01-29T19:39:24",
-  "modified": "2026-08-10T15:51:11",
+  "modified": "2026-10-23T21:50:26",
   "taxonomies": {
    "region": [
     507
@@ -13669,10 +13669,10 @@
   },
   "startDate": "2026-09-24",
   "endDate": "2026-09-24",
-  "startTime": "15:00",
-  "endTime": "22:00",
+  "startTime": "09:00",
+  "endTime": "16:00",
   "tzLabel": "MT",
-  "raw": "September 24, 2026 - September 24, 2026 | 3:00 PM - 10:00 PM (MT)",
+  "raw": "September 24, 2026 - September 24, 2026 | 9:00 AM - 4:00 PM (MT)",
   "location": [
    "The Westin Edmonton",
    "10135 - 100th Street",
@@ -13683,7 +13683,7 @@
    "Prairie/Northwest Territories Region": "https://pipsc.ca/region/prairie-northwest-territories-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-lexecutif-regional-des-prairies-et-des-territoires-du-nord-ouest-sous-reunion-24-septembre-2026-9-h-a-16-h/",
-  "scrapedAt": "2026-08-10T18:03:37.772Z"
+  "scrapedAt": "2026-10-24T09:32:31.915Z"
  },
  "5206": {
   "id": 5206,
@@ -116937,7 +116937,7 @@
   "link": "https://pipsc.ca/events/sh-bargaining-meeting-with-tbs-november/",
   "title": "SH Bargaining Meeting with TBS- November",
   "published": "2026-08-20T17:23:21",
-  "modified": "2026-10-14T16:12:21",
+  "modified": "2026-10-23T21:01:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -116961,7 +116961,7 @@
    "Applied Science and Patent Examination Group": "https://pipsc.ca/group/applied-science-and-patent-examination-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-negociation-entre-sh-et-tbs-novembre/",
-  "scrapedAt": "2026-10-14T20:41:52.133Z"
+  "scrapedAt": "2026-10-24T09:32:32.667Z"
  },
  "84940": {
   "id": 84940,
@@ -121507,7 +121507,7 @@
   "link": "https://pipsc.ca/events/mage-bargaining-preparation-oct-22-23-26-in-person/",
   "title": "MAGE – Bargaining preparation – Oct 22-23/26 [in-person]",
   "published": "2026-10-09T16:42:23",
-  "modified": "2026-10-21T17:01:21",
+  "modified": "2026-10-23T22:01:25",
   "taxonomies": {
    "region": [],
    "group": [
@@ -121532,7 +121532,7 @@
    "Manitoba Association of Government Engineers Group": "https://pipsc.ca/group/manitoba-association-of-government-engineers-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/mage-prep-aux-negociations-22-23-oct-26-en-presentiel/",
-  "scrapedAt": "2026-10-21T20:38:04.934Z"
+  "scrapedAt": "2026-10-24T09:32:30.483Z"
  },
  "87813": {
   "id": 87813,
