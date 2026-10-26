@@ -10538,7 +10538,7 @@
   "link": "https://pipsc.ca/events/pipsc-agm-2026/",
   "title": "PIPSC AGM 2026",
   "published": "2026-01-29T19:38:45",
-  "modified": "2026-10-23T13:35:21",
+  "modified": "2026-10-26T11:14:20",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -10559,7 +10559,7 @@
   "description": "Event contact: PIPSC AGM Team / Équipe de l’AGA de l’IPFPC Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted appro",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/aga-2026-de-lipfpc/",
-  "scrapedAt": "2026-10-23T20:26:52.914Z"
+  "scrapedAt": "2026-10-26T21:38:33.437Z"
  },
  "4960": {
   "id": 4960,
@@ -114224,7 +114224,7 @@
   "link": "https://pipsc.ca/events/sac-meeting-11/",
   "title": "SAC Meeting",
   "published": "2026-06-30T17:48:21",
-  "modified": "2026-09-14T17:42:25",
+  "modified": "2026-10-26T16:01:23",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -114245,7 +114245,7 @@
   "description": "Event contact: Marielle Nadon Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be de",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/reunion-du-ccs-9/",
-  "scrapedAt": "2026-09-14T20:57:06.262Z"
+  "scrapedAt": "2026-10-26T21:38:24.164Z"
  },
  "81068": {
   "id": 81068,
@@ -119469,7 +119469,7 @@
   "link": "https://pipsc.ca/events/cfia-sa-executive-committee-meeting-and-agm-nov-7-26-hybrid/",
   "title": "CFIA-S&A Executive Committee Meeting and AGM (Hybrid)",
   "published": "2026-09-15T19:08:21",
-  "modified": "2026-10-23T00:00:20",
+  "modified": "2026-10-26T12:45:20",
   "taxonomies": {
    "region": [],
    "group": [
@@ -119494,7 +119494,7 @@
    "CFIA - Scientific and Analytical Group": "https://pipsc.ca/group/cfia-scientific-and-analytical-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-du-comite-executif-et-aga-du-groupe-acia-sa-7-nov-26-hybride/",
-  "scrapedAt": "2026-10-23T10:04:14.174Z"
+  "scrapedAt": "2026-10-26T21:38:30.772Z"
  },
  "86853": {
   "id": 86853,
@@ -120369,7 +120369,7 @@
   "link": "https://pipsc.ca/events/sp-bargaining-with-tbs-2/",
   "title": "SP Bargaining with TBS",
   "published": "2026-10-01T17:18:21",
-  "modified": "2026-10-21T21:01:21",
+  "modified": "2026-10-26T17:31:23",
   "taxonomies": {
    "region": [],
    "group": [
@@ -120379,11 +120379,11 @@
    "chapter": []
   },
   "startDate": "2026-10-20",
-  "endDate": "2026-10-21",
+  "endDate": "2026-10-22",
   "startTime": "09:00",
   "endTime": "17:00",
   "tzLabel": "ET",
-  "raw": "October 20, 2026 - October 21, 2026 | 9:00 AM - 5:00 PM (ET)",
+  "raw": "October 20, 2026 - October 22, 2026 | 9:00 AM - 5:00 PM (ET)",
   "location": [
    "TBS Office",
    "90 Elgin",
@@ -120394,7 +120394,7 @@
    "Applied Science and Patent Examination Group": "https://pipsc.ca/group/applied-science-and-patent-examination-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-negociation-entre-le-sp-et-le-sct-2/",
-  "scrapedAt": "2026-10-22T10:11:35.307Z"
+  "scrapedAt": "2026-10-26T21:38:21.515Z"
  },
  "87414": {
   "id": 87414,
@@ -121056,7 +121056,7 @@
   "link": "https://pipsc.ca/events/2026-sun-rt-annual-general-meeting-agm-in-person/",
   "title": "2026 SUN-RT Annual General Meeting (AGM) [In-Person]",
   "published": "2026-10-07T18:53:21",
-  "modified": "2026-10-10T15:31:20",
+  "modified": "2026-10-26T16:01:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -121080,7 +121080,7 @@
    "Sunnybrook Health Sciences Centre Radiation Therapists Group": "https://pipsc.ca/group/sunnybrook-health-sciences-centre-radiation-therapists-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/assemblee-generale-annuelle-aga-2026-de-rt-sun-en-presentiel/",
-  "scrapedAt": "2026-10-10T20:33:55.626Z"
+  "scrapedAt": "2026-10-26T21:38:25.502Z"
  },
  "87684": {
   "id": 87684,
@@ -121787,7 +121787,7 @@
   "link": "https://pipsc.ca/events/moncton-branch-season-social/",
   "title": "Moncton Branch Season Social",
   "published": "2026-10-15T17:06:01",
-  "modified": "2026-10-15T17:06:03",
+  "modified": "2026-10-26T18:08:55",
   "taxonomies": {
    "region": [
     1527
@@ -121807,12 +121807,12 @@
    "377 Killam Drive",
    "Moncton"
   ],
-  "description": "Join your PIPSC colleagues for a superb evening and enjoy a traditional holiday buffet, drinks and music! Date: Wednesday, December 9, 2026 Time: 6:00 PM, doors open at 5:30 PM Place: Moncton Coliseum Complex – 377 Killam Drive, Moncton – Entrance C Menu: Festive Feast Main – Slow roasted turkey, gravy, cranberries, savoury stuffing, buttery mashed potatoes, seasonal vegetables, garden salad, bakery rolls and butter. Dessert – Apple crisp and whipped cream, coffee and tea. Costs: Members – There is no cost to members, all members in attendance will receive their meal, 2 drink tickets, and an entry for door prizes draw. Guests – Cost of $40.00 payable in CASH at the door. Limit of one guest per member. Guests will not receive drink tickets or door prize entry. Musical entertainment: Clinton Fernandez A 50/50 draw will be held, with proceeds going to Food Depot Alimentaire. Tickets sale will be by CASH only. ***SPACE IS LIMITED – MAKE SURE YOU RESERVE YOUR SPOT EARLY AS POSSIBLE.*** Please register no later than 5:00 PM on December 1st, 2026. A confirmation email will be sent once we have received your registration. We look forward to seeing you!",
+  "description": "Join your PIPSC colleagues for a superb evening and enjoy a traditional holiday buffet, drinks and music! Date: Wednesday, December 9, 2026 Time: 6:00 PM, doors open at 5:30 PM Place: Moncton Coliseum Complex – 377 Killam Drive, Moncton – Entrance CSpecial Guests: • Sean O’Reilly, PIPSC President • Mark Bellefleur, Atlantic Regional Director Menu: Festive Feast Main – Slow roasted turkey, gravy, cranberries, savoury stuffing, buttery mashed potatoes, seasonal vegetables, garden salad, bakery rolls and butter. Dessert – Apple crisp and whipped cream, coffee and tea. Costs: Members – There is no cost to members, all members in attendance will receive their meal, 2 drink tickets, and an entry for door prizes draw. Guests – Cost of $40.00 payable in CASH at the door. Limit of one guest per member. Guests will not receive drink tickets or door prize entry. Musical entertainment: Clinton Fernandez A 50/50 draw will be held, with proceeds going to Food Depot Alimentaire. Tickets sale will be by CASH only. ***SPACE IS LIMITED – MAKE SURE YOU RESERVE YOUR SPOT EARLY AS POSSIBLE.*** Please register no later than 5:00 PM on December 1st, 2026. A confirmation email will be sent once we have received your registration. We look forward to seeing you!",
   "links": {
    "Moncton, NB": "https://pipsc.ca/region/atl-moncton-nb-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/section-de-moncton-soiree-sociale-de-saison/",
-  "scrapedAt": "2026-10-15T20:20:52.454Z"
+  "scrapedAt": "2026-10-26T21:38:19.880Z"
  },
  "87958": {
   "id": 87958,
@@ -122403,7 +122403,7 @@
   "link": "https://pipsc.ca/events/cfia-vm-executive-committee-meeting-nov-14-26-hybrid/",
   "title": "CFIA-VM Executive Committee Meeting (Hybrid)",
   "published": "2026-10-22T12:53:21",
-  "modified": "2026-10-23T00:00:09",
+  "modified": "2026-10-26T16:28:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -122428,15 +122428,15 @@
    "CFIA - Veterinary Medicine Group": "https://pipsc.ca/group/cfia-veterinary-medicine-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-du-comite-executif-acia-vm-14-nov-26-hybride/",
-  "scrapedAt": "2026-10-23T10:04:17.785Z"
+  "scrapedAt": "2026-10-26T21:38:22.884Z"
  },
  "88496": {
   "id": 88496,
   "slug": "uoitp-bargaining-prep-meetings-oct-27-28-in-person",
   "link": "https://pipsc.ca/events/uoitp-bargaining-prep-meetings-oct-27-28-in-person/",
-  "title": "UOITP Bargaining Prep Meetings – Oct 27-28 (In-Person)",
+  "title": "UOITP Bargaining Prep Meetings – Oct 27 & 29 (In-Person)",
   "published": "2026-10-22T13:04:21",
-  "modified": "2026-10-22T13:04:21",
+  "modified": "2026-10-26T21:25:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -122446,21 +122446,22 @@
    "chapter": []
   },
   "startDate": "2026-10-27",
-  "endDate": "2026-10-28",
+  "endDate": "2026-10-29",
   "startTime": "09:00",
   "endTime": "17:00",
   "tzLabel": "ET",
-  "raw": "October 27, 2026 - October 28, 2026 | 9:00 AM - 5:00 PM (ET)",
+  "raw": "October 27, 2026 - October 29, 2026 | 9:00 AM - 5:00 PM (ET)",
   "location": [
+   "Michele Demers Conference Centre",
    "250 Tremblay Rd",
    "Ottawa"
   ],
-  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "description": "Event contact: Erica-Martine Jean Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will b",
   "links": {
    "University of Ottawa Information Technology Professional Group": "https://pipsc.ca/group/university-of-ottawa-information-technology-professional-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-preparatoire-a-la-negociation-uoitp-27-28-oct-en-personne/",
-  "scrapedAt": "2026-10-22T20:34:05.828Z"
+  "scrapedAt": "2026-10-26T21:38:15.862Z"
  },
  "88502": {
   "id": 88502,
@@ -122604,7 +122605,7 @@
   "link": "https://pipsc.ca/events/advisory-council-meeting-of-december-5-2026/",
   "title": "Advisory Council Meeting of December 5, 2026",
   "published": "2026-10-22T13:27:21",
-  "modified": "2026-10-23T20:07:27",
+  "modified": "2026-10-26T13:37:21",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -122625,7 +122626,7 @@
   "description": "Event contact: Erica-Martine Jean Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will b",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/reunion-du-conseil-consultatif-du-5-decembre-2026/",
-  "scrapedAt": "2026-10-23T20:26:42.595Z"
+  "scrapedAt": "2026-10-26T21:38:29.410Z"
  },
  "88541": {
   "id": 88541,
@@ -122752,9 +122753,9 @@
   "id": 88560,
   "slug": "it-sub-group-presidents-meeting-march-20-27-in-person",
   "link": "https://pipsc.ca/events/it-sub-group-presidents-meeting-march-20-27-in-person/",
-  "title": "IT Sub-Group Presidents’ Meeting March 20/27 (In Person)",
+  "title": "IT Sub-Group Presidents’ Meeting (In Person)",
   "published": "2026-10-22T16:38:21",
-  "modified": "2026-10-23T00:00:09",
+  "modified": "2026-10-26T19:49:21",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -122775,7 +122776,7 @@
   "description": "Event contact: Elizabeth Morin Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be d",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/rencontre-des-presidents-des-sous-groupe-ti-20-mars-27-en-personne/",
-  "scrapedAt": "2026-10-23T10:04:19.899Z"
+  "scrapedAt": "2026-10-26T21:38:18.606Z"
  },
  "88635": {
   "id": 88635,
@@ -122904,7 +122905,7 @@
   "link": "https://pipsc.ca/events/nr-fredericton-sub-group-2026-agm/",
   "title": "NR Fredericton Sub-Group 2026 AGM",
   "published": "2026-10-23T20:13:04",
-  "modified": "2026-10-23T20:13:07",
+  "modified": "2026-10-26T11:57:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -122920,11 +122921,103 @@
   "tzLabel": "AT",
   "raw": "November 18, 2026 - November 18, 2026 | 5:00 PM - 7:30 PM (AT)",
   "location": [],
-  "description": "You are invited to attend the 11th Annual General Meeting (AGM). This AGM is planned for PIPSC members of the “PIPSC NR Sub-Group Fredericton” (i.e., Engineers and Architects / EN- ENG and AR, and Land Surveyors ENG-SUR), who are working in the Fredericton, NB. WHEN: November 18, 2026, from 5:30 to 7:30 pm AT WHERE: Sam Sneads (Kingswood) Restaurant, 1700 Kingswood Way, Hanwell, NB Agenda Registration / Meet and Greet Call to Order President – Welcome and Introduction Approval of Agenda Election of President (2-year term), Secretary (2-year term) and Vice-President (Interim 1-year term) President’s Report Financial Report – Budget Guest Speaker – Mike Pauley, NR President Update on Bargaining Issues affecting NR members nationally New Business New DND Branch Proposed Sub-Group Activity(ies) – Volunteers Adjournment Registration To register to attend the AGM, please contact the sub-group secretary, Gabriel Picard at picardg@pipsc.ca, by November 12th at 12 noon AT. If you have any dietary restrictions, please include that in your email. Best Regards, NR Fredericton Sub-Group Executive",
+  "description": "You are invited to attend the 11th Annual General Meeting (AGM). This AGM is planned for PIPSC members of the “PIPSC NR Sub-Group Fredericton” (i.e., Engineers and Architects / EN- ENG and AR, and Land Surveyors ENG-SUR), who are working at the federal level in the area of Fredericton, NB. WHEN: November 18, 2026, from 5:30 to 7:30 pm AT WHERE: Sam Sneads (Kingswood) Restaurant, 1700 Kingswood Way, Hanwell, NB Agenda Registration / Meet and Greet Call to Order President – Welcome and Introduction Approval of Agenda Election of President (2-year term), Secretary (2-year term) and Vice-President (Interim 1-year term) President’s Report Financial Report – Budget Guest Speaker – Mike Pauley, NR President Update on Bargaining Issues affecting NR members nationally New Business New DND Branch Proposed Sub-Group Activity(ies) – Volunteers Adjournment Registration To register to attend the AGM, please contact the sub-group secretary, Gabriel Picard at picardg@pipsc.ca, by November 12th at 12 noon AT. Sub-group members will be allowed to order one meal of their choice from Sam Snead’s regular menu. Best Regards, NR Fredericton Sub-Group Executive",
   "links": {
    "Fredericton, NB": "https://pipsc.ca/group/nr-fredericton-nb-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-nr-fredericton/",
-  "scrapedAt": "2026-10-23T20:26:41.211Z"
+  "scrapedAt": "2026-10-26T21:38:32.114Z"
+ },
+ "88717": {
+  "id": 88717,
+  "slug": "itowsg-movie-and-trivia-event",
+  "link": "https://pipsc.ca/events/itowsg-movie-and-trivia-event/",
+  "title": "ITOWSG Movie and Trivia Event",
+  "published": "2026-10-26T13:48:23",
+  "modified": "2026-10-26T13:56:39",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    904
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-06",
+  "endDate": "2026-12-06",
+  "startTime": "09:30",
+  "endTime": "12:00",
+  "tzLabel": "ET",
+  "raw": "December 6, 2026 - December 6, 2026 | 9:30 AM - 12:00 PM (ET)",
+  "location": [],
+  "description": "Who: ITOWSG members + 1 guestWhere: Nepean (The exact address will be provided in a confirmation email)When: Sunday, December 6, 2026, from 9:30 a.m. to 12 p.m. PIPSC ITOWSG (IT Ottawa-West Sub-group) is pleased to invite you and one guest to a movie and trivia event. Additional guests must be indicated during registration, but you will be responsible for their cost. Due to space limitations, a maximum of 3 headcounts per member will be enforced. Complete the registration form by November 29, 2026. Selected attendees will be notified by December 1, 2026. Concessions will be provided. Venue offers free parking. Kindly send any questions to itowsg@pipsc.ca. In solidarity,IT Ottawa-West Sub-group Executives",
+  "links": {
+   "Ottawa-West, NCR": "https://pipsc.ca/group/cs-ottawa-west-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/evenement-film-et-jeu-de-questions-reponses-du-sgtioo/",
+  "scrapedAt": "2026-10-26T21:38:28.127Z"
+ },
+ "88731": {
+  "id": 88731,
+  "slug": "501-university-crescent-sp-subgroup-lunch-and-learn-nov-18-2026",
+  "link": "https://pipsc.ca/events/501-university-crescent-sp-subgroup-lunch-and-learn-nov-18-2026/",
+  "title": "501 University Crescent SP Subgroup Lunch and Learn – Nov 18, 2026",
+  "published": "2026-10-26T15:22:29",
+  "modified": "2026-10-26T15:22:31",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    795
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-11-18",
+  "endDate": "2026-11-18",
+  "startTime": "12:00",
+  "endTime": null,
+  "tzLabel": "CT",
+  "raw": "November 18, 2026 | 12:00 PM - (CT)",
+  "location": [
+   "Fresh Water Institute (DFO) Winnipeg Large Seminar Rm",
+   "501 University Crescent, Winnipeg MB"
+  ],
+  "description": "You’re invited to the SP Subgroup Collective Agreement Topics lunch & learn Date: Wednesday, November 18, 2026 Time: 1200 CT Location: Fresh Water Institute (DFO) Winnipeg Large Seminar Rm RSVP Deadline: November 11, 2026 HOW TO RSVP: PIPSC 501 University Crescent Lunch and Learn 2026 MEETING OR EVENT INFORMATION – Lunch and information open to all PIPSC members working at the Fresh Water Institute AGENDA Learn about Grievances, Performance management, CLC investigations, and SP Bargaining Updates If you have questions please contact: Tracey Loewen: Tracy.Loewen@dfo-mpo.gc.ca Sheila Atchison: Sheila.Atchison@dfo-mpo.gc.ca Regina Sobowale: Regina.Sobowale@dfo-mpo.gc.ca Jody Willis: Jody.Willis@dfo-mpo.gc.ca Tara Bortoluzzi: Tara.Bortoluzzi@dfo-mpo.gc.ca Brendan Spearin: Brendan.Spearin@dfo-mpo.gc.ca Watson Ernest: Ernest.Watson@dfo-mpo.gc.ca Kamula Michelle: Michelle.Kamula@dfo-mpo.gc.ca Kellett Madelaine: Madelaine.Kellett@dfo-mpo.gc.ca Cassin Jennifer: Jennifer.Cassin@dfo-mpo.gc.ca Drake Allison: Allison.Drake@dfo-mpo.gc.ca We look forward to seeing you there!",
+  "links": {
+   "501 University Crescent, Winnipeg, MB": "https://pipsc.ca/group/sp-501-university-crescent-winnipeg-mb-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/diner-dinformation-du-sous-groupe-sp-du-501-rue-university-18-novembre-2026/",
+  "scrapedAt": "2026-10-26T21:38:26.842Z"
+ },
+ "88772": {
+  "id": 88772,
+  "slug": "monteregie-branch-agm-november-24-2026",
+  "link": "https://pipsc.ca/events/monteregie-branch-agm-november-24-2026/",
+  "title": "Montérégie Branch- AGM- November 24, 2026",
+  "published": "2026-10-26T20:10:33",
+  "modified": "2026-10-26T20:10:35",
+  "taxonomies": {
+   "region": [
+    469,
+    459
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": null,
+  "endDate": null,
+  "startTime": null,
+  "endTime": null,
+  "tzLabel": null,
+  "raw": "",
+  "location": [],
+  "description": "NOTICE TO ATTEND THE ANNUAL GENERAL MEETING MONTÉRÉGIE BRANCH DATE: Tuesday, November 24, 2026 TIME: 5:30 PM LOCATION: CASA GRECQUE RESTAURANT 8245 Taschereau Boulevard Brossard, QC (450) 443-0323 ANNUAL GENERAL MEETING Your Annual General Meeting will take place on Tuesday, November 24, 2026 beginning at 5:30 PM. As the number of places available for the dinner is limited, please confirm your attendance by November 13, 2026, by registering at the following link: AGA 2026 Inscriptions A confirmation email, including the agenda, will be sent to you at the latest by November 17, 2026. The meal and consumption will be offered by the Montérégie Branch. You will find at the Institute’s site (Quebec Region Branches/Monteregie): The Branch AGM minutes of October 16, 2025 will be submitted for your approval at this year’s AGM Call for nominations for positions on the Executive These documents will be available in electronic format only. Please read them prior to the meeting. From your Executive Montérégie Branch Executives ELECTIONS Call for Nominations To all members of the Montérégie Section of the Professional Institute of the Public Service of Canada (PIPSC). Pursuant to Articles 4 and 7 of the By-Laws of the Montérégie Section, notice is hereby given that certain positions on the Section Executive will be filled by election at the 2026 Annual General Meeting to be held on November 24, 2026. The following positions are open for election: Position Term President 2 years Secretary ",
+  "links": {
+   "Montérégie, QC": "https://pipsc.ca/region/que-monteregie-qc-en/",
+   "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/",
+  "scrapedAt": "2026-10-26T21:38:17.320Z"
  }
 }
