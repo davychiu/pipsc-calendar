@@ -3964,5 +3964,36 @@
   "description": "Published October 23, 2026 | Last updated 3 days ago The BC-Yukon Young Professionals Committee and Victoria Branch invite you to join fellow PIPSC members for a Dine-Out event in Victoria! All PIPSC members are welcome. Connect with other PIPSC members in the Greater Victoria region, build your network, and learn more about your union over an evening of food and conversation. When: Tuesday, November 17, 2026 at 6:00 PMWhere: 4 Mile Restaurant & Brewpub (199 Island Hwy, Victoria, BC V9B 1G1) Cost: PIPSC will subsidize up to $50 per member toward the cost of the meal. Members are responsible for any additional costs. RSVP here before November 13, 2026. Space is limited to the first 25 registrants. Join us to: Meet other PIPSC members from your community Connect with others who share your interests Build professional and social connections Learn more about how you can get involved with PIPSC",
   "source": "news",
   "scrapedAt": "2026-10-26T21:38:15.297Z"
+ },
+ "88945": {
+  "id": 88945,
+  "slug": "cfia-sa-guelph-subgroup-holiday-dinner-december-10-2026",
+  "link": "https://pipsc.ca/cfia-sa-guelph-subgroup-holiday-dinner-december-10-2026/",
+  "title": "CFIA-S&A Guelph Subgroup Holiday Dinner – December 10, 2026",
+  "published": "2026-10-28T20:04:20",
+  "modified": "2026-10-28T20:06:10",
+  "taxonomies": {
+   "region": [
+    516
+   ],
+   "group": [],
+   "employer": [
+    2132,
+    2138
+   ],
+   "chapter": []
+  },
+  "startDate": "2026-12-10",
+  "endDate": "2026-12-10",
+  "startTime": "17:00",
+  "endTime": null,
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "Romero’s Restaurant @ 355 Elmira Rd N, Unit 101, Guelph ON N1K 1S5 Restaurant details: Dinner Menu — Romero’s Mediterranean and Italian Restaurant"
+  ],
+  "description": "Published October 28, 2026 | Last updated 1 hour ago The PIPSC CFIA-S&A Guelph Subgroup will be hosting its Holiday Dinner. When: Thursday December 10, 2026, starting at 5pm. Where: Romero’s Restaurant @ 355 Elmira Rd N, Unit 101, Guelph ON N1K 1S5 Restaurant details: Dinner Menu — Romero’s Mediterranean and Italian Restaurant Please RSVP to Joyce Garofalo at jgarofalo@pipsc.ca by Thursday December 3, 2026, at noon, to reserve your seat. Guests may order off the menu up to $35 total before tax. Take-out or delivery options will not be considered. We look forward to seeing you there!”",
+  "source": "news",
+  "scrapedAt": "2026-10-28T21:39:16.164Z"
  }
 }
