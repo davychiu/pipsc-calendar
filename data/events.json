@@ -10538,7 +10538,7 @@
   "link": "https://pipsc.ca/events/pipsc-agm-2026/",
   "title": "PIPSC AGM 2026",
   "published": "2026-01-29T19:38:45",
-  "modified": "2026-10-29T12:56:21",
+  "modified": "2026-10-30T11:19:21",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -10559,7 +10559,7 @@
   "description": "Event contact: PIPSC AGM Team / Équipe de l’AGA de l’IPFPC Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted appro",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/aga-2026-de-lipfpc/",
-  "scrapedAt": "2026-10-29T21:49:03.925Z"
+  "scrapedAt": "2026-10-30T11:24:12.374Z"
  },
  "4960": {
   "id": 4960,
@@ -81922,7 +81922,7 @@
   "link": "https://pipsc.ca/events/it-st-johns-sub-group-agm-in-person/",
   "title": "IT St. John’s Sub-Group AGM (In Person)",
   "published": "2026-02-03T17:02:55",
-  "modified": "2026-02-03T17:02:55",
+  "modified": "2026-10-30T02:00:27",
   "taxonomies": {
    "region": [],
    "group": [
@@ -81933,10 +81933,10 @@
   },
   "startDate": "2025-10-29",
   "endDate": "2025-10-29",
-  "startTime": "20:30",
-  "endTime": "22:30",
+  "startTime": "18:00",
+  "endTime": "20:00",
   "tzLabel": "NT",
-  "raw": "October 29, 2025 - October 29, 2025 | 8:30 PM - 10:30 PM (NT)",
+  "raw": "October 29, 2025 - October 29, 2025 | 6:00 PM - 8:00 PM (NT)",
   "location": [
    "Paradise Double Ice Complex",
    "68 McNamara Dr",
@@ -81947,7 +81947,7 @@
    "St. John's, NL": "https://pipsc.ca/group/sp-st-johns-nl-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-du-sous-groupe-ti-st-johns-29-oct-25-en-personne/",
-  "scrapedAt": "2026-07-14T15:19:17.219Z"
+  "scrapedAt": "2026-10-30T11:24:13.753Z"
  },
  "10837": {
   "id": 10837,
@@ -120015,7 +120015,7 @@
   "link": "https://pipsc.ca/events/it-st-johns-sub-group-2026-in-person/",
   "title": "IT St. John’s Sub-Group 2026 (In person)",
   "published": "2026-09-26T11:41:27",
-  "modified": "2026-10-08T19:01:21",
+  "modified": "2026-10-30T00:01:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -120040,7 +120040,7 @@
    "St. John's, NL": "https://pipsc.ca/group/sp-st-johns-nl-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-st-johns-29-oct-26-en-personne/",
-  "scrapedAt": "2026-10-08T22:04:40.874Z"
+  "scrapedAt": "2026-10-30T11:24:15.124Z"
  },
  "87206": {
   "id": 87206,
