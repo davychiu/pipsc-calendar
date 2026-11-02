@@ -3995,5 +3995,65 @@
   "description": "Published October 28, 2026 | Last updated 3 days ago The PIPSC CFIA-S&A Guelph Subgroup will be hosting its Holiday Dinner. When: Thursday December 10, 2026, starting at 5pm. Where: Romero’s Restaurant @ 355 Elmira Rd N, Unit 101, Guelph ON N1K 1S5 Restaurant details: Dinner Menu — Romero’s Mediterranean and Italian Restaurant Please RSVP to Joyce Garofalo at jgarofalo@pipsc.ca by Thursday December 3, 2026, at noon, to reserve your seat. Guests may order off the menu up to $35 total before tax. Take-out or delivery options will not be considered. We look forward to seeing you there!”",
   "source": "news",
   "scrapedAt": "2026-11-01T16:23:54.371Z"
+ },
+ "89209": {
+  "id": 89209,
+  "slug": "notice-of-the-cp-group-toronto-sub-group-2026-agm",
+  "link": "https://pipsc.ca/notice-of-the-cp-group-toronto-sub-group-2026-agm/",
+  "title": "NOTICE OF THE CP GROUP TORONTO SUB-GROUP 2026 AGM",
+  "published": "2026-11-02T20:36:00",
+  "modified": "2026-11-02T20:48:52",
+  "taxonomies": {
+   "region": [
+    516
+   ],
+   "group": [
+    256,
+    1159
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-11-24",
+  "endDate": "2026-11-24",
+  "startTime": "12:00",
+  "endTime": "13:00",
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "Virtually and in-person at 151 Yonge St, 4th Floor Boardroom, Toronto, ON"
+  ],
+  "description": "Published November 2, 2026 | Last updated 3 hours ago WHEN: Tuesday, November 24, 2026, 12:00 to 1:00PMWHERE: Virtually and in-person at 151 Yonge St, 4th Floor Boardroom, Toronto, ON VIRTUAL ZOOM LINK: Join Zoom Meeting https://pipsc.zoom.us/j/93880101486?pwd=RAYtzNgLBFCIXuF7bXP3By2DllgLTK.1Meeting ID: 938 8010 1486Passcode: 164503 2026 AGM – AGENDA 1. Roll Call2. Approval of the Agenda3. Adoption of the 2025 AGM Minutes4. Business Arising from the Minutes5. Report of the President6. Annual Financial Report of the Treasurer7. Approval of Budget8. Speaker CP Group ON Regional Representative – Elaine Ewers9. Election10. New Business and By-Law Amendments11. Adjournment2026 ELECTION – CALL FOR NOMINATIONS In accordance with the By-Laws of the PIPSC CP (formerly AV) Toronto Subgroup, the following positions: one VP position (two-year term), one Treasurer position (two-year term), one Secretary position (one-year term) and four Member-at-Large positions (two-year terms), to be filled by election at the 2026 AGM. Nominations may be submitted in writing by email or may be made from the floor of the Sub-Group AGM. Each nomination must be made by a member in good standing (one can self-nominate) and seconded by another member in good standing. Please send advance nominations to the Election Committee to Sub-Group President Emily Beckerman at emilybeckerman@pipsc.ca. We look forward to your attendance on November 24, 2026. On behalf of the CP Toronto Sub-Group ExecutiveEmily Beckerman",
+  "source": "news",
+  "scrapedAt": "2026-11-02T23:52:47.944Z"
+ },
+ "89251": {
+  "id": 89251,
+  "slug": "south-vancouver-island-it-subgroup-2026-agm",
+  "link": "https://pipsc.ca/south-vancouver-island-it-subgroup-2026-agm/",
+  "title": "South Vancouver Island IT Subgroup 2026 AGM",
+  "published": "2026-11-02T22:44:05",
+  "modified": "2026-11-02T22:44:08",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    331,
+    1082
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-02",
+  "endDate": "2026-12-02",
+  "startTime": "17:30",
+  "endTime": null,
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "Milestones, 812 Wharf St, Victoria"
+  ],
+  "description": "Published November 2, 2026 | Last updated 1 hour ago All IT member in good standing in southern Vancouver Island are invited to the South Vancouver Island IT Sub-Group’s Annual General Meeting(AGM). Join fellow IT members for a free dinner and hear from guest speaker Dave Sutherland, PIPSC Vice-President. When: Wednesday, December 2, 2026, starting at 5:30 PMWhere: Milestones, 812 Wharf St, Victoria Please confirm your attendance and dinner choices by emailing eandiarodriguez@pipsc.ca by November 26. Spouses and partners are welcome, but the member must cover the cost of their meals. Agenda Acceptance of the agenda Review and approval of the 2025 AGM minutes Reports from the IT Sub-Group Executive Guest Speaker: PIPSC Vice President Dave Sutherland Sub-Group Executive Elections Nominations and Elections Elections will be held for the following positions: President (2-year term) Treasurer (2-year term) Members at large (2-year terms) Nominations close at 4:00 PM on November 25, 2026. Additional nominations may be made at the AGM. Please send nominations to the Sub-Group Election Committee Chair, Unika Attridge, at uattridge@pipsc.ca. AGM Schedule: 5:30 PM Social 6:00 PM Dinner and AGM Dinner menu: Choose 1 item from each: starters, mains, and dessert Starters: Soup or salad Mushroom soup or California spring salad or Caesar salad Mains: Grilled peppercorn sirloin: 6oz top sirloin, peppercorn sauce, seasonal vegetables, roasted garlic mashed potatoes Marsala pork chop: 11oz cho",
+  "source": "news",
+  "scrapedAt": "2026-11-02T23:52:47.938Z"
  }
 }
