@@ -4084,5 +4084,33 @@
   "description": "Published November 3, 2026 | Last updated 4 hours ago You’re invited to join the CP Vancouver Sub-Group for a paint night featuring a winter polar bear theme! A light meal will be served. When: Thursday, December 10, 2026 at 6:30 PM PDT Where: Royal Canadian Legion Branch #148, 4350 Hastings St, Burnaby, BC V5C 2J9 Free street parking is available. Each member may request up to 2 tickets. Space is limited to 25 participants. Register before December 7, 2026, and pay a $5 deposit per person. The deposit will be refunded only to those who attend the event. For more information on the event, including how to RSVP, please visit this web page. If you have any questions, please email Cathy Hsieh at chsieh@pipsc.ca In solidarity, Amy LeeOn behalf of your CP Vancouver Sub-Group Executive, PIPSC",
   "source": "news",
   "scrapedAt": "2026-11-03T22:18:04.645Z"
+ },
+ "89648": {
+  "id": 89648,
+  "slug": "pipsc-guelph-kitchener-branch-kitchener-afs-subgroup",
+  "link": "https://pipsc.ca/pipsc-guelph-kitchener-branch-kitchener-afs-subgroup/",
+  "title": "PIPSC Guelph/Kitchener Branch & Kitchener AFS Subgroup",
+  "published": "2026-11-08T23:50:23",
+  "modified": "2026-11-08T23:50:40",
+  "taxonomies": {
+   "region": [
+    516
+   ],
+   "group": [
+    847
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-01",
+  "endDate": "2026-12-01",
+  "startTime": "17:00",
+  "endTime": null,
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [],
+  "description": "Published November 8, 2026 | Last updated 14 hours ago Guelph/Kitchener Branch & Kitchener AFS Subgroup invites members to attend our Holiday Social Dinner When: Tuesday December 1, 2026 Doors open at 5pm Dinner @ 6pm RSVP to: kwafsmember@gmail.com Location: Golf Steak House: 598 Lancaster St W, Kitchener (Ballroom) **NOTE: This event will have a CASH BAR** Please reply by November 25 to reserve your seat.",
+  "source": "news",
+  "scrapedAt": "2026-11-09T13:54:40.679Z"
  }
 }
