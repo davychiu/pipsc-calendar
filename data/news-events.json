@@ -4109,8 +4109,38 @@
   "tzLabel": null,
   "localTimes": true,
   "location": [],
-  "description": "Published November 8, 2026 | Last updated 14 hours ago Guelph/Kitchener Branch & Kitchener AFS Subgroup invites members to attend our Holiday Social Dinner When: Tuesday December 1, 2026 Doors open at 5pm Dinner @ 6pm RSVP to: kwafsmember@gmail.com Location: Golf Steak House: 598 Lancaster St W, Kitchener (Ballroom) **NOTE: This event will have a CASH BAR** Please reply by November 25 to reserve your seat.",
+  "description": "Published November 8, 2026 | Last updated 1 day ago Guelph/Kitchener Branch & Kitchener AFS Subgroup invites members to attend our Holiday Social Dinner When: Tuesday December 1, 2026 Doors open at 5pm Dinner @ 6pm RSVP to: kwafsmember@gmail.com Location: Golf Steak House: 598 Lancaster St W, Kitchener (Ballroom) **NOTE: This event will have a CASH BAR** Please reply by November 25 to reserve your seat.",
   "source": "news",
-  "scrapedAt": "2026-11-09T13:54:40.679Z"
+  "scrapedAt": "2026-11-10T00:41:25.846Z"
+ },
+ "89705": {
+  "id": 89705,
+  "slug": "victoria-branch-and-victoria-cra-bowling-event",
+  "link": "https://pipsc.ca/victoria-branch-and-victoria-cra-bowling-event/",
+  "title": "Victoria Branch and Victoria CRA bowling event",
+  "published": "2026-11-09T17:38:13",
+  "modified": "2026-11-09T17:38:15",
+  "taxonomies": {
+   "region": [
+    518,
+    1691,
+    1699
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-12",
+  "endDate": "2026-12-12",
+  "startTime": "11:30",
+  "endTime": "13:30",
+  "tzLabel": null,
+  "localTimes": true,
+  "location": [
+   "Langford Lanes, 1097 Langford Pkwy, Victoria, BC"
+  ],
+  "description": "Published November 9, 2026 | Last updated 7 hours ago You’re invited to the Victoria Branch and Victoria CRA bowling event! When: Saturday, December 12, 2026, from 11:30 AM to 13:30 PM PCTWhere: Langford Lanes, 1097 Langford Pkwy, Victoria, BC, V9B 0A5This event is open to all Victoria Branch and Victoria CRA members and their families. Lunch and beverages will be provided. RSVP here by December 7, 2026. Space is limited, and registrations will be accepted on a first-come, first-served basis. You’ll receive a confirmation email once your registration is complete. If your plans change, please cancel early via email Gem Frances at gryhanen@pipsc.ca so another member can take your spot.",
+  "source": "news",
+  "scrapedAt": "2026-11-10T00:41:25.838Z"
  }
 }
