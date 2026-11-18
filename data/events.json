@@ -87743,7 +87743,7 @@
   "link": "https://pipsc.ca/events/bc-yukon-basic-steward-training-fall/",
   "title": "BC/Yukon Basic Steward Training Fall",
   "published": "2026-03-03T17:01:24",
-  "modified": "2026-10-31T13:23:28",
+  "modified": "2026-11-18T16:18:21",
   "taxonomies": {
    "region": [
     518
@@ -87754,21 +87754,21 @@
   },
   "startDate": "2026-11-19",
   "endDate": "2026-11-21",
-  "startTime": "13:00",
-  "endTime": "17:00",
+  "startTime": "14:00",
+  "endTime": "18:00",
   "tzLabel": "PT",
-  "raw": "November 19, 2026 - November 21, 2026 | 1:00 PM - 5:00 PM (PT)",
+  "raw": "November 19, 2026 - November 21, 2026 | 2:00 PM - 6:00 PM (PT)",
   "location": [
    "Hilton Vancouver Metrotown",
    "6083 McKay Ave, Burnaby, BC V5H 2W7",
-   "Burnaby"
+   "burnaby"
   ],
   "description": "Event contact: Patricia Fung Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be ded",
   "links": {
    "British Columbia & Yukon Region": "https://pipsc.ca/region/british-columbia-yukon-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/bc-yukon-basic-steward-training-fall/",
-  "scrapedAt": "2026-10-31T20:27:16.240Z"
+  "scrapedAt": "2026-11-18T23:24:11.008Z"
  },
  "45260": {
   "id": 45260,
@@ -97500,7 +97500,7 @@
   "link": "https://pipsc.ca/events/82nd-prairie-nwt-regional-council-agenda/",
   "title": "82nd Prairie/NWT Regional Council – Agenda",
   "published": "2026-05-19T19:50:27",
-  "modified": "2026-06-10T18:41:59",
+  "modified": "2026-11-18T20:02:26",
   "taxonomies": {
    "region": [
     507
@@ -97513,8 +97513,8 @@
   "endDate": "2026-06-13",
   "startTime": "14:00",
   "endTime": "16:30",
-  "tzLabel": null,
-  "raw": "June 12, 2026 - June 13, 2026 | 2:00 PM - 4:30 PM ()",
+  "tzLabel": "PT",
+  "raw": "June 12, 2026 - June 13, 2026 | 2:00 PM - 4:30 PM (PT)",
   "location": [
    "Matrix Hotel - Edmonton, AB"
   ],
@@ -97523,7 +97523,7 @@
    "Prairie/Northwest Territories Region": "https://pipsc.ca/region/prairie-northwest-territories-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/82e-conseil-regional-des-prairies-et-des-territoires-du-nord-ouest-ordre-du-jour/",
-  "scrapedAt": "2026-07-14T14:41:13.684Z"
+  "scrapedAt": "2026-11-18T23:23:58.324Z"
  },
  "75882": {
   "id": 75882,
@@ -121852,7 +121852,7 @@
   "link": "https://pipsc.ca/events/strategic-bargaining-committee-meeting-of-december-4-2026/",
   "title": "Strategic Bargaining Committee Meeting of December 4, 2026",
   "published": "2026-10-22T13:24:20",
-  "modified": "2026-11-11T00:00:37",
+  "modified": "2026-11-18T19:12:21",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -121873,7 +121873,7 @@
   "description": "Event contact: Erica-Martine Jean Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will b",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/reunion-du-comite-de-negociation-strategique-du-4-decembre-2026/",
-  "scrapedAt": "2026-11-11T12:43:40.497Z"
+  "scrapedAt": "2026-11-18T23:24:03.302Z"
  },
  "88514": {
   "id": 88514,
@@ -122628,7 +122628,7 @@
   "link": "https://pipsc.ca/events/ontario-and-nunavut-region-advanced-steward-training-labour-school-2/",
   "title": "Ontario and Nunavut Region Advanced Steward Training (Labour School)",
   "published": "2026-10-30T11:57:21",
-  "modified": "2026-11-16T17:27:21",
+  "modified": "2026-11-18T22:39:25",
   "taxonomies": {
    "region": [
     516
@@ -122652,7 +122652,7 @@
    "Ontario and Nunavut Region": "https://pipsc.ca/region/ontario-and-nunavut-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/formation-avancee-des-delegues-syndicaux-de-la-region-de-lontario-et-du-nunavut-ecole-syndicale/",
-  "scrapedAt": "2026-11-17T00:47:55.817Z"
+  "scrapedAt": "2026-11-18T23:23:53.020Z"
  },
  "89102": {
   "id": 89102,
@@ -122842,7 +122842,7 @@
   "link": "https://pipsc.ca/events/correctional-services-canada-atlantic-regional-labor-management-union-consultation-commitee/",
   "title": "Correctional Services Canada Atlantic Regional labor management Union consultation commitee",
   "published": "2026-10-30T16:19:21",
-  "modified": "2026-10-30T17:28:21",
+  "modified": "2026-11-18T14:32:21",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -122862,7 +122862,7 @@
   "description": "Event contact: Katherine Leblanc Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/comite-de-consultation-syndicale-patronale-de-la-region-de-latlantique-service-correctionnel-du-canada/",
-  "scrapedAt": "2026-10-30T21:30:35.472Z"
+  "scrapedAt": "2026-11-18T23:24:13.527Z"
  },
  "89178": {
   "id": 89178,
@@ -123277,6 +123277,37 @@
   "frLink": "https://pipsc.ca/fr/events/negociations-entre-le-yhc-et-lemployeur-4-au-6-novembre-2026-en-presentielle/",
   "scrapedAt": "2026-11-06T22:07:34.546Z"
  },
+ "89524": {
+  "id": 89524,
+  "slug": "cp-ottawa-sub-group-an-evening-to-connect-and-get-involved",
+  "link": "https://pipsc.ca/events/cp-ottawa-sub-group-an-evening-to-connect-and-get-involved/",
+  "title": "CP Ottawa Sub-Group: An evening to connect and get involved",
+  "published": "2026-11-18T15:17:20",
+  "modified": "2026-11-18T15:17:22",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    256,
+    1038
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-09",
+  "endDate": "2026-12-09",
+  "startTime": "17:30",
+  "endTime": "21:00",
+  "tzLabel": "ET",
+  "raw": "December 9, 2026 - December 9, 2026 | 5:30 PM - 9:00 PM (ET)",
+  "location": [],
+  "description": "Our members are facing growing concerns, from Bill C-39 and workers’ rights to bargaining and return-to-office. It’s more important than ever to strengthen our collective voice. Join us for an informal evening of networking and discussion where CP stewards, volunteers, and members interested in getting more involved can connect, share ideas and explore ways to strengthen our union. Whether you are ready to take on a more active role or simply want to learn more, we encourage you to join! When: Wednesday, December 9, from 5:30 PM to 9:00 PM (a light meal will be served)Where: The Prescott, Room Antonios, 379 Preston Street, Ottawa This is an opportunity to connect with fellow members, learn more about available opportunities, and explore how you can advance the issues and causes you care about. We will hear from speakers between 6:00 PM and 7:00 PM. Each presentation will last approximately 10 to 20 minutes, followed by questions and discussion. There are many ways to get involved, from participating in union activities to helping organize events and contributing your skills, experience, and ideas. To express your interest in attending, please complete the registration form. Space is limited. We will give priority to current stewards and volunteers, as well as members interested in getting involved. If interest exceeds available capacity, we may create a waiting list and use it to identify members interested in participating in future activities and opportunities. Your union i",
+  "links": {
+   "Commerce & Purchasing Group": "https://pipsc.ca/group/commerce-purchasing-group-en/",
+   "Ottawa, NCR": "https://pipsc.ca/group/cp-ottawa-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/sous-groupe-cp-dottawa-une-soiree-pour-tisser-des-liens-et-sengager/",
+  "scrapedAt": "2026-11-18T23:24:12.327Z"
+ },
  "89612": {
   "id": 89612,
   "slug": "indigenous-services-canada-numcc",
@@ -123311,7 +123342,7 @@
   "link": "https://pipsc.ca/events/board-of-directors-meeting-25/",
   "title": "Board of Directors Meeting",
   "published": "2026-11-06T16:35:21",
-  "modified": "2026-11-16T16:26:20",
+  "modified": "2026-11-18T22:15:25",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -123331,7 +123362,7 @@
   "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/reunion-du-conseil-dadministration-20/",
-  "scrapedAt": "2026-11-17T00:47:59.476Z"
+  "scrapedAt": "2026-11-18T23:23:55.600Z"
  },
  "89626": {
   "id": 89626,
@@ -123597,7 +123628,7 @@
   "link": "https://pipsc.ca/events/qc-basic-steward-training-april-2027/",
   "title": "Qc. Basic Steward Training April 2027",
   "published": "2026-11-12T00:00:12",
-  "modified": "2026-11-17T20:17:26",
+  "modified": "2026-11-18T16:40:21",
   "taxonomies": {
    "region": [
     459
@@ -123621,7 +123652,7 @@
    "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/cours-de-base-pour-nouveaux-delegues-avril-2027/",
-  "scrapedAt": "2026-11-17T23:51:05.584Z"
+  "scrapedAt": "2026-11-18T23:24:09.672Z"
  },
  "90001": {
   "id": 90001,
@@ -123629,7 +123660,7 @@
   "link": "https://pipsc.ca/events/ncr-exec-april2027/",
   "title": "NCR Exec April2027",
   "published": "2026-11-12T00:00:15",
-  "modified": "2026-11-12T00:00:15",
+  "modified": "2026-11-18T18:28:21",
   "taxonomies": {
    "region": [
     92
@@ -123645,15 +123676,15 @@
   "tzLabel": "ET",
   "raw": "April 1, 2027 - April 1, 2027 | 9:00 AM - 5:00 PM (ET)",
   "location": [
-   "3 Blvd du Casino",
-   "Gatineau"
+   "250 Tremblay Rd",
+   "Ottawa"
   ],
   "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
   "links": {
    "National Capital Region (including foreign)": "https://pipsc.ca/region/national-capital-region-including-foreign-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/exec-rcn-avril2027/",
-  "scrapedAt": "2026-11-12T13:46:27.651Z"
+  "scrapedAt": "2026-11-18T23:24:04.662Z"
  },
  "90002": {
   "id": 90002,
@@ -123739,7 +123770,7 @@
   "link": "https://pipsc.ca/events/introduction-to-ohs-april-2027/",
   "title": "Introduction to OHS April 2027",
   "published": "2026-11-12T15:02:21",
-  "modified": "2026-11-17T20:19:20",
+  "modified": "2026-11-18T22:23:25",
   "taxonomies": {
    "region": [
     459
@@ -123763,7 +123794,7 @@
    "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/quebec-introduction-a-la-sante-et-securite-au-travail-avril-2027/",
-  "scrapedAt": "2026-11-17T23:51:04.189Z"
+  "scrapedAt": "2026-11-18T23:23:54.368Z"
  },
  "90033": {
   "id": 90033,
@@ -123800,7 +123831,7 @@
   "link": "https://pipsc.ca/events/nfb-group-2026-agm/",
   "title": "NFB Group 2026 AGM",
   "published": "2026-11-12T17:37:23",
-  "modified": "2026-11-12T17:37:23",
+  "modified": "2026-11-18T19:22:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -123824,7 +123855,7 @@
    "National Film Board - Professional Group": "https://pipsc.ca/group/national-film-board-professional-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-du-groupe-onf-2026/",
-  "scrapedAt": "2026-11-12T22:43:53.576Z"
+  "scrapedAt": "2026-11-18T23:24:02.072Z"
  },
  "90059": {
   "id": 90059,
@@ -123874,7 +123905,7 @@
   "link": "https://pipsc.ca/events/house-of-commons-bargaining-with-employer-jan-11-12-27-in-person/",
   "title": "House Of Commons Bargaining with Employer – Jan 11-12/27 (In person)",
   "published": "2026-11-13T19:39:21",
-  "modified": "2026-11-13T19:48:21",
+  "modified": "2026-11-18T17:43:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -123898,7 +123929,7 @@
    "House of Commons Procedural Clerks, Analysis and Reference Group": "https://pipsc.ca/group/house-of-commons-procedural-clerks-analysis-and-reference-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/negociations-entre-la-cdc-et-lemployeur-11-et-12-jan-2027-en-presentiel/",
-  "scrapedAt": "2026-11-13T22:38:12.669Z"
+  "scrapedAt": "2026-11-18T23:24:07.099Z"
  },
  "90086": {
   "id": 90086,
@@ -123936,9 +123967,9 @@
   "id": 90088,
   "slug": "bcfnha-executive-committee-meeting-jan-15-2-virtual",
   "link": "https://pipsc.ca/events/bcfnha-executive-committee-meeting-jan-15-2-virtual/",
-  "title": "BCFNHA Executive Committee Meeting – Jan 15/2 [virtual]",
+  "title": "BCFNHA Executive Committee Meeting – Jan 15/27 [virtual]",
   "published": "2026-11-13T19:42:21",
-  "modified": "2026-11-13T19:42:21",
+  "modified": "2026-11-18T17:03:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -123954,12 +123985,12 @@
   "tzLabel": "PT",
   "raw": "January 15, 2027 - January 15, 2027 | 9:00 AM - 6:00 PM (PT)",
   "location": [],
-  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "description": "Event contact: C. MacFarlane Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be ded",
   "links": {
    "BC First Nations Health Authority Group": "https://pipsc.ca/group/bc-first-nations-health-authority-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-du-comite-executif-de-laspncb-15-jan-27-en-ligne/",
-  "scrapedAt": "2026-11-13T22:38:13.903Z"
+  "scrapedAt": "2026-11-18T23:24:08.336Z"
  },
  "90090": {
   "id": 90090,
@@ -124027,7 +124058,7 @@
   "link": "https://pipsc.ca/events/brandon-annual-open-house/",
   "title": "BRANDON ANNUAL OPEN HOUSE",
   "published": "2026-11-16T15:28:55",
-  "modified": "2026-11-16T15:28:57",
+  "modified": "2026-11-18T20:28:40",
   "taxonomies": {
    "region": [
     2125
@@ -124046,12 +124077,12 @@
    "The Dock On Princess",
    "1133 Princess Avenue, Brandon, MB"
   ],
-  "description": "Brandon: Thursday, December 11, 2026 6:30 pm – 8:00 pm Where: The Dock On Princess (1133 Princess Avenue, Brandon, MB) PIPSC members are cordially invited to join branch executive for appetizers and refreshments. RSVP is required for attendance Please send email confirming attendance for Brandon by noon December 7, 2026 to Mo Khakbazan “mkhakbazan@pipsc.ca”",
+  "description": "Brandon: Friday, December 11, 2026 6:30 pm – 8:00 pm Where: The Dock On Princess (1133 Princess Avenue, Brandon, MB) PIPSC members are cordially invited to join branch executive for appetizers and refreshments. RSVP is required for attendance Please send email confirming attendance for Brandon by noon December 7, 2026 to Mo Khakbazan “mkhakbazan@pipsc.ca”",
   "links": {
    "Winnipeg & Southern Manitoba, MB": "https://pipsc.ca/region/prai-winnipeg-southern-manitoba-mb-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/journee-portes-ouvertes-annuelle-a-brandon/",
-  "scrapedAt": "2026-11-17T00:48:02.131Z"
+  "scrapedAt": "2026-11-18T23:23:56.856Z"
  },
  "90104": {
   "id": 90104,
@@ -124589,5 +124620,98 @@
   },
   "frLink": "https://pipsc.ca/fr/events/sous-groupe-de-levenement-social-du-vfs-de-terre-neuve-et-labrador/",
   "scrapedAt": "2026-11-17T23:51:09.510Z"
+ },
+ "90266": {
+  "id": 90266,
+  "slug": "it-vancouver-sub-group-2026-agm-dec-10-26-in-person",
+  "link": "https://pipsc.ca/events/it-vancouver-sub-group-2026-agm-dec-10-26-in-person/",
+  "title": "IT Vancouver Sub-Group 2026 AGM Dec 10/26 (In person)",
+  "published": "2026-11-18T17:44:21",
+  "modified": "2026-11-18T17:44:21",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    727
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-10",
+  "endDate": "2026-12-10",
+  "startTime": "13:00",
+  "endTime": "14:00",
+  "tzLabel": "PT",
+  "raw": "December 10, 2026 - December 10, 2026 | 1:00 PM - 2:00 PM (PT)",
+  "location": [],
+  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "links": {
+   "Vancouver, BC": "https://pipsc.ca/group/afs-vancouver-bc-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-vancouver/",
+  "scrapedAt": "2026-11-18T23:24:05.868Z"
+ },
+ "90276": {
+  "id": 90276,
+  "slug": "bcfnha-executive-committee-meeting-mar-8-27-in-person",
+  "link": "https://pipsc.ca/events/bcfnha-executive-committee-meeting-mar-8-27-in-person/",
+  "title": "BCFNHA Executive Committee Meeting – Mar 8/27 [in person]",
+  "published": "2026-11-18T19:42:21",
+  "modified": "2026-11-18T19:42:21",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    119
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2027-03-08",
+  "endDate": "2027-03-08",
+  "startTime": "10:00",
+  "endTime": "18:00",
+  "tzLabel": "PT",
+  "raw": "March 8, 2027 - March 8, 2027 | 10:00 AM - 6:00 PM (PT)",
+  "location": [
+   "1155 Resort Dr.",
+   "Parksville"
+  ],
+  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "links": {
+   "BC First Nations Health Authority Group": "https://pipsc.ca/group/bc-first-nations-health-authority-group-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/reunion-du-comite-executif-de-laspncb-8-mar-27-en-presentiel/",
+  "scrapedAt": "2026-11-18T23:24:00.798Z"
+ },
+ "90282": {
+  "id": 90282,
+  "slug": "sen-bargaining-prep-jan-15-27-in-person",
+  "link": "https://pipsc.ca/events/sen-bargaining-prep-jan-15-27-in-person/",
+  "title": "SEN Bargaining prep. – Jan 15/27 [in person]",
+  "published": "2026-11-18T19:45:21",
+  "modified": "2026-11-18T19:45:21",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    147
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2027-01-15",
+  "endDate": "2027-01-15",
+  "startTime": "09:00",
+  "endTime": "17:00",
+  "tzLabel": "ET",
+  "raw": "January 15, 2027 - January 15, 2027 | 9:00 AM - 5:00 PM (ET)",
+  "location": [
+   "250 Tremblay",
+   "Ottawa"
+  ],
+  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "links": {
+   "Senate Legislative Clerks Group": "https://pipsc.ca/group/senate-legislative-clerks-group-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/prep-aux-negociations-sen-15-jan-27-en-presentiel/",
+  "scrapedAt": "2026-11-18T23:23:59.552Z"
  }
 }
