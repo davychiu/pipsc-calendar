@@ -113423,7 +113423,7 @@
   "link": "https://pipsc.ca/events/osfi-bargaining-prep-meeting-8/",
   "title": "OSFI Bargaining Prep Meeting",
   "published": "2026-06-23T13:28:20",
-  "modified": "2026-08-20T21:01:21",
+  "modified": "2026-11-19T04:00:38",
   "taxonomies": {
    "region": [],
    "group": [
@@ -113444,7 +113444,7 @@
    "OSFI - Professional Employees Group": "https://pipsc.ca/group/osfi-professional-employees-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-preparatoire-aux-negociations-avec-le-bsif-8/",
-  "scrapedAt": "2026-08-21T05:48:39.049Z"
+  "scrapedAt": "2026-11-19T14:26:50.015Z"
  },
  "80323": {
   "id": 80323,
@@ -115669,7 +115669,7 @@
   "link": "https://pipsc.ca/events/uoitp-bargaining-prep-meeting-aug-20-26-in-person/",
   "title": "UOITP Bargaining Prep Meeting – Aug 20/26 (In-Person)",
   "published": "2026-08-13T14:58:27",
-  "modified": "2026-08-20T21:01:23",
+  "modified": "2026-11-19T04:00:23",
   "taxonomies": {
    "region": [],
    "group": [
@@ -115694,7 +115694,7 @@
    "University of Ottawa Information Technology Professional Group": "https://pipsc.ca/group/university-of-ottawa-information-technology-professional-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/reunion-de-preparation-a-la-negociation-collective-du-groupe-uoitp-20-aout-2026-en-personne/",
-  "scrapedAt": "2026-08-21T05:48:38.312Z"
+  "scrapedAt": "2026-11-19T14:26:52.597Z"
  },
  "84670": {
   "id": 84670,
@@ -115802,7 +115802,7 @@
   "link": "https://pipsc.ca/events/professional-institute-legacy-foundation-3/",
   "title": "Professional Institute Legacy Foundation",
   "published": "2026-08-14T14:57:21",
-  "modified": "2026-08-20T19:01:20",
+  "modified": "2026-11-19T04:00:25",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -115823,7 +115823,7 @@
   "description": "Event contact: Sandrine Mandiangu Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will b",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/la-fondation-heritage-de-linstitut-professionnel-3/",
-  "scrapedAt": "2026-08-21T05:48:45.325Z"
+  "scrapedAt": "2026-11-19T14:26:51.278Z"
  },
  "84703": {
   "id": 84703,
@@ -122628,7 +122628,7 @@
   "link": "https://pipsc.ca/events/ontario-and-nunavut-region-advanced-steward-training-labour-school-2/",
   "title": "Ontario and Nunavut Region Advanced Steward Training (Labour School)",
   "published": "2026-10-30T11:57:21",
-  "modified": "2026-11-18T22:39:25",
+  "modified": "2026-11-19T14:04:20",
   "taxonomies": {
    "region": [
     516
@@ -122652,7 +122652,7 @@
    "Ontario and Nunavut Region": "https://pipsc.ca/region/ontario-and-nunavut-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/formation-avancee-des-delegues-syndicaux-de-la-region-de-lontario-et-du-nunavut-ecole-syndicale/",
-  "scrapedAt": "2026-11-18T23:23:53.020Z"
+  "scrapedAt": "2026-11-19T14:26:45.954Z"
  },
  "89102": {
   "id": 89102,
@@ -124594,7 +124594,7 @@
   "link": "https://pipsc.ca/events/newfoundland-and-labrador-afs-subgroup-social-event/",
   "title": "Newfoundland and Labrador AFS Subgroup Social Event",
   "published": "2026-11-17T17:24:38",
-  "modified": "2026-11-17T17:24:40",
+  "modified": "2026-11-19T13:15:04",
   "taxonomies": {
    "region": [],
    "group": [
@@ -124614,20 +124614,51 @@
    "187 Water Street",
    "St. John's"
   ],
-  "description": "",
+  "description": "Join us for our social event. There will be axe throwing, archery, and a rage room! Date and Time: December 4, 2026 at 7:00 p.m. – 9:00 p.m. Location: Halimac, 187 Water Street, St. John’sTo RSVP or if you have questions, please contact Andrew McGrath at amcgrath@pipsc.ca.",
   "links": {
    "Newfoundland and Labrador": "https://pipsc.ca/group/afs-newfoundland-and-labrador-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/sous-groupe-de-levenement-social-du-vfs-de-terre-neuve-et-labrador/",
-  "scrapedAt": "2026-11-17T23:51:09.510Z"
+  "scrapedAt": "2026-11-19T14:26:47.234Z"
+ },
+ "90230": {
+  "id": 90230,
+  "slug": "pipsc-owb-sign-up-for-axe-and-knife-throwing-on-november-25th",
+  "link": "https://pipsc.ca/events/pipsc-owb-sign-up-for-axe-and-knife-throwing-on-november-25th/",
+  "title": "PIPSC OWB: Sign-up for Axe and Knife Throwing on November 25th!",
+  "published": "2026-11-19T12:36:52",
+  "modified": "2026-11-19T12:36:55",
+  "taxonomies": {
+   "region": [
+    92,
+    436
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-11-25",
+  "endDate": "2026-11-25",
+  "startTime": "18:30",
+  "endTime": "21:00",
+  "tzLabel": "ET",
+  "raw": "November 25, 2026 - November 25, 2026 | 6:30 PM - 9:00 PM (ET)",
+  "location": [],
+  "description": "Dear Ottawa West Member, are you up for a challenge? Channel your inner viking and join PIPSC Ottawa West Branch in an epic night of axe and knife throwing! Whether this will be your first swing of the axe, or you’re a seasoned warrior, we hope you will come and practice your aim with us and enjoy a fun night out with your fellow OWB members. Date: Wednesday, November 25th, 2026 Time: Registration begins at 6:00 PM EST Activity will start at 6:30 PM EST Location: BATL Grounds | Ottawa 2615 Lancaster Rd #29 Ottawa, ON K1B 4Z4 Pizza and refreshments will be provided. Please register here: https://forms.gle/8Mt5ybjJdSkCNNgA6 In solidarity, PIPSC Ottawa West Branch Executive",
+  "links": {
+   "National Capital Region (including foreign)": "https://pipsc.ca/region/national-capital-region-including-foreign-en/",
+   "Ottawa West, NCR": "https://pipsc.ca/region/ncr-ottawa-west-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/succursale-dottawa-ouest-ipfcp-inscrivez-vous-a-lactivite-de-lancer-de-haches-et-de-couteaux-le-25-novembre/",
+  "scrapedAt": "2026-11-19T14:26:48.653Z"
  },
  "90266": {
   "id": 90266,
   "slug": "it-vancouver-sub-group-2026-agm-dec-10-26-in-person",
   "link": "https://pipsc.ca/events/it-vancouver-sub-group-2026-agm-dec-10-26-in-person/",
-  "title": "IT Vancouver Sub-Group 2026 AGM Dec 10/26 (In person)",
+  "title": "IT Vancouver Sub-Group 2026 AGM (In person)",
   "published": "2026-11-18T17:44:21",
-  "modified": "2026-11-18T17:44:21",
+  "modified": "2026-11-19T14:23:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -124638,17 +124669,21 @@
   },
   "startDate": "2026-12-10",
   "endDate": "2026-12-10",
-  "startTime": "13:00",
-  "endTime": "14:00",
+  "startTime": "12:30",
+  "endTime": "15:00",
   "tzLabel": "PT",
-  "raw": "December 10, 2026 - December 10, 2026 | 1:00 PM - 2:00 PM (PT)",
-  "location": [],
-  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "raw": "December 10, 2026 - December 10, 2026 | 12:30 PM - 3:00 PM (PT)",
+  "location": [
+   "Steamworks Pub",
+   "275 Water St.",
+   "Vancouver, BC"
+  ],
+  "description": "Event contact: Elizabeth Morin Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be d",
   "links": {
    "Vancouver, BC": "https://pipsc.ca/group/afs-vancouver-bc-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-vancouver/",
-  "scrapedAt": "2026-11-18T23:24:05.868Z"
+  "scrapedAt": "2026-11-19T14:26:44.573Z"
  },
  "90276": {
   "id": 90276,
