@@ -10477,7 +10477,7 @@
   "link": "https://pipsc.ca/events/pipsc-agm-2026/",
   "title": "PIPSC AGM 2026",
   "published": "2026-01-29T19:38:45",
-  "modified": "2026-11-21T05:11:27",
+  "modified": "2026-11-23T14:25:21",
   "taxonomies": {
    "region": [],
    "group": [],
@@ -10499,7 +10499,7 @@
   "description": "Event contact: PIPSC AGM Team / Équipe de l’AGA de l’IPFPC Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted appro",
   "links": {},
   "frLink": "https://pipsc.ca/fr/events/aga-2026-de-lipfpc/",
-  "scrapedAt": "2026-11-21T13:28:42.863Z"
+  "scrapedAt": "2026-11-23T15:58:58.781Z"
  },
  "4960": {
   "id": 4960,
@@ -124027,7 +124027,7 @@
   "link": "https://pipsc.ca/events/nr-bargaining-with-employer-meeting-feb-24-25-27-hybrid/",
   "title": "NR Bargaining with Employer Meeting (Hybrid)",
   "published": "2026-11-16T11:56:28",
-  "modified": "2026-11-19T18:19:20",
+  "modified": "2026-11-23T15:43:21",
   "taxonomies": {
    "region": [],
    "group": [
@@ -124052,7 +124052,7 @@
    "Engineering, Architecture and Land Survey Group": "https://pipsc.ca/group/engineering-architecture-and-land-survey-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/rencontre-pour-la-negocation-avec-lemployeur-24-25-fev-27-hybride/",
-  "scrapedAt": "2026-11-19T23:35:07.816Z"
+  "scrapedAt": "2026-11-23T15:58:57.308Z"
  },
  "90103": {
   "id": 90103,
@@ -124878,5 +124878,37 @@
   },
   "frLink": "https://pipsc.ca/fr/events/preparation-aux-negociations-du-groupe-sp-3/",
   "scrapedAt": "2026-11-20T14:01:16.831Z"
+ },
+ "90408": {
+  "id": 90408,
+  "slug": "pipsc-young-professionals-new-years-eve-manitoba-moose-game",
+  "link": "https://pipsc.ca/events/pipsc-young-professionals-new-years-eve-manitoba-moose-game/",
+  "title": "PIPSC Young Professionals New Year’s Eve Manitoba Moose Game!",
+  "published": "2026-11-23T13:47:03",
+  "modified": "2026-11-23T13:47:04",
+  "taxonomies": {
+   "region": [
+    507
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-31",
+  "endDate": "2026-12-31",
+  "startTime": "16:00",
+  "endTime": null,
+  "tzLabel": "CT",
+  "raw": "December 31, 2026 | 4:00 PM - (CT)",
+  "location": [
+   "Canada Life Centre",
+   "300 Portage Avenue, Winnipeg"
+  ],
+  "description": "This event is for Young Professional PIPSC members only who are 40 or under. If you choose two tickets your guest can be any age. When: Thursday Dec 31, 20264 PM Where: Canada Life Centre 300 Portage Ave, Winnipeg Details: You’re invited to Prairie/NWT Young Professional Committee Manitoba Moose Hockey game on New Year’s Eve! You can choose one of the following options 1 ticket and a $15 food voucher Two tickets and pay $6 out of your pocket (can bring anyone, doesn’t have to be a PIPSC member) We have awesome seats! Section 217 and they are very close to the glass. If you would like to buy more tickets please let me know. They are $28 each Please email kmcaulay@pipsc.ca to register before December 10. The number of tickets is limited so register early. Help us manage our funds and honour the registration you make. If your plans change, please be sure to cancel your registration so that another member may attend. Kyle McAulay Prairie/NWT Young Professional Committee Chair kmcaulay@pipsc.ca Winnipeg, Manitoba Help us manage our funds and honour the registration you make. If your plans change, please be sure to email kmcaulay@pipsc.ca to cancel your registration so that another member may attend.",
+  "links": {
+   "Prairie/Northwest Territories Region": "https://pipsc.ca/region/prairie-northwest-territories-region-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/soiree-de-la-veille-du-nouvel-an-des-jeunes-professionnel%c2%b7les-de-lipfpc-match-des-moose-du-manitoba/",
+  "scrapedAt": "2026-11-23T15:59:00.392Z"
  }
 }
