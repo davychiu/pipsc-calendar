@@ -114414,7 +114414,7 @@
   "link": "https://pipsc.ca/events/prairie-nwt-spring-basic-steward-training/",
   "title": "Prairie/NWT Spring Basic Steward Training – March 11 -13, 2027",
   "published": "2026-07-09T14:50:21",
-  "modified": "2026-07-16T17:50:21",
+  "modified": "2026-11-23T19:40:21",
   "taxonomies": {
    "region": [
     507
@@ -114425,21 +114425,21 @@
   },
   "startDate": "2027-03-11",
   "endDate": "2027-03-13",
-  "startTime": "16:00",
-  "endTime": "19:00",
+  "startTime": "10:00",
+  "endTime": "13:00",
   "tzLabel": "MT",
-  "raw": "March 11, 2027 - March 13, 2027 | 4:00 PM - 7:00 PM (MT)",
+  "raw": "March 11, 2027 - March 13, 2027 | 10:00 AM - 1:00 PM (MT)",
   "location": [
    "Delta Edmonton Centre Suite Hotel - Downtown",
    "10222 102 Street NW",
    "Edmonton"
   ],
-  "description": "Event contact: None None Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be deducte",
+  "description": "Event contact: Leslie Fiorino Local Members Please click on the link within the email invitation sent by the staff resource to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. For more information on how to use Concur Expense, view the Concur Expense FAQs and how-to guides. Out-of-Town Members Please click on the link within the email invitation that was sent by the staff resource and complete the event registration form to confirm whether or not you will be attending. Please advise the staff resource if you have any special requests in your event registration form. If you require a cash advance, please submit a request through Concur Expense. To book your flight please click on the ‘Go to Concur’ link that is shown after you complete the event registration form. * For train tickets only, call BCD at 1-866-768-7624 and indicate the meeting name, dates and location. For more information on Concur Travel, view the Concur Travel FAQs and training guides. For more information on Concur Expense, view the Concur Expense FAQs and how-to guides. Important Information All claims for expenses should be submitted for reimbursement through Concur Expense within 90 days after the date the expenses were incurred. If the claim is not received within this timeframe, 10% of the adjusted approved amount claimed will be de",
   "links": {
    "Prairie/Northwest Territories Region": "https://pipsc.ca/region/prairie-northwest-territories-region-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/formation-de-base-printaniere-des-delegue%c2%b7es-syndicaux-des-prairies-et-des-t-n-o-2/",
-  "scrapedAt": "2026-07-16T18:19:54.314Z"
+  "scrapedAt": "2026-11-24T03:19:35.356Z"
  },
  "81632": {
   "id": 81632,
@@ -123592,6 +123592,37 @@
   "frLink": "https://pipsc.ca/fr/events/aga-2026-de-la-section-du-nord-du-manitoba/",
   "scrapedAt": "2026-11-10T22:22:25.625Z"
  },
+ "89984": {
+  "id": 89984,
+  "slug": "cp-gatineau-sub-group-annual-general-meeting-agm-and-holiday-social",
+  "link": "https://pipsc.ca/events/cp-gatineau-sub-group-annual-general-meeting-agm-and-holiday-social/",
+  "title": "CP Gatineau Sub-Group Annual General Meeting (AGM) and Holiday Social",
+  "published": "2026-11-23T16:23:24",
+  "modified": "2026-11-23T16:24:05",
+  "taxonomies": {
+   "region": [],
+   "group": [
+    256,
+    924
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-15",
+  "endDate": "2026-12-15",
+  "startTime": "17:00",
+  "endTime": "20:00",
+  "tzLabel": "ET",
+  "raw": "December 15, 2026 - December 15, 2026 | 5:00 PM - 8:00 PM (ET)",
+  "location": [],
+  "description": "Join us for an evening of holiday cheer, delicious food, and great company! When: Tuesday, December 15th, 2026, from 5:00 PM to 8:00 PMWhere: Braves du Coin, 8 Braves-du-Coin Street, Gatineau (Hull Sector) Enjoy: A complimentary holiday buffet dinner, wine and beverages Holiday door prize draws An opportunity to reconnect with fellow members This complimentary event is open to CP Gatineau Sub-Group members only. Please RSVP here by November 30, 2026.For questions, contact peter_gabriel@pipsc.ca. We look forward to celebrating with you!",
+  "links": {
+   "Commerce & Purchasing Group": "https://pipsc.ca/group/commerce-purchasing-group-en/",
+   "Gatineau, NCR": "https://pipsc.ca/group/cp-gatineau-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/assemblee-generale-annuelle-aga-et-soiree-des-fetes-du-sous-groupe-cp-de-gatineau/",
+  "scrapedAt": "2026-11-24T03:19:39.215Z"
+ },
  "89986": {
   "id": 89986,
   "slug": "dnd-branch-executive-retirement-planning-seminar-december-2026",
@@ -124719,6 +124750,38 @@
   "frLink": "https://pipsc.ca/fr/events/aga-2026-du-sous-groupe-ti-vancouver/",
   "scrapedAt": "2026-11-21T22:11:00.874Z"
  },
+ "90270": {
+  "id": 90270,
+  "slug": "join-our-rally-against-bill-c-39",
+  "link": "https://pipsc.ca/events/join-our-rally-against-bill-c-39/",
+  "title": "Join our rally against Bill C-39",
+  "published": "2026-11-23T17:56:43",
+  "modified": "2026-11-23T17:56:45",
+  "taxonomies": {
+   "region": [
+    92
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-11-27",
+  "endDate": "2026-11-27",
+  "startTime": "12:15",
+  "endTime": "13:00",
+  "tzLabel": "ET",
+  "raw": "November 27, 2026 - November 27, 2026 | 12:15 PM - 1:00 PM (ET)",
+  "location": [
+   "Parliament Hill",
+   "Wellington Street"
+  ],
+  "description": "Bill C-39 would make it easier for the federal government to override independent scientific and professional judgment in favour of political timelines and economic priorities. This bill is just part of the government’s broader attack on the public service.Join PIPSC members on Parliament Hill to stand up for scientific experts, protect our critical systems, and push back against Bill C-39.When: Friday, November 27, 2026, at 12:15 PM ETWhere: Parliament Hill, Wellington Street, OttawaThe rally will coincide with PIPSC’s Annual General Meeting in Ottawa, bringing hundreds of members from across the country together. This is an opportunity to show our solidarity and demonstrate the strength of our collective voice.REGISTER HEREIf you have any questions, please email bettertogether@pipsc.ca.",
+  "links": {
+   "National Capital Region (including foreign)": "https://pipsc.ca/region/national-capital-region-including-foreign-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/joignez-vous-a-notre-rassemblement-contre-le-projet-de-loi-c-39/",
+  "scrapedAt": "2026-11-24T03:19:38.437Z"
+ },
  "90276": {
   "id": 90276,
   "slug": "bcfnha-executive-committee-meeting-mar-8-27-in-person",
@@ -124853,7 +124916,7 @@
   "link": "https://pipsc.ca/events/sp-bargaining-prep-10/",
   "title": "SP Bargaining Prep",
   "published": "2026-11-20T12:57:21",
-  "modified": "2026-11-20T13:05:26",
+  "modified": "2026-11-23T21:20:24",
   "taxonomies": {
    "region": [],
    "group": [
@@ -124877,7 +124940,7 @@
    "Applied Science and Patent Examination Group": "https://pipsc.ca/group/applied-science-and-patent-examination-group-en/"
   },
   "frLink": "https://pipsc.ca/fr/events/preparation-aux-negociations-du-groupe-sp-3/",
-  "scrapedAt": "2026-11-20T14:01:16.831Z"
+  "scrapedAt": "2026-11-24T03:19:33.714Z"
  },
  "90408": {
   "id": 90408,
@@ -124910,5 +124973,74 @@
   },
   "frLink": "https://pipsc.ca/fr/events/soiree-de-la-veille-du-nouvel-an-des-jeunes-professionnel%c2%b7les-de-lipfpc-match-des-moose-du-manitoba/",
   "scrapedAt": "2026-11-23T15:59:00.392Z"
+ },
+ "90412": {
+  "id": 90412,
+  "slug": "ottawa-west-branch-movie-event",
+  "link": "https://pipsc.ca/events/ottawa-west-branch-movie-event/",
+  "title": "Ottawa West Branch Movie Event!",
+  "published": "2026-11-23T18:23:19",
+  "modified": "2026-11-23T18:25:17",
+  "taxonomies": {
+   "region": [
+    92,
+    436
+   ],
+   "group": [],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-19",
+  "endDate": "2026-12-19",
+  "startTime": "09:00",
+  "endTime": "12:00",
+  "tzLabel": "ET",
+  "raw": "December 19, 2026 - December 19, 2026 | 9:00 AM - 12:00 PM (ET)",
+  "location": [],
+  "description": "Movie – Avengers: Doomsday | The Return – Saturday, December 19, 2026 The Ottawa West Branch proudly invites you, an Ottawa West Branch member, and one guest to join us for the movie. One additional guest is allowed during registration, but you will be responsible for their cost. Preference is given to families. All regular and retired OWB members are encouraged to attend. As this will be a crowd puller, please register only if you are certain, you and your guest can attend. When: Saturday, December 19, 2026, registration at 9:00 am. Where: Landmark Cinema – 801 Kanata Ave, Ottawa, ON K2T 1E7 Your “work address” is what PIPSC has on record and hence you are on our membership list as an Ottawa West Branch member. Kindly register soon, you will be notified by 14 December 2026 or earlier. Registration: Register here Note: If your guest is between 3 -13 years of age, please stipulate this in the form so that PIPSC OWB is charged accordingly. 14 years and above is considered an adult ticket. We will be accepting non-perishable food donations and cash donations for the Ottawa Food Bank at the event. In Solidarity, Ottawa West Branch Executives – owb@pipsc.ca",
+  "links": {
+   "National Capital Region (including foreign)": "https://pipsc.ca/region/national-capital-region-including-foreign-en/",
+   "Ottawa West, NCR": "https://pipsc.ca/region/ncr-ottawa-west-ncr-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/projection-cinematographique-succursale-dottawa-ouest/",
+  "scrapedAt": "2026-11-24T03:19:37.664Z"
+ },
+ "90482": {
+  "id": 90482,
+  "slug": "invitation-morning-movie-screening",
+  "link": "https://pipsc.ca/events/invitation-morning-movie-screening/",
+  "title": "INVITATION: MORNING MOVIE SCREENING",
+  "published": "2026-11-23T19:26:06",
+  "modified": "2026-11-23T19:26:08",
+  "taxonomies": {
+   "region": [
+    459
+   ],
+   "group": [
+    194,
+    1054
+   ],
+   "employer": [],
+   "chapter": []
+  },
+  "startDate": "2026-12-12",
+  "endDate": "2026-12-12",
+  "startTime": "12:00",
+  "endTime": "10:00",
+  "tzLabel": "ET",
+  "raw": "December 12, 2026 - December 12, 2026 | 12:00 PM - 10:00 AM (ET)",
+  "location": [
+   "Cinéma Le Clap Loretteville",
+   "10885 de l'Orimière Boulevard",
+   "Québec, Québec"
+  ],
+  "description": "December 12, 2026 NR Ville de Québec Sub-Group Dear colleagues,The NR Ville de Québec Sub-Group is pleased to invite you and your family to a morning movie screening: Movie: Hexed Date: Saturday, December 12, 2026, from 10:00 a.m. to 12:00 p.m. (members are welcome to join us at 9:30 a.m.) Location: Cinéma Le Clap Loretteville (10885 de l’Ormière Boulevard, Quebec City, QC) This activity is covered by the subgroup. Tickets are free and include popcorn and small juice drinks on site. Since space is limited, spots will be filled on a first-come, first-served basis.Book your tickets now: https://lepointdevente.com/billets/k17261212001If you have any questions, please email us at sgnrvq@pipsc.ca.We look forward to seeing you there!Your NR Ville de Québec Sub-Group Executive Committee Patrick Lacoursière, President Jean-Luc Bédard, Treasurer Jessika Poirier, Secretary Robert Durocher, Executive Member Samuel Bruneau-Dubuc, Executive Member Mohamed Ali Cissé, Executive Member Jessica Pageau, Executive Member Giles McClintock, Executive Member",
+  "links": {
+   "Engineering, Architecture and Land Survey Group": "https://pipsc.ca/group/engineering-architecture-and-land-survey-group-en/",
+   "Ville de Québec, QC": "https://pipsc.ca/group/nr-ville-de-quebec-qc-en/",
+   "Québec Region": "https://pipsc.ca/region/quebec-region-en/"
+  },
+  "frLink": "https://pipsc.ca/fr/events/invitation-matinee-cinema/",
+  "scrapedAt": "2026-11-24T03:19:36.128Z"
  }
 }
